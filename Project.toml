@@ -1,0 +1,6 @@
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+GAP = "c863536a-3901-11e9-33e7-d5cd0df7b904"
+Hecke = "3e1990a7-5d81-5526-99ce-9ba3ff248f21"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+Tryparse = "7b412df5-33c1-4334-b65f-95ccdd546b1c"
