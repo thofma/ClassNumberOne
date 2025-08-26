@@ -43,34 +43,37 @@ function main()
     error("output file already exists")
   end
 
-  if isfile(first_layer_filename)
-    @info "File for first layer exists; loading ..."
-    DB1 = read(first_layer_filename, Hecke.NFDB)
-  else
-    @info "File for first layer does not exist; computing ..."
-    firstlayerdeg = prod(first_layer)
-    rdeg = divexact(d, firstlayerdeg)
-    B = abs_bound_layer(1)
-    @info "Discriminant bound: $B"
-    l = abelian_extensions(QQ, first_layer, B)
-    res = eltype(Hecke.NFDB{1})[]
-    @info "Computing simplified defining polynomials for fields and sieving bad CM-fields"
-    for (i, x) in enumerate(l)
-      @info "$(i)/$(length(l))"
-      K, = absolute_simple_field(number_field(x); simplify = true)
-      Ks, = simplify(K)
-      dd = discriminant(maximal_order(Ks))
-      if discard(Ks)
-        continue
+  local DB1
+
+  B = abs_bound_layer(1)
+
+  FileWatching.mkpidlock(first_layer_filename * ".pid") do
+    if isfile(first_layer_filename)
+      @info "File for first layer exists $(first_layer), $(B); loading ..."
+      DB1 = read(first_layer_filename, Hecke.NFDB)
+    else
+      @info "File for first layer does not exist; computing $(first_layer)..."
+      firstlayerdeg = prod(first_layer)
+      rdeg = divexact(d, firstlayerdeg)
+      @info "Discriminant bound: $B"
+      l = abelian_extensions(QQ, first_layer, B)
+      res = eltype(Hecke.NFDB{1})[]
+      @info "Computing simplified defining polynomials for fields and sieving bad CM-fields"
+      for (i, x) in enumerate(l)
+        @info "$(i)/$(length(l))"
+        K, = absolute_simple_field(number_field(x); simplify = true)
+        Ks, = simplify(K)
+        dd = discriminant(maximal_order(Ks))
+        if discard(Ks)
+          continue
+        end
+        r = Hecke._create_record(Ks)
+        r[:discriminant] = dd
+        push!(res, r)
       end
-      r = Hecke._create_record(Ks)
-      r[:discriminant] = dd
-      push!(res, r)
-    end
-    DB1 = Hecke.NFDB(res)
-    title = "abelian_extension(QQ, $(first_layer), $(B)"
-    Hecke.add_meta!(DB1, :title => title)
-    FileWatching.mkpidlock(first_layer_filename * ".pid") do
+      DB1 = Hecke.NFDB(res)
+      title = "abelian_extension(QQ, $(first_layer), $(B)"
+      Hecke.add_meta!(DB1, :title => title)
       open(first_layer_filename, "w") do io
         Base.write(io, DB1)
       end
