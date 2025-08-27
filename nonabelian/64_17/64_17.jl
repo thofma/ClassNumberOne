@@ -94,11 +94,11 @@ function main()
     #p1 = Progress(length(DB1), 0, "Constructing layer $i"; offset = 1)
     for (ii, K) in enumerate(current)
       #next!(p1)
-      #@info "Constructing layer $i from field $(defining_polynomial(K)) $(ii)/$(length(current))"
+      @info pref * "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), constructing abelian extensions"
       local B = abs_bound_layer(i)
       local l = abelian_normal_extensions(K, elementary_divisors_chain[i], B; only_complex = i == dlength - 1)
       #p2 = Progress(length(l), 0, "Sieving extensions"; offset = 2)
-      @info pref * "Processing fields in layer $i/$(dlength - 1): $(length(l)) many"
+      @info pref * "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), checking fields: $(length(l))"
       for (j, L) in enumerate(l)
         #next!(p2)
         @info pref * "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), $j/$(length(l))"
