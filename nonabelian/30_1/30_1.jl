@@ -25,6 +25,7 @@ function main()
   d = 30
   dlength = 3
   out = "30_1"
+  pref = out * ": "
 
   R = ArbField(1000)
 
@@ -49,18 +50,18 @@ function main()
 
   FileWatching.mkpidlock(first_layer_filename * ".pid") do
     if isfile(first_layer_filename)
-      @info "File for first layer exists $(first_layer), $(B); loading ..."
+      @info pref * "File for first layer exists $(first_layer), $(B); loading ..."
       DB1 = read(first_layer_filename, Hecke.NFDB)
     else
-      @info "File for first layer does not exist; computing $(first_layer)..."
+      @info pref * "File for first layer does not exist; computing $(first_layer)..."
       firstlayerdeg = prod(first_layer)
       rdeg = divexact(d, firstlayerdeg)
-      @info "Discriminant bound: $B"
+      @info pref * "Discriminant bound: $B"
       l = abelian_extensions(QQ, first_layer, B)
       res = eltype(Hecke.NFDB{1})[]
-      @info "Computing simplified defining polynomials for fields and sieving bad CM-fields"
+      @info pref * "Computing simplified defining polynomials for fields and sieving bad CM-fields"
       for (i, x) in enumerate(l)
-        @info "$(i)/$(length(l))"
+        @info pref * "$(i)/$(length(l))"
         K, = absolute_simple_field(number_field(x); simplify = true)
         Ks, = simplify(K)
         dd = discriminant(maximal_order(Ks))
@@ -97,10 +98,10 @@ function main()
       local B = abs_bound_layer(i)
       local l = abelian_normal_extensions(K, elementary_divisors_chain[i], B; only_complex = i == dlength - 1)
       #p2 = Progress(length(l), 0, "Sieving extensions"; offset = 2)
-      @info "Processing fields in layer $i/$(dlength - 1)"
+      @info pref * "Processing fields in layer $i/$(dlength - 1): $(length(l)) many"
       for (j, L) in enumerate(l)
         #next!(p2)
-        @info "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), $j/$(length(l))"
+        @info pref * "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), $j/$(length(l))"
         Labs, = absolute_simple_field(number_field(L; using_norm_relation = true); simplify = true)
         if !is_normal(Labs)
           continue
