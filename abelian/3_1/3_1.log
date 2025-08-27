@@ -1,0 +1,27 @@
+[ Info: ZZRingElem[3]: constructing extensions
+ERROR: LoadError: MethodError: no method matching abelian_extensions(::Vector{ZZRingElem}, ::Vector{Int64})
+The function `abelian_extensions` exists, but no method is defined for this combination of argument types.
+
+Closest candidates are:
+  abelian_extensions(!Matched::Vector{Int64}, ::Vector{Int64}; only_real)
+   @ Hecke ~/software/Hecke.jl/src/FieldFactory/ab_exts.jl:21
+  abelian_extensions(!Matched::Vector{Int64}, ::Vector{Int64}, !Matched::ZZRingElem; only_real)
+   @ Hecke ~/software/Hecke.jl/src/FieldFactory/ab_exts.jl:54
+  abelian_extensions(!Matched::AbsSimpleNumFieldOrder, ::Vector{Int64}, !Matched::ZZRingElem; only_real, only_complex, tame)
+   @ Hecke ~/software/Hecke.jl/src/FieldFactory/ab_exts.jl:87
+  ...
+
+Stacktrace:
+ [1] main()
+   @ Main ~/sciebo/obsidian/Projects/Paper/2020 - Class number one/Public/abelian/3_1/3_1.jl:15
+ [2] macro expansion
+   @ ./timing.jl:645 [inlined]
+ [3] top-level scope
+   @ ~/sciebo/obsidian/Projects/Paper/2020 - Class number one/Public/abelian/3_1/3_1.jl:353
+ [4] include(mod::Module, _path::String)
+   @ Base ./Base.jl:303
+ [5] exec_options(opts::Base.JLOptions)
+   @ Base ./client.jl:321
+ [6] _start()
+   @ Base ./client.jl:554
+in expression starting at /Users/thofma/sciebo/obsidian/Projects/Paper/2020 - Class number one/Public/abelian/3_1/3_1.jl:48
