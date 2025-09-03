@@ -69,6 +69,22 @@ function main()
 
   res = Hecke.NFDBRecord{1}[]
 
+  if length(elementary_divisors_chain) == 1
+    for L in next 
+      push!(res, Hecke._create_record(L))
+    end
+    nfdb = Hecke.NFDB(res)
+    open(joinpath(@__DIR__, out * ".nfdb"), "w") do io
+      Base.write(io, nfdb)
+    end
+    open(joinpath(@__DIR__, out* ".result"), "w") do io
+      for K in nfdb
+        println(io, collect(coefficients(defining_polynomial(Hecke.field(K; cached = false)))))
+      end
+    end
+    return
+  end
+
   for i in 2:length(elementary_divisors_chain)
     empty!(current)
     append!(current, next)
@@ -95,7 +111,6 @@ function main()
           continue
         end
         if i == dlength - 1 # last step
-          h = order(Hecke.class_group(lll(maximal_order(Labs)))[1])
           r = Hecke._create_record(Labs)
           push!(res, r)
         else
