@@ -1,0 +1,7 @@
+[ Info: 48_51: File for first layer does not exist; computing [2, 2, 2, 2]...
+[ Info: 48_51: Discriminant bound: 2154434690031883721786785792
+[ Info: 48_51: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 48_51: 1/1
+[ Info: 48_51: layer 2/2, base field no. 1/1, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 1/1, checking fields: 0
+ 12.992491 seconds (20.99 M allocations: 1.038 GiB, 4.70% gc time, 87.71% compilation time: 2% of which was recompilation)

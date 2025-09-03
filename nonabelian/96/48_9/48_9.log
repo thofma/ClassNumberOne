@@ -1,0 +1,18 @@
+[ Info: 48_9: File for first layer exists [2, 8], 2154434690031883721786785792; loading ...
+[ Info: 48_9: layer 2/2, base field no. 1/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 1/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 2/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 2/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 3/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 3/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 4/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 4/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 5/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 5/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 6/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 6/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 7/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 7/8, checking fields: 0
+[ Info: 48_9: layer 2/2, base field no. 8/8, constructing abelian extensions
+[ Info: 48_9: layer 2/2, base field no. 8/8, checking fields: 0
+ 10.127166 seconds (22.50 M allocations: 1.416 GiB, 11.10% gc time, 54.85% compilation time: 5% of which was recompilation)

@@ -1,0 +1,823 @@
+[ Info: 48_32: File for first layer does not exist; computing [6]...
+[ Info: 48_32: Discriminant bound: 17782794101
+[ Info: 48_32: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 48_32: 1/241
+[ Info: 48_32: 2/241
+[ Info: 48_32: 3/241
+[ Info: 48_32: 4/241
+[ Info: 48_32: 5/241
+[ Info: 48_32: 6/241
+[ Info: 48_32: 7/241
+[ Info: 48_32: 8/241
+[ Info: 48_32: 9/241
+[ Info: 48_32: 10/241
+[ Info: 48_32: 11/241
+[ Info: 48_32: 12/241
+[ Info: 48_32: 13/241
+[ Info: 48_32: 14/241
+[ Info: 48_32: 15/241
+[ Info: 48_32: 16/241
+[ Info: 48_32: 17/241
+[ Info: 48_32: 18/241
+[ Info: 48_32: 19/241
+[ Info: 48_32: 20/241
+[ Info: 48_32: 21/241
+[ Info: 48_32: 22/241
+[ Info: 48_32: 23/241
+[ Info: 48_32: 24/241
+[ Info: 48_32: 25/241
+[ Info: 48_32: 26/241
+[ Info: 48_32: 27/241
+[ Info: 48_32: 28/241
+[ Info: 48_32: 29/241
+[ Info: 48_32: 30/241
+[ Info: 48_32: 31/241
+[ Info: 48_32: 32/241
+[ Info: 48_32: 33/241
+[ Info: 48_32: 34/241
+[ Info: 48_32: 35/241
+[ Info: 48_32: 36/241
+[ Info: 48_32: 37/241
+[ Info: 48_32: 38/241
+[ Info: 48_32: 39/241
+[ Info: 48_32: 40/241
+[ Info: 48_32: 41/241
+[ Info: 48_32: 42/241
+[ Info: 48_32: 43/241
+[ Info: 48_32: 44/241
+[ Info: 48_32: 45/241
+[ Info: 48_32: 46/241
+[ Info: 48_32: 47/241
+[ Info: 48_32: 48/241
+[ Info: 48_32: 49/241
+[ Info: 48_32: 50/241
+[ Info: 48_32: 51/241
+[ Info: 48_32: 52/241
+[ Info: 48_32: 53/241
+[ Info: 48_32: 54/241
+[ Info: 48_32: 55/241
+[ Info: 48_32: 56/241
+[ Info: 48_32: 57/241
+[ Info: 48_32: 58/241
+[ Info: 48_32: 59/241
+[ Info: 48_32: 60/241
+[ Info: 48_32: 61/241
+[ Info: 48_32: 62/241
+[ Info: 48_32: 63/241
+[ Info: 48_32: 64/241
+[ Info: 48_32: 65/241
+[ Info: 48_32: 66/241
+[ Info: 48_32: 67/241
+[ Info: 48_32: 68/241
+[ Info: 48_32: 69/241
+[ Info: 48_32: 70/241
+[ Info: 48_32: 71/241
+[ Info: 48_32: 72/241
+[ Info: 48_32: 73/241
+[ Info: 48_32: 74/241
+[ Info: 48_32: 75/241
+[ Info: 48_32: 76/241
+[ Info: 48_32: 77/241
+[ Info: 48_32: 78/241
+[ Info: 48_32: 79/241
+[ Info: 48_32: 80/241
+[ Info: 48_32: 81/241
+[ Info: 48_32: 82/241
+[ Info: 48_32: 83/241
+[ Info: 48_32: 84/241
+[ Info: 48_32: 85/241
+[ Info: 48_32: 86/241
+[ Info: 48_32: 87/241
+[ Info: 48_32: 88/241
+[ Info: 48_32: 89/241
+[ Info: 48_32: 90/241
+[ Info: 48_32: 91/241
+[ Info: 48_32: 92/241
+[ Info: 48_32: 93/241
+[ Info: 48_32: 94/241
+[ Info: 48_32: 95/241
+[ Info: 48_32: 96/241
+[ Info: 48_32: 97/241
+[ Info: 48_32: 98/241
+[ Info: 48_32: 99/241
+[ Info: 48_32: 100/241
+[ Info: 48_32: 101/241
+[ Info: 48_32: 102/241
+[ Info: 48_32: 103/241
+[ Info: 48_32: 104/241
+[ Info: 48_32: 105/241
+[ Info: 48_32: 106/241
+[ Info: 48_32: 107/241
+[ Info: 48_32: 108/241
+[ Info: 48_32: 109/241
+[ Info: 48_32: 110/241
+[ Info: 48_32: 111/241
+[ Info: 48_32: 112/241
+[ Info: 48_32: 113/241
+[ Info: 48_32: 114/241
+[ Info: 48_32: 115/241
+[ Info: 48_32: 116/241
+[ Info: 48_32: 117/241
+[ Info: 48_32: 118/241
+[ Info: 48_32: 119/241
+[ Info: 48_32: 120/241
+[ Info: 48_32: 121/241
+[ Info: 48_32: 122/241
+[ Info: 48_32: 123/241
+[ Info: 48_32: 124/241
+[ Info: 48_32: 125/241
+[ Info: 48_32: 126/241
+[ Info: 48_32: 127/241
+[ Info: 48_32: 128/241
+[ Info: 48_32: 129/241
+[ Info: 48_32: 130/241
+[ Info: 48_32: 131/241
+[ Info: 48_32: 132/241
+[ Info: 48_32: 133/241
+[ Info: 48_32: 134/241
+[ Info: 48_32: 135/241
+[ Info: 48_32: 136/241
+[ Info: 48_32: 137/241
+[ Info: 48_32: 138/241
+[ Info: 48_32: 139/241
+[ Info: 48_32: 140/241
+[ Info: 48_32: 141/241
+[ Info: 48_32: 142/241
+[ Info: 48_32: 143/241
+[ Info: 48_32: 144/241
+[ Info: 48_32: 145/241
+[ Info: 48_32: 146/241
+[ Info: 48_32: 147/241
+[ Info: 48_32: 148/241
+[ Info: 48_32: 149/241
+[ Info: 48_32: 150/241
+[ Info: 48_32: 151/241
+[ Info: 48_32: 152/241
+[ Info: 48_32: 153/241
+[ Info: 48_32: 154/241
+[ Info: 48_32: 155/241
+[ Info: 48_32: 156/241
+[ Info: 48_32: 157/241
+[ Info: 48_32: 158/241
+[ Info: 48_32: 159/241
+[ Info: 48_32: 160/241
+[ Info: 48_32: 161/241
+[ Info: 48_32: 162/241
+[ Info: 48_32: 163/241
+[ Info: 48_32: 164/241
+[ Info: 48_32: 165/241
+[ Info: 48_32: 166/241
+[ Info: 48_32: 167/241
+[ Info: 48_32: 168/241
+[ Info: 48_32: 169/241
+[ Info: 48_32: 170/241
+[ Info: 48_32: 171/241
+[ Info: 48_32: 172/241
+[ Info: 48_32: 173/241
+[ Info: 48_32: 174/241
+[ Info: 48_32: 175/241
+[ Info: 48_32: 176/241
+[ Info: 48_32: 177/241
+[ Info: 48_32: 178/241
+[ Info: 48_32: 179/241
+[ Info: 48_32: 180/241
+[ Info: 48_32: 181/241
+[ Info: 48_32: 182/241
+[ Info: 48_32: 183/241
+[ Info: 48_32: 184/241
+[ Info: 48_32: 185/241
+[ Info: 48_32: 186/241
+[ Info: 48_32: 187/241
+[ Info: 48_32: 188/241
+[ Info: 48_32: 189/241
+[ Info: 48_32: 190/241
+[ Info: 48_32: 191/241
+[ Info: 48_32: 192/241
+[ Info: 48_32: 193/241
+[ Info: 48_32: 194/241
+[ Info: 48_32: 195/241
+[ Info: 48_32: 196/241
+[ Info: 48_32: 197/241
+[ Info: 48_32: 198/241
+[ Info: 48_32: 199/241
+[ Info: 48_32: 200/241
+[ Info: 48_32: 201/241
+[ Info: 48_32: 202/241
+[ Info: 48_32: 203/241
+[ Info: 48_32: 204/241
+[ Info: 48_32: 205/241
+[ Info: 48_32: 206/241
+[ Info: 48_32: 207/241
+[ Info: 48_32: 208/241
+[ Info: 48_32: 209/241
+[ Info: 48_32: 210/241
+[ Info: 48_32: 211/241
+[ Info: 48_32: 212/241
+[ Info: 48_32: 213/241
+[ Info: 48_32: 214/241
+[ Info: 48_32: 215/241
+[ Info: 48_32: 216/241
+[ Info: 48_32: 217/241
+[ Info: 48_32: 218/241
+[ Info: 48_32: 219/241
+[ Info: 48_32: 220/241
+[ Info: 48_32: 221/241
+[ Info: 48_32: 222/241
+[ Info: 48_32: 223/241
+[ Info: 48_32: 224/241
+[ Info: 48_32: 225/241
+[ Info: 48_32: 226/241
+[ Info: 48_32: 227/241
+[ Info: 48_32: 228/241
+[ Info: 48_32: 229/241
+[ Info: 48_32: 230/241
+[ Info: 48_32: 231/241
+[ Info: 48_32: 232/241
+[ Info: 48_32: 233/241
+[ Info: 48_32: 234/241
+[ Info: 48_32: 235/241
+[ Info: 48_32: 236/241
+[ Info: 48_32: 237/241
+[ Info: 48_32: 238/241
+[ Info: 48_32: 239/241
+[ Info: 48_32: 240/241
+[ Info: 48_32: 241/241
+[ Info: 48_32: layer 2/3, base field no. 1/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 1/241, checking fields: 5
+[ Info: 48_32: layer 2/3, base field no. 1/241, 1/5
+[ Info: 48_32: layer 2/3, base field no. 1/241, 2/5
+[ Info: 48_32: layer 2/3, base field no. 1/241, 3/5
+[ Info: 48_32: layer 2/3, base field no. 1/241, 4/5
+[ Info: 48_32: layer 2/3, base field no. 1/241, 5/5
+[ Info: 48_32: layer 2/3, base field no. 2/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 2/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 2/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 3/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 3/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 3/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 4/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 4/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 4/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 5/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 5/241, checking fields: 6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 1/6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 2/6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 3/6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 4/6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 5/6
+[ Info: 48_32: layer 2/3, base field no. 5/241, 6/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 6/241, checking fields: 6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 1/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 2/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 3/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 4/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 5/6
+[ Info: 48_32: layer 2/3, base field no. 6/241, 6/6
+[ Info: 48_32: layer 2/3, base field no. 7/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 7/241, checking fields: 3
+[ Info: 48_32: layer 2/3, base field no. 7/241, 1/3
+[ Info: 48_32: layer 2/3, base field no. 7/241, 2/3
+[ Info: 48_32: layer 2/3, base field no. 7/241, 3/3
+[ Info: 48_32: layer 2/3, base field no. 8/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 8/241, checking fields: 5
+[ Info: 48_32: layer 2/3, base field no. 8/241, 1/5
+[ Info: 48_32: layer 2/3, base field no. 8/241, 2/5
+[ Info: 48_32: layer 2/3, base field no. 8/241, 3/5
+[ Info: 48_32: layer 2/3, base field no. 8/241, 4/5
+[ Info: 48_32: layer 2/3, base field no. 8/241, 5/5
+[ Info: 48_32: layer 2/3, base field no. 9/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 9/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 9/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 9/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 10/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 10/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 10/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 11/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 11/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 11/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 12/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 12/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 13/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 13/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 14/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 14/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 15/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 15/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 16/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 16/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 17/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 17/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 18/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 18/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 19/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 19/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 20/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 20/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 21/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 21/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 22/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 22/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 23/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 23/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 24/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 24/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 24/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 25/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 25/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 26/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 26/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 27/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 27/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 28/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 28/241, checking fields: 7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 1/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 2/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 3/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 4/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 5/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 6/7
+[ Info: 48_32: layer 2/3, base field no. 28/241, 7/7
+[ Info: 48_32: layer 2/3, base field no. 29/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 29/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 30/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 30/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 31/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 31/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 31/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 32/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 32/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 33/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 33/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 34/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 34/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 35/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 35/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 36/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 36/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 37/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 37/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 38/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 38/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 39/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 39/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 40/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 40/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 40/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 41/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 41/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 42/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 42/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 43/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 43/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 44/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 44/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 45/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 45/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 46/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 46/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 47/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 47/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 48/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 48/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 49/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 49/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 50/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 50/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 51/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 51/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 52/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 52/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 53/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 53/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 54/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 54/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 55/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 55/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 55/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 56/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 56/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 56/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 57/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 57/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 58/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 58/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 59/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 59/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 59/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 60/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 60/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 61/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 61/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 62/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 62/241, checking fields: 9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 1/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 2/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 3/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 4/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 5/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 6/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 7/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 8/9
+[ Info: 48_32: layer 2/3, base field no. 62/241, 9/9
+[ Info: 48_32: layer 2/3, base field no. 63/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 63/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 63/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 63/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 64/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 64/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 64/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 65/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 65/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 65/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 66/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 66/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 66/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 66/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 67/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 67/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 67/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 68/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 68/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 69/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 69/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 70/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 70/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 71/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 71/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 72/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 72/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 73/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 73/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 74/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 74/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 75/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 75/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 76/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 76/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 77/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 77/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 78/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 78/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 78/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 79/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 79/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 80/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 80/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 81/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 81/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 82/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 82/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 83/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 83/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 84/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 84/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 85/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 85/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 86/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 86/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 87/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 87/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 87/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 87/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 88/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 88/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 88/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 89/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 89/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 90/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 90/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 91/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 91/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 92/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 92/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 93/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 93/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 94/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 94/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 95/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 95/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 96/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 96/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 97/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 97/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 98/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 98/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 99/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 99/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 100/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 100/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 101/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 101/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 102/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 102/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 103/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 103/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 104/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 104/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 105/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 105/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 105/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 106/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 106/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 107/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 107/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 108/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 108/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 109/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 109/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 110/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 110/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 111/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 111/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 112/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 112/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 113/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 113/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 114/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 114/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 115/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 115/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 116/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 116/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 117/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 117/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 118/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 118/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 119/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 119/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 120/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 120/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 121/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 121/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 122/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 122/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 123/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 123/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 124/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 124/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 125/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 125/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 126/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 126/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 127/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 127/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 128/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 128/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 129/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 129/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 130/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 130/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 131/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 131/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 132/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 132/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 133/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 133/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 134/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 134/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 135/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 135/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 136/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 136/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 137/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 137/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 138/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 138/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 139/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 139/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 140/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 140/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 141/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 141/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 142/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 142/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 143/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 143/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 144/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 144/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 145/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 145/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 146/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 146/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 147/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 147/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 148/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 148/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 149/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 149/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 150/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 150/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 150/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 151/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 151/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 152/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 152/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 153/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 153/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 154/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 154/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 155/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 155/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 156/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 156/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 157/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 157/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 158/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 158/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 159/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 159/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 160/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 160/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 161/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 161/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 162/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 162/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 162/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 163/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 163/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 164/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 164/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 165/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 165/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 166/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 166/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 167/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 167/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 168/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 168/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 169/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 169/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 170/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 170/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 171/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 171/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 172/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 172/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 173/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 173/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 174/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 174/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 175/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 175/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 176/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 176/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 177/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 177/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 178/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 178/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 179/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 179/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 180/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 180/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 181/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 181/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 182/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 182/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 183/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 183/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 184/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 184/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 185/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 185/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 186/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 186/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 187/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 187/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 188/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 188/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 189/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 189/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 190/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 190/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 191/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 191/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 192/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 192/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 193/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 193/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 194/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 194/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 195/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 195/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 196/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 196/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 197/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 197/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 198/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 198/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 199/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 199/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 200/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 200/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 201/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 201/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 202/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 202/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 203/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 203/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 204/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 204/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 205/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 205/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 206/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 206/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 207/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 207/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 208/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 208/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 209/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 209/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 210/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 210/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 211/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 211/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 212/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 212/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 213/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 213/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 214/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 214/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 215/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 215/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 216/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 216/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 217/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 217/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 218/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 218/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 219/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 219/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 220/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 220/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 221/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 221/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 222/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 222/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 223/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 223/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 224/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 224/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 225/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 225/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 226/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 226/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 227/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 227/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 228/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 228/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 228/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 229/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 229/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 230/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 230/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 231/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 231/241, checking fields: 3
+[ Info: 48_32: layer 2/3, base field no. 231/241, 1/3
+[ Info: 48_32: layer 2/3, base field no. 231/241, 2/3
+[ Info: 48_32: layer 2/3, base field no. 231/241, 3/3
+[ Info: 48_32: layer 2/3, base field no. 232/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 232/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 232/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 232/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 233/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 233/241, checking fields: 2
+[ Info: 48_32: layer 2/3, base field no. 233/241, 1/2
+[ Info: 48_32: layer 2/3, base field no. 233/241, 2/2
+[ Info: 48_32: layer 2/3, base field no. 234/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 234/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 235/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 235/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 236/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 236/241, checking fields: 1
+[ Info: 48_32: layer 2/3, base field no. 236/241, 1/1
+[ Info: 48_32: layer 2/3, base field no. 237/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 237/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 238/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 238/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 239/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 239/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 240/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 240/241, checking fields: 0
+[ Info: 48_32: layer 2/3, base field no. 241/241, constructing abelian extensions
+[ Info: 48_32: layer 2/3, base field no. 241/241, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 1/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 1/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 2/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 2/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 3/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 3/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 4/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 4/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 5/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 5/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 6/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 6/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 7/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 7/9, checking fields: 0
+[ Info: 48_32: layer 3/3, base field no. 8/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 8/9, checking fields: 1
+[ Info: 48_32: layer 3/3, base field no. 8/9, 1/1
+[ Info: 48_32: layer 3/3, base field no. 9/9, constructing abelian extensions
+[ Info: 48_32: layer 3/3, base field no. 9/9, checking fields: 0
+147.799559 seconds (654.73 M allocations: 38.783 GiB, 13.62% gc time, 11.73% compilation time: 1% of which was recompilation)

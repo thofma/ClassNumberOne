@@ -1,0 +1,38 @@
+Precompiling packages...
+    AbstractAlgebra Being precompiled by another process (pid: 2083521, pidfile: /home/links/th703/.julia/compiled/v1.12/AbstractAlgebra/b8V2b_17X49.ji.pidfile)
+    FLINT_jll Being precompiled by another process (pid: 2083521, pidfile: /home/links/th703/.julia/compiled/v1.12/FLINT_jll/M01Lh_17X49.ji.pidfile)
+  20094.9 ms  ✓ FLINT_jll
+  30490.8 ms  ✓ AbstractAlgebra
+    Nemo Being precompiled by another process (pid: 2083521, pidfile: /home/links/th703/.julia/compiled/v1.12/Nemo/SPUMD_17X49.ji.pidfile)
+  35287.2 ms  ✓ Nemo
+    Hecke Being precompiled by another process (pid: 2083521, pidfile: /home/links/th703/.julia/compiled/v1.12/Hecke/lhBAK_17X49.ji.pidfile)
+ 152970.7 ms  ✓ Hecke
+  4 dependencies successfully precompiled in 224 seconds. 37 already precompiled.
+[ Info: 48_1: File for first layer does not exist; computing [16]...
+[ Info: 48_1: Discriminant bound: 2154434690031883721786785792
+[ Info: 48_1: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 48_1: 1/8
+[ Info: 48_1: 2/8
+[ Info: 48_1: 3/8
+[ Info: 48_1: 4/8
+[ Info: 48_1: 5/8
+[ Info: 48_1: 6/8
+[ Info: 48_1: 7/8
+[ Info: 48_1: 8/8
+[ Info: 48_1: layer 2/2, base field no. 1/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 1/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 2/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 2/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 3/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 3/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 4/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 4/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 5/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 5/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 6/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 6/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 7/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 7/8, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 8/8, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 8/8, checking fields: 0
+ 26.926849 seconds (66.33 M allocations: 3.314 GiB, 12.60% gc time, 66.76% compilation time: 1% of which was recompilation)

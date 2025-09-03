@@ -1,0 +1,25 @@
+[ Info: 48_11: File for first layer does not exist; computing [4, 4]...
+[ Info: 48_11: Discriminant bound: 2154434690031883721786785792
+[ Info: 48_11: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 48_11: 1/7
+[ Info: 48_11: 2/7
+[ Info: 48_11: 3/7
+[ Info: 48_11: 4/7
+[ Info: 48_11: 5/7
+[ Info: 48_11: 6/7
+[ Info: 48_11: 7/7
+[ Info: 48_11: layer 2/2, base field no. 1/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 1/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 2/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 2/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 3/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 3/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 4/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 4/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 5/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 5/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 6/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 6/7, checking fields: 0
+[ Info: 48_11: layer 2/2, base field no. 7/7, constructing abelian extensions
+[ Info: 48_11: layer 2/2, base field no. 7/7, checking fields: 0
+ 25.340911 seconds (77.10 M allocations: 3.725 GiB, 12.05% gc time, 68.53% compilation time: 6% of which was recompilation)
