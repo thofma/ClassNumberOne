@@ -1,4 +1,0 @@
-[ Info: 48_20: File for first layer does not exist; computing [4, 12]...
-[ Info: 48_20: Discriminant bound: 10000000000000000000192729634854918590507786344284055152339093946898606096608395264
-[ Info: 48_20: Computing simplified defining polynomials for fields and sieving bad CM-fields
-  6.416887 seconds (6.37 M allocations: 313.150 MiB, 91.74% compilation time: 4% of which was recompilation)

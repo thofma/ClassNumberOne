@@ -22,9 +22,16 @@ function main()
 
   local DB1
 
+  @info filesize(first_layer_filename)
+
   FileWatching.mkpidlock(first_layer_filename * ".pid") do
     @info pref * "File for first layer exists; loading ..."
-    DB1 = read(first_layer_filename, Hecke.NFDB)
+    if filesize(first_layer_filename) == 0
+      @info "File is empty!"
+      DB1 = Hecke.NFDB(Hecke.NFDBRecord{1}[])
+    else
+      DB1 = read(first_layer_filename, Hecke.NFDB)
+    end
   end
 
   current = AbsSimpleNumField[Hecke.field(_K; cached = false) for _K in DB1]
@@ -53,14 +60,14 @@ function main()
       r[:discriminant] = discriminant(maximal_order(Labs))
       push!(res, r)
     end
-    nfdb = Hecke.NFDB(res)
-    open(joinpath(@__DIR__, out * ".nfdb"), "w") do io
-      Base.write(io, nfdb)
-    end
-    open(joinpath(@__DIR__, out* ".result"), "w") do io
-      for K in nfdb
-        println(io, collect(coefficients(defining_polynomial(Hecke.field(K; cached = false)))), ",", discriminant(K))
-      end
+  end
+  nfdb = Hecke.NFDB(res)
+  open(joinpath(@__DIR__, out * ".nfdb"), "w") do io
+    Base.write(io, nfdb)
+  end
+  open(joinpath(@__DIR__, out* ".result"), "w") do io
+    for K in nfdb
+      println(io, collect(coefficients(defining_polynomial(Hecke.field(K; cached = false)))), ",", discriminant(K))
     end
   end
 end
