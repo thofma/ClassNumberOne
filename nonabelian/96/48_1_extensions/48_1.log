@@ -1,30 +1,3 @@
-[ Info: 48_1: File for first layer exists; loading ...
-ERROR: LoadError: UndefVarError: `line` not defined in local scope
-Suggestion: check for an assignment to a local variable that shadows a global of the same name.
-Stacktrace:
-  [1] read(file::String, ::Type{Hecke.NFDB})
-    @ Hecke ~/.julia/packages/Hecke/7Cm7L/examples/NFDB.jl:893
-  [2] (::var"#main##0#main##1"{String, String})()
-    @ Main ~/repositories/ClassNumberOne/nonabelian/96/48_1_extensions/48_1.jl:27
-  [3] mkpidlock(f::var"#main##0#main##1"{String, String}, at::String, pid::Int32; kwopts::@Kwargs{})
-    @ FileWatching.Pidfile ~/.julia/juliaup/julia-1.12.0-rc1+0.x64.linux.gnu/share/julia/stdlib/v1.12/FileWatching/src/pidfile.jl:93
-  [4] mkpidlock
-    @ ~/.julia/juliaup/julia-1.12.0-rc1+0.x64.linux.gnu/share/julia/stdlib/v1.12/FileWatching/src/pidfile.jl:90 [inlined]
-  [5] mkpidlock
-    @ ~/.julia/juliaup/julia-1.12.0-rc1+0.x64.linux.gnu/share/julia/stdlib/v1.12/FileWatching/src/pidfile.jl:88 [inlined]
-  [6] main()
-    @ Main ~/repositories/ClassNumberOne/nonabelian/96/48_1_extensions/48_1.jl:25
-  [7] macro expansion
-    @ ./timing.jl:645 [inlined]
-  [8] top-level scope
-    @ ~/repositories/ClassNumberOne/nonabelian/96/48_1_extensions/48_1.jl:353
-  [9] include(mod::Module, _path::String)
-    @ Base ./Base.jl:303
- [10] exec_options(opts::Base.JLOptions)
-    @ Base ./client.jl:321
- [11] _start()
-    @ Base ./client.jl:554
-in expression starting at /home/links/th703/repositories/ClassNumberOne/nonabelian/96/48_1_extensions/48_1.jl:68
 [ Info: 0
 [ Info: 48_1: File for first layer exists; loading ...
 [ Info: File is empty!
