@@ -1,0 +1,5 @@
+[ Info: Subfield defined by x^8 - 3*x^7 + 8*x^6 - 71*x^5 + 275*x^4 - 466*x^3 + 648*x^2 - 608*x + 256
+[ Info: Is subfield of degree 96 field: true
+┌ Info: 
+└   !(Hecke.relative_class_number(k) in [1, 2, 4]) = true
+113.145633 seconds (10.19 M allocations: 2.296 GiB, 0.33% gc time, 2.41% compilation time: 6% of which was recompilation)

@@ -1,0 +1,5 @@
+[ Info: Subfield defined by x^2 - x + 92
+[ Info: Is subfield of degree 96 field: true
+┌ Info: 
+└   !(Hecke.relative_class_number(k) in [1, 2, 4]) = true
+203.948855 seconds (52.27 M allocations: 32.440 GiB, 0.12% gc time, 1.35% compilation time: 6% of which was recompilation)
