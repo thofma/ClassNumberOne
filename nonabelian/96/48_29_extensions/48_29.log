@@ -1,8 +1,0 @@
-[ Info: 2305
-[ Info: 48_29: File for first layer exists; loading ...
-[ Info: 48_29:  base field no. 1/2, constructing abelian extensions
-[ Info: 48_29:  base field no. 1/2, checking fields: 0
-[ Info: 48_29:  base field no. 2/2, constructing abelian extensions
-[ Info: 48_29:  base field no. 2/2, checking fields: 1
-[ Info: 48_29:  base field no. 2/2, 1/1, compute absolute field
-1630.594182 seconds (2.70 G allocations: 1.001 TiB, 4.55% gc time, 0.66% compilation time: 2% of which was recompilation)
