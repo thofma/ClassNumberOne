@@ -1,0 +1,891 @@
+[ Info: 32_22: File for first layer exists [2, 2, 4], 100000000000000000005905580032; loading ...
+[ Info: 32_22: layer 2/2, base field no. 1/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 1/92, checking fields: 45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 1/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 2/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 3/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 4/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 5/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 6/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 7/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 8/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 9/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 10/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 11/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 12/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 13/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 14/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 15/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 16/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 17/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 18/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 19/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 20/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 21/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 22/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 23/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 24/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 25/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 26/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 27/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 28/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 29/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 30/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 31/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 32/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 33/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 34/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 35/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 36/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 37/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 38/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 39/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 40/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 41/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 42/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 43/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 44/45
+[ Info: 32_22: layer 2/2, base field no. 1/92, 45/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 2/92, checking fields: 45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 1/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 2/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 3/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 4/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 5/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 6/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 7/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 8/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 9/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 10/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 11/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 12/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 13/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 14/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 15/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 16/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 17/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 18/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 19/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 20/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 21/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 22/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 23/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 24/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 25/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 26/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 27/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 28/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 29/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 30/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 31/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 32/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 33/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 34/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 35/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 36/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 37/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 38/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 39/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 40/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 41/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 42/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 43/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 44/45
+[ Info: 32_22: layer 2/2, base field no. 2/92, 45/45
+[ Info: 32_22: layer 2/2, base field no. 3/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 3/92, checking fields: 34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 1/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 2/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 3/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 4/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 5/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 6/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 7/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 8/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 9/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 10/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 11/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 12/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 13/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 14/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 15/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 16/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 17/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 18/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 19/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 20/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 21/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 22/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 23/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 24/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 25/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 26/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 27/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 28/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 29/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 30/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 31/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 32/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 33/34
+[ Info: 32_22: layer 2/2, base field no. 3/92, 34/34
+[ Info: 32_22: layer 2/2, base field no. 4/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 4/92, checking fields: 21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 1/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 2/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 3/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 4/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 5/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 6/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 7/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 8/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 9/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 10/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 11/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 12/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 13/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 14/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 15/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 16/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 17/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 18/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 19/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 20/21
+[ Info: 32_22: layer 2/2, base field no. 4/92, 21/21
+[ Info: 32_22: layer 2/2, base field no. 5/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 5/92, checking fields: 41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 1/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 2/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 3/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 4/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 5/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 6/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 7/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 8/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 9/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 10/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 11/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 12/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 13/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 14/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 15/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 16/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 17/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 18/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 19/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 20/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 21/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 22/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 23/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 24/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 25/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 26/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 27/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 28/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 29/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 30/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 31/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 32/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 33/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 34/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 35/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 36/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 37/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 38/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 39/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 40/41
+[ Info: 32_22: layer 2/2, base field no. 5/92, 41/41
+[ Info: 32_22: layer 2/2, base field no. 6/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 6/92, checking fields: 13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 1/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 2/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 3/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 4/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 5/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 6/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 7/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 8/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 9/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 10/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 11/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 12/13
+[ Info: 32_22: layer 2/2, base field no. 6/92, 13/13
+[ Info: 32_22: layer 2/2, base field no. 7/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 7/92, checking fields: 15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 1/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 2/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 3/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 4/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 5/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 6/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 7/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 8/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 9/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 10/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 11/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 12/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 13/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 14/15
+[ Info: 32_22: layer 2/2, base field no. 7/92, 15/15
+[ Info: 32_22: layer 2/2, base field no. 8/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 8/92, checking fields: 21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 1/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 2/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 3/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 4/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 5/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 6/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 7/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 8/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 9/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 10/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 11/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 12/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 13/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 14/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 15/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 16/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 17/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 18/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 19/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 20/21
+[ Info: 32_22: layer 2/2, base field no. 8/92, 21/21
+[ Info: 32_22: layer 2/2, base field no. 9/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 9/92, checking fields: 15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 1/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 2/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 3/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 4/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 5/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 6/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 7/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 8/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 9/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 10/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 11/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 12/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 13/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 14/15
+[ Info: 32_22: layer 2/2, base field no. 9/92, 15/15
+[ Info: 32_22: layer 2/2, base field no. 10/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 10/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 10/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 11/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 11/92, checking fields: 23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 1/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 2/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 3/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 4/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 5/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 6/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 7/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 8/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 9/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 10/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 11/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 12/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 13/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 14/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 15/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 16/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 17/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 18/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 19/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 20/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 21/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 22/23
+[ Info: 32_22: layer 2/2, base field no. 11/92, 23/23
+[ Info: 32_22: layer 2/2, base field no. 12/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 12/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 12/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 13/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 13/92, checking fields: 13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 1/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 2/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 3/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 4/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 5/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 6/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 7/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 8/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 9/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 10/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 11/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 12/13
+[ Info: 32_22: layer 2/2, base field no. 13/92, 13/13
+[ Info: 32_22: layer 2/2, base field no. 14/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 14/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 14/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 15/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 15/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 15/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 16/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 16/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 17/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 17/92, checking fields: 5
+[ Info: 32_22: layer 2/2, base field no. 17/92, 1/5
+[ Info: 32_22: layer 2/2, base field no. 17/92, 2/5
+[ Info: 32_22: layer 2/2, base field no. 17/92, 3/5
+[ Info: 32_22: layer 2/2, base field no. 17/92, 4/5
+[ Info: 32_22: layer 2/2, base field no. 17/92, 5/5
+[ Info: 32_22: layer 2/2, base field no. 18/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 18/92, checking fields: 8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 1/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 2/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 3/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 4/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 5/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 6/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 7/8
+[ Info: 32_22: layer 2/2, base field no. 18/92, 8/8
+[ Info: 32_22: layer 2/2, base field no. 19/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 19/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 19/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 20/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 20/92, checking fields: 4
+[ Info: 32_22: layer 2/2, base field no. 20/92, 1/4
+[ Info: 32_22: layer 2/2, base field no. 20/92, 2/4
+[ Info: 32_22: layer 2/2, base field no. 20/92, 3/4
+[ Info: 32_22: layer 2/2, base field no. 20/92, 4/4
+[ Info: 32_22: layer 2/2, base field no. 21/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 21/92, checking fields: 4
+[ Info: 32_22: layer 2/2, base field no. 21/92, 1/4
+[ Info: 32_22: layer 2/2, base field no. 21/92, 2/4
+[ Info: 32_22: layer 2/2, base field no. 21/92, 3/4
+[ Info: 32_22: layer 2/2, base field no. 21/92, 4/4
+[ Info: 32_22: layer 2/2, base field no. 22/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 22/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 22/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 23/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 23/92, checking fields: 3
+[ Info: 32_22: layer 2/2, base field no. 23/92, 1/3
+[ Info: 32_22: layer 2/2, base field no. 23/92, 2/3
+[ Info: 32_22: layer 2/2, base field no. 23/92, 3/3
+[ Info: 32_22: layer 2/2, base field no. 24/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 24/92, checking fields: 23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 1/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 2/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 3/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 4/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 5/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 6/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 7/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 8/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 9/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 10/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 11/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 12/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 13/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 14/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 15/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 16/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 17/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 18/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 19/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 20/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 21/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 22/23
+[ Info: 32_22: layer 2/2, base field no. 24/92, 23/23
+[ Info: 32_22: layer 2/2, base field no. 25/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 25/92, checking fields: 4
+[ Info: 32_22: layer 2/2, base field no. 25/92, 1/4
+[ Info: 32_22: layer 2/2, base field no. 25/92, 2/4
+[ Info: 32_22: layer 2/2, base field no. 25/92, 3/4
+[ Info: 32_22: layer 2/2, base field no. 25/92, 4/4
+[ Info: 32_22: layer 2/2, base field no. 26/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 26/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 26/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 27/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 27/92, checking fields: 13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 1/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 2/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 3/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 4/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 5/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 6/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 7/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 8/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 9/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 10/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 11/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 12/13
+[ Info: 32_22: layer 2/2, base field no. 27/92, 13/13
+[ Info: 32_22: layer 2/2, base field no. 28/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 28/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 28/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 28/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 29/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 29/92, checking fields: 5
+[ Info: 32_22: layer 2/2, base field no. 29/92, 1/5
+[ Info: 32_22: layer 2/2, base field no. 29/92, 2/5
+[ Info: 32_22: layer 2/2, base field no. 29/92, 3/5
+[ Info: 32_22: layer 2/2, base field no. 29/92, 4/5
+[ Info: 32_22: layer 2/2, base field no. 29/92, 5/5
+[ Info: 32_22: layer 2/2, base field no. 30/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 30/92, checking fields: 19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 1/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 2/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 3/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 4/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 5/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 6/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 7/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 8/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 9/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 10/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 11/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 12/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 13/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 14/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 15/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 16/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 17/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 18/19
+[ Info: 32_22: layer 2/2, base field no. 30/92, 19/19
+[ Info: 32_22: layer 2/2, base field no. 31/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 31/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 31/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 31/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 32/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 32/92, checking fields: 5
+[ Info: 32_22: layer 2/2, base field no. 32/92, 1/5
+[ Info: 32_22: layer 2/2, base field no. 32/92, 2/5
+[ Info: 32_22: layer 2/2, base field no. 32/92, 3/5
+[ Info: 32_22: layer 2/2, base field no. 32/92, 4/5
+[ Info: 32_22: layer 2/2, base field no. 32/92, 5/5
+[ Info: 32_22: layer 2/2, base field no. 33/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 33/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 33/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 33/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 34/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 34/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 34/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 34/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 35/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 35/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 35/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 35/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 36/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 36/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 36/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 37/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 37/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 37/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 37/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 38/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 38/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 38/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 38/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 39/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 39/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 39/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 40/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 40/92, checking fields: 13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 1/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 2/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 3/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 4/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 5/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 6/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 7/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 8/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 9/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 10/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 11/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 12/13
+[ Info: 32_22: layer 2/2, base field no. 40/92, 13/13
+[ Info: 32_22: layer 2/2, base field no. 41/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 41/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 41/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 42/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 42/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 42/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 43/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 43/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 43/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 43/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 44/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 44/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 44/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 44/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 45/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 45/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 45/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 45/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 46/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 46/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 46/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 46/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 47/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 47/92, checking fields: 11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 1/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 2/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 3/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 4/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 5/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 6/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 7/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 8/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 9/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 10/11
+[ Info: 32_22: layer 2/2, base field no. 47/92, 11/11
+[ Info: 32_22: layer 2/2, base field no. 48/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 48/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 48/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 48/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 49/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 49/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 49/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 50/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 50/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 50/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 51/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 51/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 51/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 52/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 52/92, checking fields: 23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 1/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 2/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 3/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 4/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 5/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 6/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 7/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 8/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 9/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 10/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 11/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 12/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 13/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 14/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 15/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 16/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 17/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 18/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 19/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 20/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 21/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 22/23
+[ Info: 32_22: layer 2/2, base field no. 52/92, 23/23
+[ Info: 32_22: layer 2/2, base field no. 53/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 53/92, checking fields: 4
+[ Info: 32_22: layer 2/2, base field no. 53/92, 1/4
+[ Info: 32_22: layer 2/2, base field no. 53/92, 2/4
+[ Info: 32_22: layer 2/2, base field no. 53/92, 3/4
+[ Info: 32_22: layer 2/2, base field no. 53/92, 4/4
+[ Info: 32_22: layer 2/2, base field no. 54/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 54/92, checking fields: 11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 1/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 2/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 3/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 4/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 5/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 6/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 7/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 8/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 9/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 10/11
+[ Info: 32_22: layer 2/2, base field no. 54/92, 11/11
+[ Info: 32_22: layer 2/2, base field no. 55/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 55/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 55/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 56/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 56/92, checking fields: 9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 1/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 2/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 3/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 4/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 5/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 6/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 7/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 8/9
+[ Info: 32_22: layer 2/2, base field no. 56/92, 9/9
+[ Info: 32_22: layer 2/2, base field no. 57/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 57/92, checking fields: 3
+[ Info: 32_22: layer 2/2, base field no. 57/92, 1/3
+[ Info: 32_22: layer 2/2, base field no. 57/92, 2/3
+[ Info: 32_22: layer 2/2, base field no. 57/92, 3/3
+[ Info: 32_22: layer 2/2, base field no. 58/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 58/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 58/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 58/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 59/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 59/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 59/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 59/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 60/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 60/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 60/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 60/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 61/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 61/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 61/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 61/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 62/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 62/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 62/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 62/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 63/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 63/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 63/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 63/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 64/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 64/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 64/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 64/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 65/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 65/92, checking fields: 3
+[ Info: 32_22: layer 2/2, base field no. 65/92, 1/3
+[ Info: 32_22: layer 2/2, base field no. 65/92, 2/3
+[ Info: 32_22: layer 2/2, base field no. 65/92, 3/3
+[ Info: 32_22: layer 2/2, base field no. 66/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 66/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 66/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 66/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 67/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 67/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 67/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 67/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 68/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 68/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 68/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 68/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 69/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 69/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 69/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 70/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 70/92, checking fields: 17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 1/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 2/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 3/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 4/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 5/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 6/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 7/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 8/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 9/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 10/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 11/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 12/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 13/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 14/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 15/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 16/17
+[ Info: 32_22: layer 2/2, base field no. 70/92, 17/17
+[ Info: 32_22: layer 2/2, base field no. 71/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 71/92, checking fields: 5
+[ Info: 32_22: layer 2/2, base field no. 71/92, 1/5
+[ Info: 32_22: layer 2/2, base field no. 71/92, 2/5
+[ Info: 32_22: layer 2/2, base field no. 71/92, 3/5
+[ Info: 32_22: layer 2/2, base field no. 71/92, 4/5
+[ Info: 32_22: layer 2/2, base field no. 71/92, 5/5
+[ Info: 32_22: layer 2/2, base field no. 72/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 72/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 72/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 73/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 73/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 73/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 74/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 74/92, checking fields: 7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 1/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 2/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 3/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 4/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 5/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 6/7
+[ Info: 32_22: layer 2/2, base field no. 74/92, 7/7
+[ Info: 32_22: layer 2/2, base field no. 75/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 75/92, checking fields: 15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 1/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 2/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 3/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 4/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 5/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 6/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 7/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 8/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 9/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 10/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 11/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 12/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 13/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 14/15
+[ Info: 32_22: layer 2/2, base field no. 75/92, 15/15
+[ Info: 32_22: layer 2/2, base field no. 76/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 76/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 76/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 76/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 77/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 77/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 77/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 78/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 78/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 78/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 79/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 79/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 79/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 79/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 80/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 80/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 80/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 81/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 81/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 81/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 82/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 82/92, checking fields: 5
+[ Info: 32_22: layer 2/2, base field no. 82/92, 1/5
+[ Info: 32_22: layer 2/2, base field no. 82/92, 2/5
+[ Info: 32_22: layer 2/2, base field no. 82/92, 3/5
+[ Info: 32_22: layer 2/2, base field no. 82/92, 4/5
+[ Info: 32_22: layer 2/2, base field no. 82/92, 5/5
+[ Info: 32_22: layer 2/2, base field no. 83/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 83/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 83/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 84/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 84/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 84/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 85/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 85/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 85/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 86/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 86/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 86/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 87/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 87/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 87/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 87/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 88/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 88/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 88/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 88/92, 2/2
+[ Info: 32_22: layer 2/2, base field no. 89/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 89/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 89/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 90/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 90/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 90/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 91/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 91/92, checking fields: 1
+[ Info: 32_22: layer 2/2, base field no. 91/92, 1/1
+[ Info: 32_22: layer 2/2, base field no. 92/92, constructing abelian extensions
+[ Info: 32_22: layer 2/2, base field no. 92/92, checking fields: 2
+[ Info: 32_22: layer 2/2, base field no. 92/92, 1/2
+[ Info: 32_22: layer 2/2, base field no. 92/92, 2/2
+2205.949819 seconds (7.86 G allocations: 553.250 GiB, 8.35% gc time, 0.58% compilation time: 2% of which was recompilation)

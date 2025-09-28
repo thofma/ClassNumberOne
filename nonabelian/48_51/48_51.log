@@ -1,0 +1,199 @@
+[ Info: 48_51: File for first layer does not exist; computing [2, 2, 2, 2]...
+[ Info: 48_51: Discriminant bound: 4641588833612778892597133312
+[ Info: 48_51: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 48_51: 1/132
+[ Info: 48_51: 2/132
+[ Info: 48_51: 3/132
+[ Info: 48_51: 4/132
+[ Info: 48_51: 5/132
+[ Info: 48_51: 6/132
+[ Info: 48_51: 7/132
+[ Info: 48_51: 8/132
+[ Info: 48_51: 9/132
+[ Info: 48_51: 10/132
+[ Info: 48_51: 11/132
+[ Info: 48_51: 12/132
+[ Info: 48_51: 13/132
+[ Info: 48_51: 14/132
+[ Info: 48_51: 15/132
+[ Info: 48_51: 16/132
+[ Info: 48_51: 17/132
+[ Info: 48_51: 18/132
+[ Info: 48_51: 19/132
+[ Info: 48_51: 20/132
+[ Info: 48_51: 21/132
+[ Info: 48_51: 22/132
+[ Info: 48_51: 23/132
+[ Info: 48_51: 24/132
+[ Info: 48_51: 25/132
+[ Info: 48_51: 26/132
+[ Info: 48_51: 27/132
+[ Info: 48_51: 28/132
+[ Info: 48_51: 29/132
+[ Info: 48_51: 30/132
+[ Info: 48_51: 31/132
+[ Info: 48_51: 32/132
+[ Info: 48_51: 33/132
+[ Info: 48_51: 34/132
+[ Info: 48_51: 35/132
+[ Info: 48_51: 36/132
+[ Info: 48_51: 37/132
+[ Info: 48_51: 38/132
+[ Info: 48_51: 39/132
+[ Info: 48_51: 40/132
+[ Info: 48_51: 41/132
+[ Info: 48_51: 42/132
+[ Info: 48_51: 43/132
+[ Info: 48_51: 44/132
+[ Info: 48_51: 45/132
+[ Info: 48_51: 46/132
+[ Info: 48_51: 47/132
+[ Info: 48_51: 48/132
+[ Info: 48_51: 49/132
+[ Info: 48_51: 50/132
+[ Info: 48_51: 51/132
+[ Info: 48_51: 52/132
+[ Info: 48_51: 53/132
+[ Info: 48_51: 54/132
+[ Info: 48_51: 55/132
+[ Info: 48_51: 56/132
+[ Info: 48_51: 57/132
+[ Info: 48_51: 58/132
+[ Info: 48_51: 59/132
+[ Info: 48_51: 60/132
+[ Info: 48_51: 61/132
+[ Info: 48_51: 62/132
+[ Info: 48_51: 63/132
+[ Info: 48_51: 64/132
+[ Info: 48_51: 65/132
+[ Info: 48_51: 66/132
+[ Info: 48_51: 67/132
+[ Info: 48_51: 68/132
+[ Info: 48_51: 69/132
+[ Info: 48_51: 70/132
+[ Info: 48_51: 71/132
+[ Info: 48_51: 72/132
+[ Info: 48_51: 73/132
+[ Info: 48_51: 74/132
+[ Info: 48_51: 75/132
+[ Info: 48_51: 76/132
+[ Info: 48_51: 77/132
+[ Info: 48_51: 78/132
+[ Info: 48_51: 79/132
+[ Info: 48_51: 80/132
+[ Info: 48_51: 81/132
+[ Info: 48_51: 82/132
+[ Info: 48_51: 83/132
+[ Info: 48_51: 84/132
+[ Info: 48_51: 85/132
+[ Info: 48_51: 86/132
+[ Info: 48_51: 87/132
+[ Info: 48_51: 88/132
+[ Info: 48_51: 89/132
+[ Info: 48_51: 90/132
+[ Info: 48_51: 91/132
+[ Info: 48_51: 92/132
+[ Info: 48_51: 93/132
+[ Info: 48_51: 94/132
+[ Info: 48_51: 95/132
+[ Info: 48_51: 96/132
+[ Info: 48_51: 97/132
+[ Info: 48_51: 98/132
+[ Info: 48_51: 99/132
+[ Info: 48_51: 100/132
+[ Info: 48_51: 101/132
+[ Info: 48_51: 102/132
+[ Info: 48_51: 103/132
+[ Info: 48_51: 104/132
+[ Info: 48_51: 105/132
+[ Info: 48_51: 106/132
+[ Info: 48_51: 107/132
+[ Info: 48_51: 108/132
+[ Info: 48_51: 109/132
+[ Info: 48_51: 110/132
+[ Info: 48_51: 111/132
+[ Info: 48_51: 112/132
+[ Info: 48_51: 113/132
+[ Info: 48_51: 114/132
+[ Info: 48_51: 115/132
+[ Info: 48_51: 116/132
+[ Info: 48_51: 117/132
+[ Info: 48_51: 118/132
+[ Info: 48_51: 119/132
+[ Info: 48_51: 120/132
+[ Info: 48_51: 121/132
+[ Info: 48_51: 122/132
+[ Info: 48_51: 123/132
+[ Info: 48_51: 124/132
+[ Info: 48_51: 125/132
+[ Info: 48_51: 126/132
+[ Info: 48_51: 127/132
+[ Info: 48_51: 128/132
+[ Info: 48_51: 129/132
+[ Info: 48_51: 130/132
+[ Info: 48_51: 131/132
+[ Info: 48_51: 132/132
+[ Info: 48_51: layer 2/2, base field no. 1/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 1/8, checking fields: 12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 1/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 2/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 3/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 4/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 5/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 6/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 7/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 8/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 9/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 10/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 11/12
+[ Info: 48_51: layer 2/2, base field no. 1/8, 12/12
+[ Info: 48_51: layer 2/2, base field no. 2/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 2/8, checking fields: 11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 1/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 2/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 3/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 4/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 5/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 6/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 7/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 8/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 9/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 10/11
+[ Info: 48_51: layer 2/2, base field no. 2/8, 11/11
+[ Info: 48_51: layer 2/2, base field no. 3/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 3/8, checking fields: 5
+[ Info: 48_51: layer 2/2, base field no. 3/8, 1/5
+[ Info: 48_51: layer 2/2, base field no. 3/8, 2/5
+[ Info: 48_51: layer 2/2, base field no. 3/8, 3/5
+[ Info: 48_51: layer 2/2, base field no. 3/8, 4/5
+[ Info: 48_51: layer 2/2, base field no. 3/8, 5/5
+[ Info: 48_51: layer 2/2, base field no. 4/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 4/8, checking fields: 6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 1/6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 2/6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 3/6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 4/6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 5/6
+[ Info: 48_51: layer 2/2, base field no. 4/8, 6/6
+[ Info: 48_51: layer 2/2, base field no. 5/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 5/8, checking fields: 9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 1/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 2/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 3/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 4/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 5/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 6/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 7/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 8/9
+[ Info: 48_51: layer 2/2, base field no. 5/8, 9/9
+[ Info: 48_51: layer 2/2, base field no. 6/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 6/8, checking fields: 4
+[ Info: 48_51: layer 2/2, base field no. 6/8, 1/4
+[ Info: 48_51: layer 2/2, base field no. 6/8, 2/4
+[ Info: 48_51: layer 2/2, base field no. 6/8, 3/4
+[ Info: 48_51: layer 2/2, base field no. 6/8, 4/4
+[ Info: 48_51: layer 2/2, base field no. 7/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 7/8, checking fields: 0
+[ Info: 48_51: layer 2/2, base field no. 8/8, constructing abelian extensions
+[ Info: 48_51: layer 2/2, base field no. 8/8, checking fields: 0
+677.002420 seconds (2.59 G allocations: 194.586 GiB, 9.06% gc time, 2.39% compilation time: 1% of which was recompilation)

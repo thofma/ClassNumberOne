@@ -1,0 +1,62 @@
+[ Info: 64_18: File for first layer does not exist; computing [4, 4]...
+[ Info: 64_18: Discriminant bound: 1000000000000000000000000000
+[ Info: 64_18: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 64_18: 1/30
+[ Info: 64_18: 2/30
+[ Info: 64_18: 3/30
+[ Info: 64_18: 4/30
+[ Info: 64_18: 5/30
+[ Info: 64_18: 6/30
+[ Info: 64_18: 7/30
+[ Info: 64_18: 8/30
+[ Info: 64_18: 9/30
+[ Info: 64_18: 10/30
+[ Info: 64_18: 11/30
+[ Info: 64_18: 12/30
+[ Info: 64_18: 13/30
+[ Info: 64_18: 14/30
+[ Info: 64_18: 15/30
+[ Info: 64_18: 16/30
+[ Info: 64_18: 17/30
+[ Info: 64_18: 18/30
+[ Info: 64_18: 19/30
+[ Info: 64_18: 20/30
+[ Info: 64_18: 21/30
+[ Info: 64_18: 22/30
+[ Info: 64_18: 23/30
+[ Info: 64_18: 24/30
+[ Info: 64_18: 25/30
+[ Info: 64_18: 26/30
+[ Info: 64_18: 27/30
+[ Info: 64_18: 28/30
+[ Info: 64_18: 29/30
+[ Info: 64_18: 30/30
+[ Info: 64_18: layer 2/2, base field no. 1/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 1/11, checking fields: 4
+[ Info: 64_18: layer 2/2, base field no. 1/11, 1/4
+[ Info: 64_18: layer 2/2, base field no. 1/11, 2/4
+[ Info: 64_18: layer 2/2, base field no. 1/11, 3/4
+[ Info: 64_18: layer 2/2, base field no. 1/11, 4/4
+[ Info: 64_18: layer 2/2, base field no. 2/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 2/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 3/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 3/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 4/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 4/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 5/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 5/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 6/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 6/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 7/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 7/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 8/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 8/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 9/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 9/11, checking fields: 2
+[ Info: 64_18: layer 2/2, base field no. 9/11, 1/2
+[ Info: 64_18: layer 2/2, base field no. 9/11, 2/2
+[ Info: 64_18: layer 2/2, base field no. 10/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 10/11, checking fields: 0
+[ Info: 64_18: layer 2/2, base field no. 11/11, constructing abelian extensions
+[ Info: 64_18: layer 2/2, base field no. 11/11, checking fields: 0
+353.262658 seconds (939.14 M allocations: 112.210 GiB, 6.84% gc time, 5.92% compilation time: 1% of which was recompilation)

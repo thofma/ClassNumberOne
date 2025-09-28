@@ -1,0 +1,1005 @@
+[ Info: 64_46: File for first layer exists [2, 4], 31622776601684; loading ...
+[ Info: 64_46: layer 2/2, base field no. 1/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 1/304, checking fields: 28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 1/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 2/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 3/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 4/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 5/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 6/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 7/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 8/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 9/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 10/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 11/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 12/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 13/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 14/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 15/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 16/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 17/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 18/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 19/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 20/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 21/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 22/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 23/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 24/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 25/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 26/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 27/28
+[ Info: 64_46: layer 2/2, base field no. 1/304, 28/28
+[ Info: 64_46: layer 2/2, base field no. 2/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 2/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 3/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 3/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 4/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 4/304, checking fields: 28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 1/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 2/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 3/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 4/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 5/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 6/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 7/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 8/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 9/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 10/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 11/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 12/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 13/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 14/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 15/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 16/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 17/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 18/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 19/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 20/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 21/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 22/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 23/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 24/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 25/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 26/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 27/28
+[ Info: 64_46: layer 2/2, base field no. 4/304, 28/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 5/304, checking fields: 28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 1/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 2/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 3/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 4/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 5/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 6/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 7/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 8/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 9/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 10/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 11/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 12/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 13/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 14/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 15/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 16/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 17/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 18/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 19/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 20/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 21/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 22/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 23/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 24/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 25/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 26/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 27/28
+[ Info: 64_46: layer 2/2, base field no. 5/304, 28/28
+[ Info: 64_46: layer 2/2, base field no. 6/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 6/304, checking fields: 17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 1/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 2/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 3/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 4/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 5/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 6/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 7/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 8/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 9/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 10/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 11/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 12/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 13/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 14/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 15/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 16/17
+[ Info: 64_46: layer 2/2, base field no. 6/304, 17/17
+[ Info: 64_46: layer 2/2, base field no. 7/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 7/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 7/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 7/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 8/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 8/304, checking fields: 10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 1/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 2/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 3/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 4/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 5/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 6/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 7/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 8/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 9/10
+[ Info: 64_46: layer 2/2, base field no. 8/304, 10/10
+[ Info: 64_46: layer 2/2, base field no. 9/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 9/304, checking fields: 12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 1/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 2/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 3/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 4/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 5/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 6/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 7/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 8/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 9/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 10/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 11/12
+[ Info: 64_46: layer 2/2, base field no. 9/304, 12/12
+[ Info: 64_46: layer 2/2, base field no. 10/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 10/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 11/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 11/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 12/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 12/304, checking fields: 18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 1/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 2/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 3/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 4/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 5/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 6/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 7/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 8/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 9/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 10/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 11/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 12/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 13/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 14/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 15/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 16/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 17/18
+[ Info: 64_46: layer 2/2, base field no. 12/304, 18/18
+[ Info: 64_46: layer 2/2, base field no. 13/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 13/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 13/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 14/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 14/304, checking fields: 18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 1/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 2/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 3/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 4/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 5/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 6/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 7/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 8/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 9/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 10/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 11/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 12/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 13/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 14/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 15/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 16/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 17/18
+[ Info: 64_46: layer 2/2, base field no. 14/304, 18/18
+[ Info: 64_46: layer 2/2, base field no. 15/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 15/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 15/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 16/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 16/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 17/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 17/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 18/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 18/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 19/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 19/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 20/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 20/304, checking fields: 6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 1/6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 2/6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 3/6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 4/6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 5/6
+[ Info: 64_46: layer 2/2, base field no. 20/304, 6/6
+[ Info: 64_46: layer 2/2, base field no. 21/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 21/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 21/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 22/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 22/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 23/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 23/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 24/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 24/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 24/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 24/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 24/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 24/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 25/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 25/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 26/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 26/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 26/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 26/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 27/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 27/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 27/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 27/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 28/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 28/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 29/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 29/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 30/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 30/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 31/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 31/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 32/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 32/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 33/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 33/304, checking fields: 5
+[ Info: 64_46: layer 2/2, base field no. 33/304, 1/5
+[ Info: 64_46: layer 2/2, base field no. 33/304, 2/5
+[ Info: 64_46: layer 2/2, base field no. 33/304, 3/5
+[ Info: 64_46: layer 2/2, base field no. 33/304, 4/5
+[ Info: 64_46: layer 2/2, base field no. 33/304, 5/5
+[ Info: 64_46: layer 2/2, base field no. 34/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 34/304, checking fields: 15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 1/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 2/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 3/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 4/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 5/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 6/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 7/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 8/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 9/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 10/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 11/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 12/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 13/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 14/15
+[ Info: 64_46: layer 2/2, base field no. 34/304, 15/15
+[ Info: 64_46: layer 2/2, base field no. 35/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 35/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 36/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 36/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 37/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 37/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 38/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 38/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 38/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 39/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 39/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 40/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 40/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 41/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 41/304, checking fields: 8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 1/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 2/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 3/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 4/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 5/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 6/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 7/8
+[ Info: 64_46: layer 2/2, base field no. 41/304, 8/8
+[ Info: 64_46: layer 2/2, base field no. 42/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 42/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 43/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 43/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 44/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 44/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 45/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 45/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 46/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 46/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 47/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 47/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 48/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 48/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 48/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 48/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 49/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 49/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 49/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 49/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 49/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 49/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 50/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 50/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 51/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 51/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 51/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 51/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 52/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 52/304, checking fields: 6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 1/6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 2/6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 3/6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 4/6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 5/6
+[ Info: 64_46: layer 2/2, base field no. 52/304, 6/6
+[ Info: 64_46: layer 2/2, base field no. 53/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 53/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 54/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 54/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 55/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 55/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 56/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 56/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 57/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 57/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 57/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 57/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 57/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 57/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 58/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 58/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 58/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 58/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 58/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 58/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 59/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 59/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 59/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 59/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 60/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 60/304, checking fields: 6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 1/6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 2/6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 3/6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 4/6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 5/6
+[ Info: 64_46: layer 2/2, base field no. 60/304, 6/6
+[ Info: 64_46: layer 2/2, base field no. 61/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 61/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 62/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 62/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 63/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 63/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 64/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 64/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 65/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 65/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 66/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 66/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 67/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 67/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 68/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 68/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 69/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 69/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 70/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 70/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 71/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 71/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 71/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 71/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 71/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 71/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 72/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 72/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 72/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 72/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 73/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 73/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 74/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 74/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 75/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 75/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 76/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 76/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 77/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 77/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 78/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 78/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 78/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 78/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 79/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 79/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 80/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 80/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 81/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 81/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 82/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 82/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 83/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 83/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 84/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 84/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 85/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 85/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 86/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 86/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 87/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 87/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 88/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 88/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 89/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 89/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 90/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 90/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 91/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 91/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 92/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 92/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 93/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 93/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 94/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 94/304, checking fields: 7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 1/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 2/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 3/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 4/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 5/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 6/7
+[ Info: 64_46: layer 2/2, base field no. 94/304, 7/7
+[ Info: 64_46: layer 2/2, base field no. 95/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 95/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 95/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 95/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 96/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 96/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 97/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 97/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 98/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 98/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 98/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 98/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 99/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 99/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 100/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 100/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 101/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 101/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 102/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 102/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 103/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 103/304, checking fields: 3
+[ Info: 64_46: layer 2/2, base field no. 103/304, 1/3
+[ Info: 64_46: layer 2/2, base field no. 103/304, 2/3
+[ Info: 64_46: layer 2/2, base field no. 103/304, 3/3
+[ Info: 64_46: layer 2/2, base field no. 104/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 104/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 105/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 105/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 106/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 106/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 107/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 107/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 108/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 108/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 109/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 109/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 110/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 110/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 111/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 111/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 112/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 112/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 113/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 113/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 114/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 114/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 115/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 115/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 116/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 116/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 117/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 117/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 118/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 118/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 119/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 119/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 119/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 119/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 120/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 120/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 121/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 121/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 122/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 122/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 123/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 123/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 124/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 124/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 125/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 125/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 126/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 126/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 127/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 127/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 128/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 128/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 129/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 129/304, checking fields: 1
+[ Info: 64_46: layer 2/2, base field no. 129/304, 1/1
+[ Info: 64_46: layer 2/2, base field no. 130/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 130/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 131/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 131/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 132/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 132/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 133/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 133/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 134/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 134/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 135/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 135/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 136/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 136/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 137/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 137/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 138/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 138/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 139/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 139/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 140/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 140/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 140/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 140/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 141/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 141/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 142/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 142/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 143/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 143/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 144/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 144/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 145/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 145/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 146/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 146/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 147/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 147/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 148/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 148/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 149/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 149/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 150/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 150/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 151/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 151/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 152/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 152/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 153/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 153/304, checking fields: 3
+[ Info: 64_46: layer 2/2, base field no. 153/304, 1/3
+[ Info: 64_46: layer 2/2, base field no. 153/304, 2/3
+[ Info: 64_46: layer 2/2, base field no. 153/304, 3/3
+[ Info: 64_46: layer 2/2, base field no. 154/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 154/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 155/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 155/304, checking fields: 6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 1/6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 2/6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 3/6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 4/6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 5/6
+[ Info: 64_46: layer 2/2, base field no. 155/304, 6/6
+[ Info: 64_46: layer 2/2, base field no. 156/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 156/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 157/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 157/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 158/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 158/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 159/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 159/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 160/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 160/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 160/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 160/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 161/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 161/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 162/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 162/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 163/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 163/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 164/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 164/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 165/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 165/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 166/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 166/304, checking fields: 1
+[ Info: 64_46: layer 2/2, base field no. 166/304, 1/1
+[ Info: 64_46: layer 2/2, base field no. 167/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 167/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 168/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 168/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 169/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 169/304, checking fields: 1
+[ Info: 64_46: layer 2/2, base field no. 169/304, 1/1
+[ Info: 64_46: layer 2/2, base field no. 170/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 170/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 171/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 171/304, checking fields: 3
+[ Info: 64_46: layer 2/2, base field no. 171/304, 1/3
+[ Info: 64_46: layer 2/2, base field no. 171/304, 2/3
+[ Info: 64_46: layer 2/2, base field no. 171/304, 3/3
+[ Info: 64_46: layer 2/2, base field no. 172/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 172/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 173/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 173/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 174/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 174/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 175/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 175/304, checking fields: 1
+[ Info: 64_46: layer 2/2, base field no. 175/304, 1/1
+[ Info: 64_46: layer 2/2, base field no. 176/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 176/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 177/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 177/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 178/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 178/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 179/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 179/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 180/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 180/304, checking fields: 9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 1/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 2/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 3/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 4/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 5/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 6/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 7/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 8/9
+[ Info: 64_46: layer 2/2, base field no. 180/304, 9/9
+[ Info: 64_46: layer 2/2, base field no. 181/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 181/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 182/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 182/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 183/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 183/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 184/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 184/304, checking fields: 7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 1/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 2/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 3/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 4/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 5/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 6/7
+[ Info: 64_46: layer 2/2, base field no. 184/304, 7/7
+[ Info: 64_46: layer 2/2, base field no. 185/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 185/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 186/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 186/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 187/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 187/304, checking fields: 5
+[ Info: 64_46: layer 2/2, base field no. 187/304, 1/5
+[ Info: 64_46: layer 2/2, base field no. 187/304, 2/5
+[ Info: 64_46: layer 2/2, base field no. 187/304, 3/5
+[ Info: 64_46: layer 2/2, base field no. 187/304, 4/5
+[ Info: 64_46: layer 2/2, base field no. 187/304, 5/5
+[ Info: 64_46: layer 2/2, base field no. 188/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 188/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 189/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 189/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 190/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 190/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 191/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 191/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 192/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 192/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 193/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 193/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 193/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 193/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 194/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 194/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 195/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 195/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 196/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 196/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 197/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 197/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 198/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 198/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 199/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 199/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 200/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 200/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 201/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 201/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 202/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 202/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 203/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 203/304, checking fields: 1
+[ Info: 64_46: layer 2/2, base field no. 203/304, 1/1
+[ Info: 64_46: layer 2/2, base field no. 204/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 204/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 205/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 205/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 206/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 206/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 207/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 207/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 208/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 208/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 209/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 209/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 210/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 210/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 211/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 211/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 212/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 212/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 213/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 213/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 214/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 214/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 215/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 215/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 216/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 216/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 217/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 217/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 218/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 218/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 219/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 219/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 220/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 220/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 221/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 221/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 222/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 222/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 223/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 223/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 224/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 224/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 225/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 225/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 226/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 226/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 227/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 227/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 228/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 228/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 229/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 229/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 230/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 230/304, checking fields: 4
+[ Info: 64_46: layer 2/2, base field no. 230/304, 1/4
+[ Info: 64_46: layer 2/2, base field no. 230/304, 2/4
+[ Info: 64_46: layer 2/2, base field no. 230/304, 3/4
+[ Info: 64_46: layer 2/2, base field no. 230/304, 4/4
+[ Info: 64_46: layer 2/2, base field no. 231/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 231/304, checking fields: 2
+[ Info: 64_46: layer 2/2, base field no. 231/304, 1/2
+[ Info: 64_46: layer 2/2, base field no. 231/304, 2/2
+[ Info: 64_46: layer 2/2, base field no. 232/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 232/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 233/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 233/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 234/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 234/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 235/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 235/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 236/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 236/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 237/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 237/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 238/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 238/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 239/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 239/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 240/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 240/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 241/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 241/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 242/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 242/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 243/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 243/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 244/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 244/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 245/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 245/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 246/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 246/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 247/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 247/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 248/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 248/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 249/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 249/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 250/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 250/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 251/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 251/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 252/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 252/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 253/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 253/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 254/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 254/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 255/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 255/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 256/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 256/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 257/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 257/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 258/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 258/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 259/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 259/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 260/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 260/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 261/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 261/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 262/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 262/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 263/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 263/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 264/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 264/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 265/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 265/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 266/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 266/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 267/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 267/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 268/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 268/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 269/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 269/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 270/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 270/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 271/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 271/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 272/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 272/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 273/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 273/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 274/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 274/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 275/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 275/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 276/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 276/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 277/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 277/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 278/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 278/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 279/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 279/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 280/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 280/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 281/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 281/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 282/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 282/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 283/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 283/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 284/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 284/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 285/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 285/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 286/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 286/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 287/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 287/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 288/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 288/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 289/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 289/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 290/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 290/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 291/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 291/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 292/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 292/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 293/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 293/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 294/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 294/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 295/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 295/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 296/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 296/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 297/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 297/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 298/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 298/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 299/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 299/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 300/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 300/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 301/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 301/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 302/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 302/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 303/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 303/304, checking fields: 0
+[ Info: 64_46: layer 2/2, base field no. 304/304, constructing abelian extensions
+[ Info: 64_46: layer 2/2, base field no. 304/304, checking fields: 48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 1/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 2/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 3/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 4/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 5/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 6/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 7/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 8/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 9/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 10/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 11/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 12/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 13/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 14/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 15/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 16/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 17/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 18/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 19/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 20/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 21/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 22/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 23/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 24/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 25/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 26/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 27/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 28/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 29/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 30/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 31/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 32/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 33/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 34/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 35/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 36/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 37/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 38/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 39/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 40/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 41/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 42/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 43/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 44/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 45/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 46/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 47/48
+[ Info: 64_46: layer 2/2, base field no. 304/304, 48/48
+15281.420095 seconds (40.47 G allocations: 4.088 TiB, 6.44% gc time, 0.10% compilation time: 1% of which was recompilation)

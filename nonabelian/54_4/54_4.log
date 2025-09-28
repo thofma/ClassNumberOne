@@ -1,0 +1,43 @@
+[ Info: 54_4: File for first layer exists [18], 10000000000000000000384399572992; loading ...
+[ Info: 54_4: layer 2/2, base field no. 1/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 1/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 2/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 2/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 3/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 3/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 4/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 4/17, checking fields: 1
+[ Info: 54_4: layer 2/2, base field no. 4/17, 1/1
+[ Info: 54_4: layer 2/2, base field no. 5/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 5/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 6/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 6/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 7/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 7/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 8/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 8/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 9/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 9/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 10/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 10/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 11/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 11/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 12/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 12/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 13/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 13/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 14/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 14/17, checking fields: 6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 1/6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 2/6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 3/6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 4/6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 5/6
+[ Info: 54_4: layer 2/2, base field no. 14/17, 6/6
+[ Info: 54_4: layer 2/2, base field no. 15/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 15/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 16/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 16/17, checking fields: 0
+[ Info: 54_4: layer 2/2, base field no. 17/17, constructing abelian extensions
+[ Info: 54_4: layer 2/2, base field no. 17/17, checking fields: 0
+ 87.820567 seconds (356.91 M allocations: 27.942 GiB, 10.08% gc time, 14.04% compilation time: 2% of which was recompilation)

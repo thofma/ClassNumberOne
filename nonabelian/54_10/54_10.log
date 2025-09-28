@@ -1,0 +1,30 @@
+[ Info: 54_10: File for first layer exists [3, 6], 10000000000000000000384399572992; loading ...
+[ Info: 54_10: layer 2/2, base field no. 1/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 1/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 2/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 2/10, checking fields: 8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 1/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 2/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 3/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 4/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 5/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 6/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 7/8
+[ Info: 54_10: layer 2/2, base field no. 2/10, 8/8
+[ Info: 54_10: layer 2/2, base field no. 3/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 3/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 4/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 4/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 5/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 5/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 6/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 6/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 7/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 7/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 8/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 8/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 9/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 9/10, checking fields: 0
+[ Info: 54_10: layer 2/2, base field no. 10/10, constructing abelian extensions
+[ Info: 54_10: layer 2/2, base field no. 10/10, checking fields: 0
+ 88.880304 seconds (341.77 M allocations: 24.471 GiB, 9.65% gc time, 12.11% compilation time: 2% of which was recompilation)

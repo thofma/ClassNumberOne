@@ -1,0 +1,11 @@
+[ Info: 56_11: File for first layer exists [7], 1000000000000; loading ...
+[ Info: 56_11: layer 2/2, base field no. 1/4, constructing abelian extensions
+[ Info: 56_11: layer 2/2, base field no. 1/4, checking fields: 1
+[ Info: 56_11: layer 2/2, base field no. 1/4, 1/1
+[ Info: 56_11: layer 2/2, base field no. 2/4, constructing abelian extensions
+[ Info: 56_11: layer 2/2, base field no. 2/4, checking fields: 0
+[ Info: 56_11: layer 2/2, base field no. 3/4, constructing abelian extensions
+[ Info: 56_11: layer 2/2, base field no. 3/4, checking fields: 0
+[ Info: 56_11: layer 2/2, base field no. 4/4, constructing abelian extensions
+[ Info: 56_11: layer 2/2, base field no. 4/4, checking fields: 0
+ 30.620687 seconds (74.00 M allocations: 7.502 GiB, 5.03% gc time, 32.52% compilation time: 2% of which was recompilation)

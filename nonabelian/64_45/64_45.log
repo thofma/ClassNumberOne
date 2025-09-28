@@ -1,0 +1,46 @@
+[ Info: 64_45: File for first layer exists [2, 8], 1000000000000000000000000000; loading ...
+[ Info: 64_45: layer 2/2, base field no. 1/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 1/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 2/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 2/12, checking fields: 4
+[ Info: 64_45: layer 2/2, base field no. 2/12, 1/4
+[ Info: 64_45: layer 2/2, base field no. 2/12, 2/4
+[ Info: 64_45: layer 2/2, base field no. 2/12, 3/4
+[ Info: 64_45: layer 2/2, base field no. 2/12, 4/4
+[ Info: 64_45: layer 2/2, base field no. 3/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 3/12, checking fields: 2
+[ Info: 64_45: layer 2/2, base field no. 3/12, 1/2
+[ Info: 64_45: layer 2/2, base field no. 3/12, 2/2
+[ Info: 64_45: layer 2/2, base field no. 4/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 4/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 5/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 5/12, checking fields: 4
+[ Info: 64_45: layer 2/2, base field no. 5/12, 1/4
+[ Info: 64_45: layer 2/2, base field no. 5/12, 2/4
+[ Info: 64_45: layer 2/2, base field no. 5/12, 3/4
+[ Info: 64_45: layer 2/2, base field no. 5/12, 4/4
+[ Info: 64_45: layer 2/2, base field no. 6/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 6/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 7/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 7/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 8/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 8/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 9/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 9/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 10/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 10/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 11/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 11/12, checking fields: 0
+[ Info: 64_45: layer 2/2, base field no. 12/12, constructing abelian extensions
+[ Info: 64_45: layer 2/2, base field no. 12/12, checking fields: 10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 1/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 2/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 3/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 4/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 5/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 6/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 7/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 8/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 9/10
+[ Info: 64_45: layer 2/2, base field no. 12/12, 10/10
+724.568228 seconds (2.04 G allocations: 160.482 GiB, 7.14% gc time, 1.99% compilation time: 1% of which was recompilation)

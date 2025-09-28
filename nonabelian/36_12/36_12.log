@@ -1,0 +1,783 @@
+[ Info: 36_12: File for first layer exists [2, 6], 2154434690031883721856; loading ...
+[ Info: 36_12: layer 2/2, base field no. 1/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 1/246, checking fields: 15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 1/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 2/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 3/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 4/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 5/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 6/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 7/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 8/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 9/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 10/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 11/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 12/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 13/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 14/15
+[ Info: 36_12: layer 2/2, base field no. 1/246, 15/15
+[ Info: 36_12: layer 2/2, base field no. 2/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 2/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 2/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 2/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 2/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 3/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 3/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 4/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 4/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 4/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 4/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 5/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 5/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 6/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 6/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 7/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 7/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 8/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 8/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 9/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 9/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 10/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 10/246, checking fields: 7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 1/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 2/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 3/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 4/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 5/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 6/7
+[ Info: 36_12: layer 2/2, base field no. 10/246, 7/7
+[ Info: 36_12: layer 2/2, base field no. 11/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 11/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 11/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 11/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 12/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 12/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 13/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 13/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 13/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 14/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 14/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 14/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 14/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 15/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 15/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 15/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 15/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 16/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 16/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 17/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 17/246, checking fields: 21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 1/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 2/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 3/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 4/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 5/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 6/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 7/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 8/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 9/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 10/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 11/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 12/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 13/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 14/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 15/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 16/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 17/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 18/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 19/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 20/21
+[ Info: 36_12: layer 2/2, base field no. 17/246, 21/21
+[ Info: 36_12: layer 2/2, base field no. 18/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 18/246, checking fields: 12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 1/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 2/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 3/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 4/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 5/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 6/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 7/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 8/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 9/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 10/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 11/12
+[ Info: 36_12: layer 2/2, base field no. 18/246, 12/12
+[ Info: 36_12: layer 2/2, base field no. 19/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 19/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 19/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 19/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 19/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 19/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 20/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 20/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 21/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 21/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 21/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 21/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 21/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 21/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 22/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 22/246, checking fields: 7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 1/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 2/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 3/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 4/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 5/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 6/7
+[ Info: 36_12: layer 2/2, base field no. 22/246, 7/7
+[ Info: 36_12: layer 2/2, base field no. 23/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 23/246, checking fields: 8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 1/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 2/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 3/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 4/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 5/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 6/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 7/8
+[ Info: 36_12: layer 2/2, base field no. 23/246, 8/8
+[ Info: 36_12: layer 2/2, base field no. 24/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 24/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 25/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 25/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 26/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 26/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 27/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 27/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 28/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 28/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 28/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 28/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 29/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 29/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 30/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 30/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 31/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 31/246, checking fields: 10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 1/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 2/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 3/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 4/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 5/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 6/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 7/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 8/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 9/10
+[ Info: 36_12: layer 2/2, base field no. 31/246, 10/10
+[ Info: 36_12: layer 2/2, base field no. 32/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 32/246, checking fields: 17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 1/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 2/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 3/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 4/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 5/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 6/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 7/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 8/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 9/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 10/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 11/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 12/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 13/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 14/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 15/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 16/17
+[ Info: 36_12: layer 2/2, base field no. 32/246, 17/17
+[ Info: 36_12: layer 2/2, base field no. 33/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 33/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 34/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 34/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 34/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 34/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 34/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 34/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 35/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 35/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 36/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 36/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 37/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 37/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 37/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 37/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 37/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 38/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 38/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 39/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 39/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 40/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 40/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 41/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 41/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 42/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 42/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 42/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 42/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 43/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 43/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 44/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 44/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 45/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 45/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 46/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 46/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 47/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 47/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 48/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 48/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 49/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 49/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 50/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 50/246, checking fields: 9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 1/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 2/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 3/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 4/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 5/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 6/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 7/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 8/9
+[ Info: 36_12: layer 2/2, base field no. 50/246, 9/9
+[ Info: 36_12: layer 2/2, base field no. 51/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 51/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 52/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 52/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 53/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 53/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 53/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 54/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 54/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 54/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 54/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 55/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 55/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 56/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 56/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 57/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 57/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 58/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 58/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 59/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 59/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 60/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 60/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 61/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 61/246, checking fields: 11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 1/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 2/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 3/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 4/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 5/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 6/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 7/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 8/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 9/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 10/11
+[ Info: 36_12: layer 2/2, base field no. 61/246, 11/11
+[ Info: 36_12: layer 2/2, base field no. 62/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 62/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 63/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 63/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 63/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 63/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 64/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 64/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 65/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 65/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 66/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 66/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 67/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 67/246, checking fields: 7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 1/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 2/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 3/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 4/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 5/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 6/7
+[ Info: 36_12: layer 2/2, base field no. 67/246, 7/7
+[ Info: 36_12: layer 2/2, base field no. 68/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 68/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 69/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 69/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 70/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 70/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 70/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 70/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 71/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 71/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 72/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 72/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 73/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 73/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 74/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 74/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 75/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 75/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 76/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 76/246, checking fields: 6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 1/6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 2/6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 3/6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 4/6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 5/6
+[ Info: 36_12: layer 2/2, base field no. 76/246, 6/6
+[ Info: 36_12: layer 2/2, base field no. 77/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 77/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 78/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 78/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 78/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 79/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 79/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 80/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 80/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 81/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 81/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 81/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 82/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 82/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 83/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 83/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 84/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 84/246, checking fields: 5
+[ Info: 36_12: layer 2/2, base field no. 84/246, 1/5
+[ Info: 36_12: layer 2/2, base field no. 84/246, 2/5
+[ Info: 36_12: layer 2/2, base field no. 84/246, 3/5
+[ Info: 36_12: layer 2/2, base field no. 84/246, 4/5
+[ Info: 36_12: layer 2/2, base field no. 84/246, 5/5
+[ Info: 36_12: layer 2/2, base field no. 85/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 85/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 86/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 86/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 86/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 87/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 87/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 88/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 88/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 88/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 88/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 89/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 89/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 89/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 90/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 90/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 91/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 91/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 92/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 92/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 93/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 93/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 94/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 94/246, checking fields: 11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 1/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 2/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 3/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 4/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 5/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 6/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 7/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 8/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 9/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 10/11
+[ Info: 36_12: layer 2/2, base field no. 94/246, 11/11
+[ Info: 36_12: layer 2/2, base field no. 95/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 95/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 96/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 96/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 96/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 96/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 96/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 96/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 97/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 97/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 97/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 97/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 97/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 97/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 98/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 98/246, checking fields: 8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 1/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 2/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 3/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 4/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 5/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 6/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 7/8
+[ Info: 36_12: layer 2/2, base field no. 98/246, 8/8
+[ Info: 36_12: layer 2/2, base field no. 99/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 99/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 100/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 100/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 100/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 100/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 101/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 101/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 102/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 102/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 103/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 103/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 104/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 104/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 104/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 105/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 105/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 106/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 106/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 107/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 107/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 108/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 108/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 109/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 109/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 110/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 110/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 111/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 111/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 112/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 112/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 113/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 113/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 114/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 114/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 115/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 115/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 116/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 116/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 117/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 117/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 118/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 118/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 119/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 119/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 119/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 119/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 119/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 120/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 120/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 120/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 121/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 121/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 122/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 122/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 122/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 122/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 122/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 122/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 123/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 123/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 124/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 124/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 125/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 125/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 126/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 126/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 126/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 127/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 127/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 128/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 128/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 128/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 129/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 129/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 130/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 130/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 131/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 131/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 132/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 132/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 133/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 133/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 134/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 134/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 135/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 135/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 136/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 136/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 137/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 137/246, checking fields: 6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 1/6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 2/6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 3/6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 4/6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 5/6
+[ Info: 36_12: layer 2/2, base field no. 137/246, 6/6
+[ Info: 36_12: layer 2/2, base field no. 138/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 138/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 139/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 139/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 139/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 140/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 140/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 141/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 141/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 141/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 141/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 142/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 142/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 142/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 142/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 143/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 143/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 143/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 143/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 144/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 144/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 145/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 145/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 145/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 145/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 146/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 146/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 147/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 147/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 148/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 148/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 148/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 149/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 149/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 150/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 150/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 150/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 150/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 150/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 150/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 151/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 151/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 152/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 152/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 153/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 153/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 154/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 154/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 155/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 155/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 156/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 156/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 157/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 157/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 158/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 158/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 159/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 159/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 160/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 160/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 161/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 161/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 161/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 162/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 162/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 162/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 162/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 162/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 163/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 163/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 163/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 164/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 164/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 165/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 165/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 166/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 166/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 167/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 167/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 168/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 168/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 169/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 169/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 170/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 170/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 171/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 171/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 172/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 172/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 173/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 173/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 173/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 173/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 173/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 173/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 174/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 174/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 175/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 175/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 176/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 176/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 177/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 177/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 178/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 178/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 179/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 179/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 180/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 180/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 180/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 180/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 180/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 181/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 181/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 182/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 182/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 183/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 183/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 184/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 184/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 185/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 185/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 186/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 186/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 187/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 187/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 188/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 188/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 189/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 189/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 190/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 190/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 191/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 191/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 192/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 192/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 193/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 193/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 194/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 194/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 195/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 195/246, checking fields: 4
+[ Info: 36_12: layer 2/2, base field no. 195/246, 1/4
+[ Info: 36_12: layer 2/2, base field no. 195/246, 2/4
+[ Info: 36_12: layer 2/2, base field no. 195/246, 3/4
+[ Info: 36_12: layer 2/2, base field no. 195/246, 4/4
+[ Info: 36_12: layer 2/2, base field no. 196/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 196/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 197/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 197/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 198/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 198/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 199/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 199/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 200/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 200/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 201/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 201/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 202/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 202/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 203/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 203/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 204/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 204/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 205/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 205/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 206/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 206/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 207/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 207/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 208/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 208/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 209/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 209/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 210/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 210/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 211/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 211/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 212/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 212/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 213/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 213/246, checking fields: 1
+[ Info: 36_12: layer 2/2, base field no. 213/246, 1/1
+[ Info: 36_12: layer 2/2, base field no. 214/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 214/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 214/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 214/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 215/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 215/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 216/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 216/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 217/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 217/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 218/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 218/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 219/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 219/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 220/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 220/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 221/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 221/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 222/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 222/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 223/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 223/246, checking fields: 2
+[ Info: 36_12: layer 2/2, base field no. 223/246, 1/2
+[ Info: 36_12: layer 2/2, base field no. 223/246, 2/2
+[ Info: 36_12: layer 2/2, base field no. 224/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 224/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 225/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 225/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 226/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 226/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 227/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 227/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 228/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 228/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 229/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 229/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 230/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 230/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 231/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 231/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 232/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 232/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 233/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 233/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 234/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 234/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 235/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 235/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 236/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 236/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 237/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 237/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 238/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 238/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 239/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 239/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 240/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 240/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 241/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 241/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 242/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 242/246, checking fields: 16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 1/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 2/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 3/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 4/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 5/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 6/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 7/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 8/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 9/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 10/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 11/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 12/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 13/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 14/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 15/16
+[ Info: 36_12: layer 2/2, base field no. 242/246, 16/16
+[ Info: 36_12: layer 2/2, base field no. 243/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 243/246, checking fields: 10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 1/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 2/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 3/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 4/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 5/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 6/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 7/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 8/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 9/10
+[ Info: 36_12: layer 2/2, base field no. 243/246, 10/10
+[ Info: 36_12: layer 2/2, base field no. 244/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 244/246, checking fields: 0
+[ Info: 36_12: layer 2/2, base field no. 245/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 245/246, checking fields: 3
+[ Info: 36_12: layer 2/2, base field no. 245/246, 1/3
+[ Info: 36_12: layer 2/2, base field no. 245/246, 2/3
+[ Info: 36_12: layer 2/2, base field no. 245/246, 3/3
+[ Info: 36_12: layer 2/2, base field no. 246/246, constructing abelian extensions
+[ Info: 36_12: layer 2/2, base field no. 246/246, checking fields: 0
+28356.543112 seconds (6.07 G allocations: 11.840 TiB, 1.06% gc time, 0.05% compilation time: 2% of which was recompilation)

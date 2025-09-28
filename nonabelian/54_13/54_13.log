@@ -1,0 +1,748 @@
+[ Info: 54_13: File for first layer exists [6], 21544346901; loading ...
+[ Info: 54_13: layer 2/2, base field no. 1/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 1/307, checking fields: 2
+[ Info: 54_13: layer 2/2, base field no. 1/307, 1/2
+[ Info: 54_13: layer 2/2, base field no. 1/307, 2/2
+[ Info: 54_13: layer 2/2, base field no. 2/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 2/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 3/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 3/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 4/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 4/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 5/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 5/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 6/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 6/307, checking fields: 4
+[ Info: 54_13: layer 2/2, base field no. 6/307, 1/4
+[ Info: 54_13: layer 2/2, base field no. 6/307, 2/4
+[ Info: 54_13: layer 2/2, base field no. 6/307, 3/4
+[ Info: 54_13: layer 2/2, base field no. 6/307, 4/4
+[ Info: 54_13: layer 2/2, base field no. 7/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 7/307, checking fields: 4
+[ Info: 54_13: layer 2/2, base field no. 7/307, 1/4
+[ Info: 54_13: layer 2/2, base field no. 7/307, 2/4
+[ Info: 54_13: layer 2/2, base field no. 7/307, 3/4
+[ Info: 54_13: layer 2/2, base field no. 7/307, 4/4
+[ Info: 54_13: layer 2/2, base field no. 8/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 8/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 9/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 9/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 9/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 10/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 10/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 11/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 11/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 12/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 12/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 13/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 13/307, checking fields: 26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 1/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 2/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 3/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 4/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 5/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 6/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 7/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 8/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 9/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 10/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 11/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 12/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 13/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 14/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 15/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 16/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 17/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 18/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 19/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 20/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 21/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 22/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 23/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 24/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 25/26
+[ Info: 54_13: layer 2/2, base field no. 13/307, 26/26
+[ Info: 54_13: layer 2/2, base field no. 14/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 14/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 15/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 15/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 16/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 16/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 16/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 17/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 17/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 18/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 18/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 19/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 19/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 20/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 20/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 20/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 21/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 21/307, checking fields: 9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 1/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 2/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 3/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 4/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 5/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 6/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 7/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 8/9
+[ Info: 54_13: layer 2/2, base field no. 21/307, 9/9
+[ Info: 54_13: layer 2/2, base field no. 22/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 22/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 23/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 23/307, checking fields: 12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 1/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 2/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 3/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 4/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 5/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 6/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 7/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 8/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 9/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 10/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 11/12
+[ Info: 54_13: layer 2/2, base field no. 23/307, 12/12
+[ Info: 54_13: layer 2/2, base field no. 24/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 24/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 25/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 25/307, checking fields: 3
+[ Info: 54_13: layer 2/2, base field no. 25/307, 1/3
+[ Info: 54_13: layer 2/2, base field no. 25/307, 2/3
+[ Info: 54_13: layer 2/2, base field no. 25/307, 3/3
+[ Info: 54_13: layer 2/2, base field no. 26/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 26/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 27/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 27/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 28/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 28/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 29/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 29/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 30/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 30/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 30/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 31/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 31/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 32/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 32/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 33/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 33/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 34/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 34/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 35/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 35/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 36/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 36/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 37/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 37/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 38/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 38/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 39/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 39/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 40/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 40/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 41/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 41/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 41/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 42/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 42/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 42/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 43/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 43/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 44/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 44/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 45/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 45/307, checking fields: 11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 1/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 2/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 3/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 4/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 5/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 6/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 7/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 8/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 9/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 10/11
+[ Info: 54_13: layer 2/2, base field no. 45/307, 11/11
+[ Info: 54_13: layer 2/2, base field no. 46/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 46/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 46/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 47/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 47/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 48/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 48/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 49/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 49/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 50/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 50/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 51/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 51/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 52/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 52/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 53/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 53/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 54/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 54/307, checking fields: 3
+[ Info: 54_13: layer 2/2, base field no. 54/307, 1/3
+[ Info: 54_13: layer 2/2, base field no. 54/307, 2/3
+[ Info: 54_13: layer 2/2, base field no. 54/307, 3/3
+[ Info: 54_13: layer 2/2, base field no. 55/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 55/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 55/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 56/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 56/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 57/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 57/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 58/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 58/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 59/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 59/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 60/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 60/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 61/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 61/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 62/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 62/307, checking fields: 3
+[ Info: 54_13: layer 2/2, base field no. 62/307, 1/3
+[ Info: 54_13: layer 2/2, base field no. 62/307, 2/3
+[ Info: 54_13: layer 2/2, base field no. 62/307, 3/3
+[ Info: 54_13: layer 2/2, base field no. 63/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 63/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 64/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 64/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 65/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 65/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 66/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 66/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 67/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 67/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 68/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 68/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 69/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 69/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 70/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 70/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 71/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 71/307, checking fields: 2
+[ Info: 54_13: layer 2/2, base field no. 71/307, 1/2
+[ Info: 54_13: layer 2/2, base field no. 71/307, 2/2
+[ Info: 54_13: layer 2/2, base field no. 72/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 72/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 73/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 73/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 74/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 74/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 75/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 75/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 76/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 76/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 77/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 77/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 78/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 78/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 79/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 79/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 80/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 80/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 81/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 81/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 82/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 82/307, checking fields: 2
+[ Info: 54_13: layer 2/2, base field no. 82/307, 1/2
+[ Info: 54_13: layer 2/2, base field no. 82/307, 2/2
+[ Info: 54_13: layer 2/2, base field no. 83/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 83/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 84/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 84/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 85/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 85/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 86/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 86/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 87/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 87/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 88/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 88/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 89/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 89/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 89/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 90/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 90/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 91/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 91/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 92/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 92/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 93/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 93/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 93/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 94/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 94/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 95/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 95/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 96/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 96/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 97/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 97/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 98/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 98/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 99/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 99/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 100/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 100/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 101/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 101/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 102/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 102/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 103/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 103/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 104/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 104/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 105/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 105/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 106/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 106/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 106/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 107/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 107/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 108/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 108/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 109/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 109/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 110/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 110/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 110/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 111/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 111/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 112/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 112/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 113/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 113/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 114/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 114/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 115/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 115/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 116/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 116/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 117/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 117/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 118/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 118/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 119/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 119/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 120/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 120/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 121/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 121/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 122/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 122/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 123/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 123/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 124/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 124/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 125/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 125/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 126/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 126/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 127/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 127/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 128/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 128/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 129/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 129/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 130/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 130/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 131/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 131/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 132/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 132/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 132/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 133/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 133/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 134/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 134/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 135/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 135/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 136/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 136/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 137/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 137/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 138/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 138/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 139/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 139/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 140/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 140/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 141/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 141/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 142/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 142/307, checking fields: 1
+[ Info: 54_13: layer 2/2, base field no. 142/307, 1/1
+[ Info: 54_13: layer 2/2, base field no. 143/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 143/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 144/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 144/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 145/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 145/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 146/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 146/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 147/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 147/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 148/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 148/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 149/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 149/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 150/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 150/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 151/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 151/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 152/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 152/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 153/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 153/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 154/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 154/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 155/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 155/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 156/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 156/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 157/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 157/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 158/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 158/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 159/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 159/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 160/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 160/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 161/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 161/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 162/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 162/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 163/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 163/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 164/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 164/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 165/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 165/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 166/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 166/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 167/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 167/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 168/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 168/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 169/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 169/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 170/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 170/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 171/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 171/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 172/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 172/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 173/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 173/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 174/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 174/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 175/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 175/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 176/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 176/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 177/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 177/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 178/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 178/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 179/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 179/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 180/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 180/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 181/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 181/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 182/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 182/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 183/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 183/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 184/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 184/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 185/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 185/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 186/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 186/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 187/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 187/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 188/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 188/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 189/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 189/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 190/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 190/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 191/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 191/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 192/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 192/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 193/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 193/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 194/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 194/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 195/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 195/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 196/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 196/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 197/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 197/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 198/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 198/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 199/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 199/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 200/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 200/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 201/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 201/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 202/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 202/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 203/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 203/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 204/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 204/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 205/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 205/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 206/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 206/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 207/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 207/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 208/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 208/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 209/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 209/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 210/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 210/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 211/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 211/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 212/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 212/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 213/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 213/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 214/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 214/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 215/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 215/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 216/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 216/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 217/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 217/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 218/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 218/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 219/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 219/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 220/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 220/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 221/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 221/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 222/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 222/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 223/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 223/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 224/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 224/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 225/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 225/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 226/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 226/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 227/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 227/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 228/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 228/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 229/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 229/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 230/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 230/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 231/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 231/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 232/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 232/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 233/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 233/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 234/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 234/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 235/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 235/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 236/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 236/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 237/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 237/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 238/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 238/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 239/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 239/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 240/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 240/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 241/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 241/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 242/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 242/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 243/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 243/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 244/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 244/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 245/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 245/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 246/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 246/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 247/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 247/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 248/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 248/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 249/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 249/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 250/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 250/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 251/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 251/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 252/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 252/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 253/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 253/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 254/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 254/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 255/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 255/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 256/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 256/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 257/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 257/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 258/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 258/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 259/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 259/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 260/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 260/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 261/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 261/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 262/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 262/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 263/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 263/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 264/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 264/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 265/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 265/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 266/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 266/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 267/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 267/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 268/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 268/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 269/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 269/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 270/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 270/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 271/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 271/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 272/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 272/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 273/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 273/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 274/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 274/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 275/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 275/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 276/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 276/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 277/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 277/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 278/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 278/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 279/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 279/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 280/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 280/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 281/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 281/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 282/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 282/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 283/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 283/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 284/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 284/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 285/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 285/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 286/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 286/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 287/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 287/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 288/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 288/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 289/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 289/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 290/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 290/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 291/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 291/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 292/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 292/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 293/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 293/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 294/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 294/307, checking fields: 31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 1/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 2/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 3/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 4/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 5/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 6/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 7/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 8/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 9/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 10/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 11/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 12/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 13/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 14/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 15/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 16/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 17/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 18/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 19/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 20/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 21/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 22/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 23/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 24/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 25/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 26/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 27/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 28/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 29/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 30/31
+[ Info: 54_13: layer 2/2, base field no. 294/307, 31/31
+[ Info: 54_13: layer 2/2, base field no. 295/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 295/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 296/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 296/307, checking fields: 4
+[ Info: 54_13: layer 2/2, base field no. 296/307, 1/4
+[ Info: 54_13: layer 2/2, base field no. 296/307, 2/4
+[ Info: 54_13: layer 2/2, base field no. 296/307, 3/4
+[ Info: 54_13: layer 2/2, base field no. 296/307, 4/4
+[ Info: 54_13: layer 2/2, base field no. 297/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 297/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 298/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 298/307, checking fields: 2
+[ Info: 54_13: layer 2/2, base field no. 298/307, 1/2
+[ Info: 54_13: layer 2/2, base field no. 298/307, 2/2
+[ Info: 54_13: layer 2/2, base field no. 299/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 299/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 300/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 300/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 301/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 301/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 302/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 302/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 303/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 303/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 304/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 304/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 305/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 305/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 306/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 306/307, checking fields: 0
+[ Info: 54_13: layer 2/2, base field no. 307/307, constructing abelian extensions
+[ Info: 54_13: layer 2/2, base field no. 307/307, checking fields: 0
+1721.476422 seconds (5.47 G allocations: 512.871 GiB, 6.88% gc time, 0.80% compilation time: 2% of which was recompilation)

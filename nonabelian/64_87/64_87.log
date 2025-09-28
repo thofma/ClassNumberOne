@@ -1,0 +1,15 @@
+Error: Failed to run version db update
+
+Caused by:
+    0: Failed to start juliaup for version db update.
+    1: Permission denied (os error 13)
+[ Info: 64_87: File for first layer does not exist; computing [2, 2, 8]...
+[ Info: 64_87: Discriminant bound: 1000000000000000000033242152759321825093719625880829952
+[ Info: 64_87: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 64_87: 1/6
+[ Info: 64_87: 2/6
+[ Info: 64_87: 3/6
+[ Info: 64_87: 4/6
+[ Info: 64_87: 5/6
+[ Info: 64_87: 6/6
+114.340004 seconds (798.69 M allocations: 43.295 GiB, 17.11% gc time, 18.76% compilation time: <1% of which was recompilation)

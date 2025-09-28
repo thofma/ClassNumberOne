@@ -1,0 +1,23 @@
+[ Info: 48_1: File for first layer exists [16], 4641588833612778892597133312; loading ...
+[ Info: 48_1: layer 2/2, base field no. 1/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 1/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 2/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 2/10, checking fields: 1
+[ Info: 48_1: layer 2/2, base field no. 2/10, 1/1
+[ Info: 48_1: layer 2/2, base field no. 3/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 3/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 4/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 4/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 5/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 5/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 6/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 6/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 7/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 7/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 8/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 8/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 9/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 9/10, checking fields: 0
+[ Info: 48_1: layer 2/2, base field no. 10/10, constructing abelian extensions
+[ Info: 48_1: layer 2/2, base field no. 10/10, checking fields: 0
+ 31.008401 seconds (97.13 M allocations: 6.825 GiB, 10.75% gc time, 39.64% compilation time: 2% of which was recompilation)

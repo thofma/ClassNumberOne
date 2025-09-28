@@ -1,0 +1,49 @@
+[ Info: 36_3: File for first layer exists [9], 10000000000000000; loading ...
+[ Info: 36_3: layer 2/2, base field no. 1/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 1/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 2/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 2/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 3/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 3/10, checking fields: 17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 1/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 2/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 3/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 4/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 5/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 6/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 7/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 8/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 9/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 10/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 11/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 12/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 13/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 14/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 15/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 16/17
+[ Info: 36_3: layer 2/2, base field no. 3/10, 17/17
+[ Info: 36_3: layer 2/2, base field no. 4/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 4/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 5/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 5/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 6/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 6/10, checking fields: 1
+[ Info: 36_3: layer 2/2, base field no. 6/10, 1/1
+[ Info: 36_3: layer 2/2, base field no. 7/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 7/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 8/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 8/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 9/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 9/10, checking fields: 0
+[ Info: 36_3: layer 2/2, base field no. 10/10, constructing abelian extensions
+[ Info: 36_3: layer 2/2, base field no. 10/10, checking fields: 9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 1/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 2/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 3/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 4/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 5/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 6/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 7/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 8/9
+[ Info: 36_3: layer 2/2, base field no. 10/10, 9/9
+ 70.721846 seconds (263.19 M allocations: 20.704 GiB, 9.85% gc time, 16.49% compilation time: 5% of which was recompilation)

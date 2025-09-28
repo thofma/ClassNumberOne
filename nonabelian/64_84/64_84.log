@@ -1,0 +1,10 @@
+Error: Failed to run version db update
+
+Caused by:
+    0: Failed to start juliaup for version db update.
+    1: Permission denied (os error 13)
+[ Info: 64_84: File for first layer exists [2, 4, 4], 1000000000000000000033242152759321825093719625880829952; loading ...
+[ Info: 64_84: layer 2/2, base field no. 1/1, constructing abelian extensions
+[ Info: 64_84: layer 2/2, base field no. 1/1, checking fields: 1
+[ Info: 64_84: layer 2/2, base field no. 1/1, 1/1
+ 57.611405 seconds (480.56 M allocations: 30.125 GiB, 13.10% gc time, 14.72% compilation time: 2% of which was recompilation)

@@ -1,0 +1,22 @@
+[ Info: 60_1: File for first layer exists [20], 10000000000000000000124914828836864; loading ...
+[ Info: 60_1: layer 2/2, base field no. 1/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 1/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 2/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 2/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 3/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 3/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 4/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 4/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 5/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 5/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 6/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 6/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 7/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 7/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 8/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 8/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 9/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 9/10, checking fields: 0
+[ Info: 60_1: layer 2/2, base field no. 10/10, constructing abelian extensions
+[ Info: 60_1: layer 2/2, base field no. 10/10, checking fields: 0
+ 10.913687 seconds (32.83 M allocations: 2.554 GiB, 7.11% gc time, 42.62% compilation time: 5% of which was recompilation)

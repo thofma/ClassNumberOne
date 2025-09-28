@@ -1,0 +1,20 @@
+[ Info: 60_9: File for first layer exists [15], 31622776601683793320869888; loading ...
+[ Info: 60_9: layer 2/2, base field no. 1/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 1/7, checking fields: 0
+[ Info: 60_9: layer 2/2, base field no. 2/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 2/7, checking fields: 1
+[ Info: 60_9: layer 2/2, base field no. 2/7, 1/1
+[ Info: 60_9: layer 2/2, base field no. 3/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 3/7, checking fields: 2
+[ Info: 60_9: layer 2/2, base field no. 3/7, 1/2
+[ Info: 60_9: layer 2/2, base field no. 3/7, 2/2
+[ Info: 60_9: layer 2/2, base field no. 4/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 4/7, checking fields: 0
+[ Info: 60_9: layer 2/2, base field no. 5/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 5/7, checking fields: 1
+[ Info: 60_9: layer 2/2, base field no. 5/7, 1/1
+[ Info: 60_9: layer 2/2, base field no. 6/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 6/7, checking fields: 0
+[ Info: 60_9: layer 2/2, base field no. 7/7, constructing abelian extensions
+[ Info: 60_9: layer 2/2, base field no. 7/7, checking fields: 0
+ 77.748374 seconds (260.09 M allocations: 23.571 GiB, 8.23% gc time, 13.47% compilation time: 2% of which was recompilation)

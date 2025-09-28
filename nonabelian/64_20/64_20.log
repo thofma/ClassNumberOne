@@ -1,0 +1,30 @@
+[ Info: 64_20: File for first layer exists [4, 4], 1000000000000000000000000000; loading ...
+[ Info: 64_20: layer 2/2, base field no. 1/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 1/11, checking fields: 4
+[ Info: 64_20: layer 2/2, base field no. 1/11, 1/4
+[ Info: 64_20: layer 2/2, base field no. 1/11, 2/4
+[ Info: 64_20: layer 2/2, base field no. 1/11, 3/4
+[ Info: 64_20: layer 2/2, base field no. 1/11, 4/4
+[ Info: 64_20: layer 2/2, base field no. 2/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 2/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 3/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 3/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 4/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 4/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 5/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 5/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 6/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 6/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 7/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 7/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 8/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 8/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 9/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 9/11, checking fields: 2
+[ Info: 64_20: layer 2/2, base field no. 9/11, 1/2
+[ Info: 64_20: layer 2/2, base field no. 9/11, 2/2
+[ Info: 64_20: layer 2/2, base field no. 10/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 10/11, checking fields: 0
+[ Info: 64_20: layer 2/2, base field no. 11/11, constructing abelian extensions
+[ Info: 64_20: layer 2/2, base field no. 11/11, checking fields: 0
+461.882969 seconds (930.38 M allocations: 146.145 GiB, 4.92% gc time, 3.29% compilation time: 1% of which was recompilation)

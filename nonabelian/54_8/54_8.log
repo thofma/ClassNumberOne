@@ -1,0 +1,2450 @@
+[ Info: 54_8: File for first layer exists [2], 2783; loading ...
+[ Info: 54_8: layer 2/3, base field no. 1/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 1/928, checking fields: 140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 1/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 2/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 3/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 4/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 5/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 6/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 7/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 8/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 9/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 10/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 11/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 12/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 13/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 14/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 15/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 16/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 17/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 18/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 19/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 20/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 21/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 22/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 23/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 24/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 25/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 26/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 27/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 28/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 29/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 30/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 31/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 32/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 33/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 34/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 35/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 36/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 37/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 38/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 39/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 40/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 41/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 42/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 43/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 44/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 45/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 46/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 47/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 48/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 49/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 50/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 51/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 52/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 53/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 54/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 55/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 56/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 57/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 58/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 59/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 60/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 61/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 62/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 63/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 64/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 65/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 66/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 67/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 68/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 69/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 70/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 71/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 72/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 73/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 74/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 75/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 76/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 77/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 78/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 79/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 80/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 81/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 82/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 83/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 84/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 85/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 86/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 87/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 88/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 89/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 90/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 91/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 92/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 93/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 94/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 95/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 96/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 97/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 98/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 99/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 100/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 101/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 102/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 103/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 104/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 105/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 106/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 107/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 108/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 109/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 110/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 111/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 112/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 113/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 114/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 115/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 116/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 117/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 118/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 119/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 120/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 121/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 122/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 123/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 124/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 125/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 126/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 127/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 128/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 129/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 130/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 131/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 132/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 133/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 134/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 135/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 136/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 137/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 138/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 139/140
+[ Info: 54_8: layer 2/3, base field no. 1/928, 140/140
+[ Info: 54_8: layer 2/3, base field no. 2/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 2/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 2/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 2/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 2/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 3/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 3/928, checking fields: 7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 1/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 2/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 3/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 4/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 5/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 6/7
+[ Info: 54_8: layer 2/3, base field no. 3/928, 7/7
+[ Info: 54_8: layer 2/3, base field no. 4/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 4/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 4/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 5/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 5/928, checking fields: 5
+[ Info: 54_8: layer 2/3, base field no. 5/928, 1/5
+[ Info: 54_8: layer 2/3, base field no. 5/928, 2/5
+[ Info: 54_8: layer 2/3, base field no. 5/928, 3/5
+[ Info: 54_8: layer 2/3, base field no. 5/928, 4/5
+[ Info: 54_8: layer 2/3, base field no. 5/928, 5/5
+[ Info: 54_8: layer 2/3, base field no. 6/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 6/928, checking fields: 2
+[ Info: 54_8: layer 2/3, base field no. 6/928, 1/2
+[ Info: 54_8: layer 2/3, base field no. 6/928, 2/2
+[ Info: 54_8: layer 2/3, base field no. 7/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 7/928, checking fields: 4
+[ Info: 54_8: layer 2/3, base field no. 7/928, 1/4
+[ Info: 54_8: layer 2/3, base field no. 7/928, 2/4
+[ Info: 54_8: layer 2/3, base field no. 7/928, 3/4
+[ Info: 54_8: layer 2/3, base field no. 7/928, 4/4
+[ Info: 54_8: layer 2/3, base field no. 8/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 8/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 9/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 9/928, checking fields: 18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 1/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 2/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 3/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 4/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 5/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 6/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 7/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 8/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 9/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 10/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 11/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 12/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 13/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 14/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 15/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 16/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 17/18
+[ Info: 54_8: layer 2/3, base field no. 9/928, 18/18
+[ Info: 54_8: layer 2/3, base field no. 10/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 10/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 10/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 11/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 11/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 12/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 12/928, checking fields: 2
+[ Info: 54_8: layer 2/3, base field no. 12/928, 1/2
+[ Info: 54_8: layer 2/3, base field no. 12/928, 2/2
+[ Info: 54_8: layer 2/3, base field no. 13/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 13/928, checking fields: 20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 1/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 2/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 3/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 4/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 5/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 6/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 7/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 8/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 9/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 10/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 11/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 12/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 13/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 14/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 15/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 16/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 17/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 18/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 19/20
+[ Info: 54_8: layer 2/3, base field no. 13/928, 20/20
+[ Info: 54_8: layer 2/3, base field no. 14/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 14/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 14/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 15/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 15/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 15/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 16/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 16/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 16/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 17/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 17/928, checking fields: 6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 1/6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 2/6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 3/6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 4/6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 5/6
+[ Info: 54_8: layer 2/3, base field no. 17/928, 6/6
+[ Info: 54_8: layer 2/3, base field no. 18/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 18/928, checking fields: 4
+[ Info: 54_8: layer 2/3, base field no. 18/928, 1/4
+[ Info: 54_8: layer 2/3, base field no. 18/928, 2/4
+[ Info: 54_8: layer 2/3, base field no. 18/928, 3/4
+[ Info: 54_8: layer 2/3, base field no. 18/928, 4/4
+[ Info: 54_8: layer 2/3, base field no. 19/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 19/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 20/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 20/928, checking fields: 7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 1/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 2/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 3/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 4/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 5/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 6/7
+[ Info: 54_8: layer 2/3, base field no. 20/928, 7/7
+[ Info: 54_8: layer 2/3, base field no. 21/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 21/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 21/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 22/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 22/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 22/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 23/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 23/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 24/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 24/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 25/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 25/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 25/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 25/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 25/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 26/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 26/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 27/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 27/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 27/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 28/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 28/928, checking fields: 18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 1/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 2/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 3/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 4/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 5/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 6/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 7/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 8/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 9/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 10/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 11/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 12/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 13/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 14/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 15/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 16/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 17/18
+[ Info: 54_8: layer 2/3, base field no. 28/928, 18/18
+[ Info: 54_8: layer 2/3, base field no. 29/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 29/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 30/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 30/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 31/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 31/928, checking fields: 4
+[ Info: 54_8: layer 2/3, base field no. 31/928, 1/4
+[ Info: 54_8: layer 2/3, base field no. 31/928, 2/4
+[ Info: 54_8: layer 2/3, base field no. 31/928, 3/4
+[ Info: 54_8: layer 2/3, base field no. 31/928, 4/4
+[ Info: 54_8: layer 2/3, base field no. 32/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 32/928, checking fields: 4
+[ Info: 54_8: layer 2/3, base field no. 32/928, 1/4
+[ Info: 54_8: layer 2/3, base field no. 32/928, 2/4
+[ Info: 54_8: layer 2/3, base field no. 32/928, 3/4
+[ Info: 54_8: layer 2/3, base field no. 32/928, 4/4
+[ Info: 54_8: layer 2/3, base field no. 33/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 33/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 34/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 34/928, checking fields: 2
+[ Info: 54_8: layer 2/3, base field no. 34/928, 1/2
+[ Info: 54_8: layer 2/3, base field no. 34/928, 2/2
+[ Info: 54_8: layer 2/3, base field no. 35/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 35/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 36/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 36/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 37/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 37/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 38/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 38/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 38/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 38/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 38/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 39/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 39/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 40/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 40/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 41/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 41/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 42/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 42/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 43/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 43/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 43/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 44/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 44/928, checking fields: 2
+[ Info: 54_8: layer 2/3, base field no. 44/928, 1/2
+[ Info: 54_8: layer 2/3, base field no. 44/928, 2/2
+[ Info: 54_8: layer 2/3, base field no. 45/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 45/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 46/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 46/928, checking fields: 15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 1/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 2/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 3/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 4/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 5/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 6/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 7/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 8/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 9/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 10/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 11/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 12/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 13/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 14/15
+[ Info: 54_8: layer 2/3, base field no. 46/928, 15/15
+[ Info: 54_8: layer 2/3, base field no. 47/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 47/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 48/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 48/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 49/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 49/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 50/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 50/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 50/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 50/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 50/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 51/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 51/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 52/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 52/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 53/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 53/928, checking fields: 8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 1/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 2/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 3/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 4/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 5/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 6/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 7/8
+[ Info: 54_8: layer 2/3, base field no. 53/928, 8/8
+[ Info: 54_8: layer 2/3, base field no. 54/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 54/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 55/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 55/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 56/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 56/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 57/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 57/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 58/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 58/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 59/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 59/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 60/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 60/928, checking fields: 7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 1/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 2/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 3/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 4/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 5/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 6/7
+[ Info: 54_8: layer 2/3, base field no. 60/928, 7/7
+[ Info: 54_8: layer 2/3, base field no. 61/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 61/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 62/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 62/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 63/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 63/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 64/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 64/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 65/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 65/928, checking fields: 8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 1/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 2/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 3/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 4/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 5/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 6/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 7/8
+[ Info: 54_8: layer 2/3, base field no. 65/928, 8/8
+[ Info: 54_8: layer 2/3, base field no. 66/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 66/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 66/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 67/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 67/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 68/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 68/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 69/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 69/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 69/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 70/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 70/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 71/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 71/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 71/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 71/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 71/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 72/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 72/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 73/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 73/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 74/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 74/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 75/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 75/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 76/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 76/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 77/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 77/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 78/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 78/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 79/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 79/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 79/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 80/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 80/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 81/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 81/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 82/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 82/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 83/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 83/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 84/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 84/928, checking fields: 2
+[ Info: 54_8: layer 2/3, base field no. 84/928, 1/2
+[ Info: 54_8: layer 2/3, base field no. 84/928, 2/2
+[ Info: 54_8: layer 2/3, base field no. 85/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 85/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 86/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 86/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 87/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 87/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 87/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 88/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 88/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 89/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 89/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 90/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 90/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 91/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 91/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 92/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 92/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 93/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 93/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 94/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 94/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 95/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 95/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 96/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 96/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 97/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 97/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 98/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 98/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 99/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 99/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 100/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 100/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 101/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 101/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 101/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 102/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 102/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 103/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 103/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 104/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 104/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 105/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 105/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 106/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 106/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 107/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 107/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 108/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 108/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 108/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 108/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 108/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 109/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 109/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 110/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 110/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 111/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 111/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 111/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 112/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 112/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 113/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 113/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 114/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 114/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 115/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 115/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 116/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 116/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 117/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 117/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 118/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 118/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 119/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 119/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 120/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 120/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 121/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 121/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 122/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 122/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 123/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 123/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 124/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 124/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 125/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 125/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 126/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 126/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 127/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 127/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 128/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 128/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 128/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 129/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 129/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 130/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 130/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 131/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 131/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 132/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 132/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 133/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 133/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 134/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 134/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 134/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 135/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 135/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 136/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 136/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 137/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 137/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 138/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 138/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 139/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 139/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 139/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 139/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 139/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 140/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 140/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 141/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 141/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 142/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 142/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 143/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 143/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 144/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 144/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 145/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 145/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 146/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 146/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 147/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 147/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 148/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 148/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 149/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 149/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 150/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 150/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 151/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 151/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 152/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 152/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 153/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 153/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 154/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 154/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 155/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 155/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 156/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 156/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 157/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 157/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 158/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 158/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 159/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 159/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 160/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 160/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 161/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 161/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 162/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 162/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 163/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 163/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 164/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 164/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 165/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 165/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 166/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 166/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 167/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 167/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 168/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 168/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 169/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 169/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 170/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 170/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 171/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 171/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 172/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 172/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 173/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 173/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 174/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 174/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 175/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 175/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 176/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 176/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 177/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 177/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 178/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 178/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 179/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 179/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 180/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 180/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 181/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 181/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 182/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 182/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 183/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 183/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 183/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 184/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 184/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 185/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 185/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 186/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 186/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 187/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 187/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 188/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 188/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 189/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 189/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 190/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 190/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 191/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 191/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 192/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 192/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 193/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 193/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 194/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 194/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 194/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 195/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 195/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 196/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 196/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 197/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 197/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 198/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 198/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 199/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 199/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 200/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 200/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 201/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 201/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 202/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 202/928, checking fields: 3
+[ Info: 54_8: layer 2/3, base field no. 202/928, 1/3
+[ Info: 54_8: layer 2/3, base field no. 202/928, 2/3
+[ Info: 54_8: layer 2/3, base field no. 202/928, 3/3
+[ Info: 54_8: layer 2/3, base field no. 203/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 203/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 204/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 204/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 205/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 205/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 205/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 206/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 206/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 207/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 207/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 208/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 208/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 209/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 209/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 210/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 210/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 211/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 211/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 211/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 212/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 212/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 213/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 213/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 214/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 214/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 215/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 215/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 216/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 216/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 217/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 217/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 218/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 218/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 219/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 219/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 220/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 220/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 221/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 221/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 222/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 222/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 223/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 223/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 224/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 224/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 225/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 225/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 226/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 226/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 226/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 227/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 227/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 228/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 228/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 229/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 229/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 230/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 230/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 231/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 231/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 232/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 232/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 233/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 233/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 234/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 234/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 235/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 235/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 236/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 236/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 237/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 237/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 238/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 238/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 239/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 239/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 240/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 240/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 241/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 241/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 242/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 242/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 243/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 243/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 244/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 244/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 245/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 245/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 246/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 246/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 247/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 247/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 248/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 248/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 249/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 249/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 250/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 250/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 251/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 251/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 252/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 252/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 253/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 253/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 254/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 254/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 255/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 255/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 256/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 256/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 257/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 257/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 258/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 258/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 259/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 259/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 260/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 260/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 261/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 261/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 262/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 262/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 263/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 263/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 263/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 264/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 264/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 265/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 265/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 266/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 266/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 267/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 267/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 268/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 268/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 269/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 269/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 270/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 270/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 271/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 271/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 272/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 272/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 273/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 273/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 274/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 274/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 275/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 275/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 276/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 276/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 277/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 277/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 278/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 278/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 279/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 279/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 280/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 280/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 281/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 281/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 282/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 282/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 283/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 283/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 284/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 284/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 285/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 285/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 286/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 286/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 287/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 287/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 288/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 288/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 289/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 289/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 290/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 290/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 291/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 291/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 292/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 292/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 293/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 293/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 294/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 294/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 295/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 295/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 296/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 296/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 297/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 297/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 298/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 298/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 299/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 299/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 300/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 300/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 301/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 301/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 302/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 302/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 303/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 303/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 304/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 304/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 305/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 305/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 306/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 306/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 307/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 307/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 308/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 308/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 309/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 309/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 310/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 310/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 311/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 311/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 312/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 312/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 313/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 313/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 314/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 314/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 315/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 315/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 316/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 316/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 317/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 317/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 318/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 318/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 319/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 319/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 320/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 320/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 321/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 321/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 322/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 322/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 323/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 323/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 324/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 324/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 325/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 325/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 326/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 326/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 327/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 327/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 328/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 328/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 329/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 329/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 330/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 330/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 331/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 331/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 332/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 332/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 333/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 333/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 334/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 334/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 335/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 335/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 336/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 336/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 337/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 337/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 338/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 338/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 339/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 339/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 340/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 340/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 341/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 341/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 342/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 342/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 343/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 343/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 344/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 344/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 345/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 345/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 346/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 346/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 347/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 347/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 348/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 348/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 349/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 349/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 350/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 350/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 351/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 351/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 352/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 352/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 353/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 353/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 354/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 354/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 355/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 355/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 356/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 356/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 357/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 357/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 358/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 358/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 359/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 359/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 360/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 360/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 361/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 361/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 362/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 362/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 363/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 363/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 364/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 364/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 365/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 365/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 366/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 366/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 367/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 367/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 368/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 368/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 369/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 369/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 370/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 370/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 371/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 371/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 372/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 372/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 373/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 373/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 374/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 374/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 375/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 375/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 376/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 376/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 377/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 377/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 378/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 378/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 379/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 379/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 380/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 380/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 381/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 381/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 382/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 382/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 383/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 383/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 384/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 384/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 385/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 385/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 386/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 386/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 387/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 387/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 388/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 388/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 389/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 389/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 390/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 390/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 391/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 391/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 392/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 392/928, checking fields: 1
+[ Info: 54_8: layer 2/3, base field no. 392/928, 1/1
+[ Info: 54_8: layer 2/3, base field no. 393/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 393/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 394/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 394/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 395/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 395/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 396/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 396/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 397/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 397/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 398/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 398/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 399/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 399/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 400/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 400/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 401/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 401/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 402/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 402/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 403/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 403/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 404/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 404/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 405/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 405/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 406/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 406/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 407/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 407/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 408/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 408/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 409/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 409/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 410/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 410/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 411/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 411/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 412/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 412/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 413/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 413/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 414/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 414/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 415/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 415/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 416/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 416/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 417/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 417/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 418/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 418/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 419/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 419/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 420/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 420/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 421/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 421/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 422/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 422/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 423/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 423/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 424/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 424/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 425/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 425/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 426/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 426/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 427/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 427/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 428/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 428/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 429/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 429/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 430/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 430/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 431/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 431/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 432/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 432/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 433/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 433/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 434/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 434/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 435/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 435/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 436/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 436/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 437/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 437/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 438/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 438/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 439/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 439/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 440/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 440/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 441/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 441/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 442/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 442/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 443/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 443/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 444/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 444/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 445/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 445/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 446/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 446/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 447/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 447/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 448/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 448/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 449/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 449/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 450/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 450/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 451/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 451/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 452/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 452/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 453/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 453/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 454/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 454/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 455/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 455/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 456/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 456/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 457/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 457/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 458/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 458/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 459/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 459/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 460/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 460/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 461/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 461/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 462/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 462/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 463/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 463/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 464/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 464/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 465/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 465/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 466/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 466/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 467/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 467/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 468/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 468/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 469/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 469/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 470/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 470/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 471/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 471/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 472/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 472/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 473/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 473/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 474/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 474/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 475/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 475/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 476/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 476/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 477/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 477/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 478/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 478/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 479/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 479/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 480/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 480/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 481/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 481/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 482/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 482/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 483/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 483/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 484/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 484/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 485/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 485/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 486/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 486/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 487/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 487/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 488/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 488/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 489/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 489/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 490/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 490/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 491/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 491/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 492/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 492/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 493/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 493/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 494/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 494/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 495/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 495/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 496/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 496/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 497/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 497/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 498/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 498/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 499/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 499/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 500/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 500/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 501/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 501/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 502/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 502/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 503/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 503/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 504/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 504/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 505/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 505/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 506/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 506/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 507/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 507/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 508/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 508/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 509/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 509/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 510/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 510/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 511/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 511/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 512/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 512/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 513/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 513/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 514/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 514/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 515/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 515/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 516/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 516/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 517/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 517/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 518/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 518/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 519/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 519/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 520/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 520/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 521/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 521/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 522/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 522/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 523/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 523/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 524/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 524/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 525/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 525/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 526/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 526/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 527/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 527/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 528/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 528/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 529/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 529/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 530/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 530/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 531/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 531/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 532/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 532/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 533/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 533/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 534/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 534/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 535/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 535/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 536/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 536/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 537/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 537/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 538/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 538/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 539/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 539/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 540/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 540/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 541/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 541/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 542/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 542/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 543/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 543/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 544/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 544/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 545/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 545/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 546/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 546/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 547/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 547/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 548/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 548/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 549/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 549/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 550/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 550/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 551/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 551/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 552/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 552/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 553/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 553/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 554/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 554/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 555/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 555/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 556/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 556/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 557/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 557/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 558/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 558/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 559/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 559/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 560/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 560/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 561/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 561/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 562/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 562/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 563/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 563/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 564/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 564/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 565/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 565/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 566/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 566/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 567/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 567/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 568/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 568/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 569/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 569/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 570/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 570/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 571/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 571/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 572/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 572/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 573/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 573/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 574/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 574/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 575/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 575/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 576/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 576/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 577/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 577/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 578/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 578/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 579/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 579/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 580/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 580/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 581/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 581/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 582/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 582/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 583/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 583/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 584/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 584/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 585/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 585/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 586/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 586/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 587/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 587/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 588/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 588/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 589/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 589/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 590/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 590/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 591/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 591/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 592/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 592/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 593/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 593/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 594/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 594/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 595/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 595/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 596/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 596/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 597/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 597/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 598/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 598/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 599/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 599/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 600/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 600/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 601/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 601/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 602/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 602/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 603/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 603/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 604/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 604/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 605/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 605/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 606/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 606/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 607/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 607/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 608/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 608/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 609/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 609/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 610/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 610/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 611/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 611/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 612/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 612/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 613/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 613/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 614/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 614/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 615/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 615/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 616/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 616/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 617/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 617/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 618/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 618/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 619/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 619/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 620/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 620/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 621/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 621/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 622/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 622/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 623/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 623/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 624/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 624/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 625/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 625/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 626/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 626/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 627/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 627/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 628/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 628/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 629/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 629/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 630/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 630/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 631/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 631/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 632/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 632/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 633/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 633/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 634/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 634/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 635/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 635/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 636/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 636/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 637/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 637/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 638/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 638/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 639/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 639/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 640/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 640/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 641/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 641/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 642/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 642/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 643/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 643/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 644/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 644/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 645/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 645/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 646/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 646/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 647/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 647/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 648/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 648/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 649/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 649/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 650/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 650/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 651/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 651/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 652/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 652/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 653/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 653/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 654/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 654/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 655/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 655/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 656/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 656/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 657/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 657/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 658/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 658/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 659/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 659/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 660/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 660/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 661/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 661/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 662/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 662/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 663/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 663/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 664/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 664/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 665/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 665/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 666/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 666/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 667/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 667/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 668/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 668/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 669/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 669/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 670/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 670/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 671/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 671/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 672/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 672/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 673/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 673/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 674/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 674/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 675/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 675/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 676/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 676/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 677/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 677/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 678/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 678/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 679/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 679/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 680/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 680/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 681/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 681/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 682/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 682/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 683/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 683/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 684/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 684/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 685/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 685/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 686/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 686/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 687/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 687/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 688/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 688/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 689/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 689/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 690/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 690/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 691/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 691/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 692/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 692/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 693/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 693/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 694/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 694/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 695/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 695/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 696/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 696/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 697/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 697/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 698/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 698/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 699/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 699/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 700/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 700/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 701/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 701/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 702/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 702/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 703/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 703/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 704/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 704/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 705/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 705/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 706/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 706/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 707/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 707/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 708/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 708/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 709/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 709/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 710/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 710/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 711/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 711/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 712/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 712/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 713/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 713/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 714/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 714/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 715/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 715/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 716/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 716/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 717/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 717/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 718/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 718/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 719/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 719/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 720/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 720/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 721/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 721/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 722/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 722/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 723/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 723/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 724/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 724/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 725/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 725/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 726/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 726/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 727/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 727/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 728/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 728/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 729/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 729/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 730/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 730/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 731/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 731/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 732/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 732/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 733/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 733/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 734/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 734/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 735/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 735/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 736/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 736/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 737/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 737/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 738/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 738/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 739/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 739/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 740/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 740/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 741/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 741/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 742/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 742/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 743/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 743/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 744/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 744/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 745/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 745/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 746/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 746/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 747/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 747/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 748/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 748/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 749/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 749/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 750/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 750/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 751/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 751/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 752/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 752/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 753/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 753/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 754/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 754/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 755/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 755/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 756/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 756/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 757/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 757/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 758/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 758/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 759/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 759/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 760/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 760/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 761/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 761/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 762/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 762/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 763/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 763/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 764/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 764/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 765/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 765/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 766/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 766/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 767/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 767/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 768/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 768/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 769/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 769/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 770/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 770/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 771/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 771/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 772/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 772/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 773/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 773/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 774/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 774/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 775/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 775/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 776/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 776/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 777/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 777/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 778/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 778/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 779/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 779/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 780/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 780/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 781/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 781/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 782/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 782/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 783/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 783/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 784/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 784/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 785/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 785/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 786/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 786/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 787/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 787/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 788/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 788/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 789/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 789/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 790/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 790/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 791/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 791/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 792/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 792/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 793/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 793/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 794/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 794/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 795/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 795/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 796/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 796/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 797/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 797/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 798/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 798/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 799/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 799/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 800/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 800/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 801/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 801/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 802/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 802/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 803/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 803/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 804/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 804/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 805/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 805/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 806/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 806/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 807/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 807/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 808/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 808/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 809/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 809/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 810/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 810/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 811/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 811/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 812/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 812/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 813/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 813/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 814/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 814/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 815/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 815/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 816/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 816/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 817/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 817/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 818/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 818/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 819/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 819/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 820/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 820/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 821/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 821/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 822/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 822/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 823/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 823/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 824/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 824/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 825/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 825/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 826/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 826/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 827/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 827/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 828/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 828/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 829/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 829/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 830/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 830/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 831/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 831/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 832/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 832/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 833/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 833/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 834/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 834/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 835/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 835/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 836/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 836/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 837/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 837/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 838/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 838/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 839/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 839/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 840/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 840/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 841/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 841/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 842/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 842/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 843/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 843/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 844/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 844/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 845/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 845/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 846/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 846/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 847/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 847/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 848/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 848/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 849/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 849/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 850/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 850/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 851/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 851/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 852/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 852/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 853/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 853/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 854/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 854/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 855/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 855/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 856/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 856/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 857/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 857/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 858/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 858/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 859/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 859/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 860/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 860/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 861/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 861/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 862/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 862/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 863/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 863/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 864/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 864/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 865/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 865/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 866/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 866/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 867/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 867/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 868/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 868/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 869/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 869/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 870/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 870/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 871/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 871/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 872/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 872/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 873/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 873/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 874/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 874/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 875/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 875/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 876/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 876/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 877/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 877/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 878/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 878/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 879/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 879/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 880/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 880/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 881/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 881/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 882/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 882/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 883/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 883/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 884/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 884/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 885/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 885/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 886/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 886/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 887/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 887/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 888/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 888/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 889/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 889/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 890/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 890/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 891/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 891/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 892/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 892/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 893/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 893/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 894/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 894/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 895/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 895/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 896/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 896/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 897/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 897/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 898/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 898/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 899/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 899/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 900/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 900/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 901/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 901/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 902/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 902/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 903/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 903/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 904/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 904/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 905/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 905/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 906/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 906/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 907/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 907/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 908/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 908/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 909/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 909/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 910/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 910/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 911/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 911/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 912/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 912/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 913/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 913/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 914/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 914/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 915/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 915/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 916/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 916/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 917/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 917/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 918/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 918/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 919/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 919/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 920/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 920/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 921/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 921/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 922/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 922/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 923/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 923/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 924/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 924/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 925/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 925/928, checking fields: 0
+[ Info: 54_8: layer 2/3, base field no. 926/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 926/928, checking fields: 27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 1/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 2/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 3/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 4/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 5/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 6/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 7/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 8/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 9/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 10/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 11/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 12/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 13/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 14/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 15/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 16/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 17/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 18/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 19/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 20/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 21/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 22/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 23/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 24/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 25/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 26/27
+[ Info: 54_8: layer 2/3, base field no. 926/928, 27/27
+[ Info: 54_8: layer 2/3, base field no. 927/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 927/928, checking fields: 15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 1/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 2/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 3/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 4/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 5/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 6/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 7/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 8/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 9/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 10/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 11/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 12/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 13/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 14/15
+[ Info: 54_8: layer 2/3, base field no. 927/928, 15/15
+[ Info: 54_8: layer 2/3, base field no. 928/928, constructing abelian extensions
+[ Info: 54_8: layer 2/3, base field no. 928/928, checking fields: 5
+[ Info: 54_8: layer 2/3, base field no. 928/928, 1/5
+[ Info: 54_8: layer 2/3, base field no. 928/928, 2/5
+[ Info: 54_8: layer 2/3, base field no. 928/928, 3/5
+[ Info: 54_8: layer 2/3, base field no. 928/928, 4/5
+[ Info: 54_8: layer 2/3, base field no. 928/928, 5/5
+[ Info: 54_8: layer 3/3, base field no. 1/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 1/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 1/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 2/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 2/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 2/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 3/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 3/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 3/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 4/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 4/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 4/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 5/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 5/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 5/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 6/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 6/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 6/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 7/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 7/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 7/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 8/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 8/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 8/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 9/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 9/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 9/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 10/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 10/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 10/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 11/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 11/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 11/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 11/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 11/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 11/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 12/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 12/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 12/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 13/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 13/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 13/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 13/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 13/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 13/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 14/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 14/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 14/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 15/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 15/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 15/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 16/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 16/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 16/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 16/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 16/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 16/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 17/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 17/56, checking fields: 0
+[ Info: 54_8: layer 3/3, base field no. 18/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 18/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 18/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 19/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 19/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 19/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 20/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 20/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 20/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 21/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 21/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 21/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 22/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 22/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 22/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 23/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 23/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 23/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 24/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 24/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 24/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 25/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 25/56, checking fields: 5
+[ Info: 54_8: layer 3/3, base field no. 25/56, 1/5
+[ Info: 54_8: layer 3/3, base field no. 25/56, 2/5
+[ Info: 54_8: layer 3/3, base field no. 25/56, 3/5
+[ Info: 54_8: layer 3/3, base field no. 25/56, 4/5
+[ Info: 54_8: layer 3/3, base field no. 25/56, 5/5
+[ Info: 54_8: layer 3/3, base field no. 26/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 26/56, checking fields: 5
+[ Info: 54_8: layer 3/3, base field no. 26/56, 1/5
+[ Info: 54_8: layer 3/3, base field no. 26/56, 2/5
+[ Info: 54_8: layer 3/3, base field no. 26/56, 3/5
+[ Info: 54_8: layer 3/3, base field no. 26/56, 4/5
+[ Info: 54_8: layer 3/3, base field no. 26/56, 5/5
+[ Info: 54_8: layer 3/3, base field no. 27/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 27/56, checking fields: 5
+[ Info: 54_8: layer 3/3, base field no. 27/56, 1/5
+[ Info: 54_8: layer 3/3, base field no. 27/56, 2/5
+[ Info: 54_8: layer 3/3, base field no. 27/56, 3/5
+[ Info: 54_8: layer 3/3, base field no. 27/56, 4/5
+[ Info: 54_8: layer 3/3, base field no. 27/56, 5/5
+[ Info: 54_8: layer 3/3, base field no. 28/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 28/56, checking fields: 5
+[ Info: 54_8: layer 3/3, base field no. 28/56, 1/5
+[ Info: 54_8: layer 3/3, base field no. 28/56, 2/5
+[ Info: 54_8: layer 3/3, base field no. 28/56, 3/5
+[ Info: 54_8: layer 3/3, base field no. 28/56, 4/5
+[ Info: 54_8: layer 3/3, base field no. 28/56, 5/5
+[ Info: 54_8: layer 3/3, base field no. 29/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 29/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 29/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 29/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 29/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 29/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 30/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 30/56, checking fields: 5
+[ Info: 54_8: layer 3/3, base field no. 30/56, 1/5
+[ Info: 54_8: layer 3/3, base field no. 30/56, 2/5
+[ Info: 54_8: layer 3/3, base field no. 30/56, 3/5
+[ Info: 54_8: layer 3/3, base field no. 30/56, 4/5
+[ Info: 54_8: layer 3/3, base field no. 30/56, 5/5
+[ Info: 54_8: layer 3/3, base field no. 31/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 31/56, checking fields: 6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 1/6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 2/6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 3/6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 4/6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 5/6
+[ Info: 54_8: layer 3/3, base field no. 31/56, 6/6
+[ Info: 54_8: layer 3/3, base field no. 32/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 32/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 32/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 33/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 33/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 33/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 34/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 34/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 34/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 35/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 35/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 35/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 36/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 36/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 36/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 37/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 37/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 37/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 38/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 38/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 38/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 38/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 38/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 38/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 39/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 39/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 39/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 40/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 40/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 40/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 41/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 41/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 41/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 41/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 41/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 41/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 42/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 42/56, checking fields: 0
+[ Info: 54_8: layer 3/3, base field no. 43/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 43/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 43/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 44/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 44/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 44/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 45/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 45/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 45/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 46/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 46/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 46/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 47/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 47/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 47/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 48/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 48/56, checking fields: 4
+[ Info: 54_8: layer 3/3, base field no. 48/56, 1/4
+[ Info: 54_8: layer 3/3, base field no. 48/56, 2/4
+[ Info: 54_8: layer 3/3, base field no. 48/56, 3/4
+[ Info: 54_8: layer 3/3, base field no. 48/56, 4/4
+[ Info: 54_8: layer 3/3, base field no. 49/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 49/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 49/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 50/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 50/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 50/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 51/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 51/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 51/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 52/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 52/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 52/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 53/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 53/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 53/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 54/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 54/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 54/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 55/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 55/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 55/56, 1/1
+[ Info: 54_8: layer 3/3, base field no. 56/56, constructing abelian extensions
+[ Info: 54_8: layer 3/3, base field no. 56/56, checking fields: 1
+[ Info: 54_8: layer 3/3, base field no. 56/56, 1/1
+6501.959487 seconds (19.86 G allocations: 1.371 TiB, 7.15% gc time, 0.21% compilation time: 2% of which was recompilation)

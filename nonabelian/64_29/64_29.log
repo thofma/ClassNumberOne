@@ -1,0 +1,16 @@
+[ Info: 64_29: File for first layer does not exist; computing [2, 16]...
+[ Info: 64_29: Discriminant bound: 1000000000000000000033242152759321825093719625880829952
+[ Info: 64_29: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 64_29: 1/9
+[ Info: 64_29: 2/9
+[ Info: 64_29: 3/9
+[ Info: 64_29: 4/9
+[ Info: 64_29: 5/9
+[ Info: 64_29: 6/9
+[ Info: 64_29: 7/9
+[ Info: 64_29: 8/9
+[ Info: 64_29: 9/9
+[ Info: 64_29: layer 2/2, base field no. 1/1, constructing abelian extensions
+[ Info: 64_29: layer 2/2, base field no. 1/1, checking fields: 1
+[ Info: 64_29: layer 2/2, base field no. 1/1, 1/1
+145.007982 seconds (959.35 M allocations: 54.888 GiB, 16.73% gc time, 16.06% compilation time: <1% of which was recompilation)

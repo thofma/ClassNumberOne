@@ -1,0 +1,1086 @@
+[ Info: 40_7: File for first layer exists [2, 4], 100000000000000; loading ...
+[ Info: 40_7: layer 2/2, base field no. 1/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 1/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 2/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 2/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 3/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 3/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 3/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 4/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 4/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 4/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 5/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 5/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 6/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 6/397, checking fields: 15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 1/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 2/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 3/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 4/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 5/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 6/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 7/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 8/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 9/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 10/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 11/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 12/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 13/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 14/15
+[ Info: 40_7: layer 2/2, base field no. 6/397, 15/15
+[ Info: 40_7: layer 2/2, base field no. 7/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 7/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 7/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 7/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 7/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 7/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 8/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 8/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 8/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 8/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 8/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 8/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 9/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 9/397, checking fields: 9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 1/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 2/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 3/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 4/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 5/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 6/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 7/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 8/9
+[ Info: 40_7: layer 2/2, base field no. 9/397, 9/9
+[ Info: 40_7: layer 2/2, base field no. 10/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 10/397, checking fields: 10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 1/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 2/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 3/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 4/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 5/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 6/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 7/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 8/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 9/10
+[ Info: 40_7: layer 2/2, base field no. 10/397, 10/10
+[ Info: 40_7: layer 2/2, base field no. 11/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 11/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 12/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 12/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 12/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 13/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 13/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 13/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 14/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 14/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 14/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 15/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 15/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 15/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 16/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 16/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 16/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 17/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 17/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 18/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 18/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 18/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 18/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 18/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 18/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 19/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 19/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 20/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 20/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 20/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 21/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 21/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 21/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 22/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 22/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 22/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 22/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 23/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 23/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 24/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 24/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 24/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 25/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 25/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 26/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 26/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 26/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 27/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 27/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 27/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 28/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 28/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 29/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 29/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 29/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 30/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 30/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 31/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 31/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 32/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 32/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 33/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 33/397, checking fields: 16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 1/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 2/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 3/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 4/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 5/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 6/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 7/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 8/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 9/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 10/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 11/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 12/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 13/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 14/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 15/16
+[ Info: 40_7: layer 2/2, base field no. 33/397, 16/16
+[ Info: 40_7: layer 2/2, base field no. 34/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 34/397, checking fields: 5
+[ Info: 40_7: layer 2/2, base field no. 34/397, 1/5
+[ Info: 40_7: layer 2/2, base field no. 34/397, 2/5
+[ Info: 40_7: layer 2/2, base field no. 34/397, 3/5
+[ Info: 40_7: layer 2/2, base field no. 34/397, 4/5
+[ Info: 40_7: layer 2/2, base field no. 34/397, 5/5
+[ Info: 40_7: layer 2/2, base field no. 35/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 35/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 36/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 36/397, checking fields: 11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 1/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 2/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 3/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 4/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 5/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 6/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 7/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 8/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 9/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 10/11
+[ Info: 40_7: layer 2/2, base field no. 36/397, 11/11
+[ Info: 40_7: layer 2/2, base field no. 37/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 37/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 37/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 37/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 37/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 37/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 38/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 38/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 38/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 38/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 38/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 39/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 39/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 39/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 39/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 39/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 40/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 40/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 41/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 41/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 41/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 41/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 41/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 41/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 42/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 42/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 43/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 43/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 43/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 43/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 43/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 43/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 44/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 44/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 45/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 45/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 45/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 45/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 45/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 46/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 46/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 46/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 46/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 46/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 47/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 47/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 47/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 47/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 47/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 48/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 48/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 48/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 49/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 49/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 49/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 49/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 50/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 50/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 51/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 51/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 51/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 52/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 52/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 53/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 53/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 53/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 54/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 54/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 55/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 55/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 56/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 56/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 57/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 57/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 57/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 58/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 58/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 58/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 59/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 59/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 59/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 60/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 60/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 61/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 61/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 62/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 62/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 63/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 63/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 64/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 64/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 65/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 65/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 66/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 66/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 67/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 67/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 68/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 68/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 69/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 69/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 70/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 70/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 71/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 71/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 71/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 72/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 72/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 73/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 73/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 74/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 74/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 75/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 75/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 76/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 76/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 77/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 77/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 78/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 78/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 79/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 79/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 80/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 80/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 81/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 81/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 81/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 82/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 82/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 82/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 83/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 83/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 84/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 84/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 85/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 85/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 86/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 86/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 86/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 87/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 87/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 88/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 88/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 89/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 89/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 90/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 90/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 91/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 91/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 92/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 92/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 93/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 93/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 94/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 94/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 95/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 95/397, checking fields: 9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 1/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 2/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 3/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 4/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 5/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 6/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 7/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 8/9
+[ Info: 40_7: layer 2/2, base field no. 95/397, 9/9
+[ Info: 40_7: layer 2/2, base field no. 96/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 96/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 96/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 96/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 96/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 97/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 97/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 98/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 98/397, checking fields: 5
+[ Info: 40_7: layer 2/2, base field no. 98/397, 1/5
+[ Info: 40_7: layer 2/2, base field no. 98/397, 2/5
+[ Info: 40_7: layer 2/2, base field no. 98/397, 3/5
+[ Info: 40_7: layer 2/2, base field no. 98/397, 4/5
+[ Info: 40_7: layer 2/2, base field no. 98/397, 5/5
+[ Info: 40_7: layer 2/2, base field no. 99/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 99/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 99/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 99/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 99/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 99/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 100/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 100/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 101/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 101/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 102/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 102/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 103/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 103/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 104/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 104/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 104/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 105/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 105/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 106/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 106/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 107/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 107/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 107/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 107/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 108/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 108/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 109/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 109/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 110/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 110/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 111/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 111/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 112/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 112/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 113/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 113/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 114/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 114/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 115/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 115/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 116/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 116/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 117/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 117/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 117/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 118/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 118/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 119/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 119/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 119/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 120/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 120/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 121/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 121/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 122/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 122/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 122/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 123/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 123/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 124/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 124/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 125/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 125/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 125/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 126/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 126/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 127/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 127/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 128/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 128/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 129/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 129/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 130/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 130/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 131/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 131/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 132/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 132/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 133/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 133/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 134/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 134/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 135/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 135/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 136/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 136/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 137/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 137/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 138/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 138/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 139/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 139/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 140/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 140/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 140/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 141/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 141/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 142/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 142/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 143/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 143/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 144/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 144/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 145/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 145/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 146/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 146/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 147/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 147/397, checking fields: 13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 1/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 2/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 3/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 4/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 5/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 6/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 7/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 8/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 9/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 10/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 11/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 12/13
+[ Info: 40_7: layer 2/2, base field no. 147/397, 13/13
+[ Info: 40_7: layer 2/2, base field no. 148/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 148/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 148/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 148/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 149/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 149/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 150/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 150/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 150/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 150/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 150/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 151/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 151/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 152/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 152/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 153/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 153/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 154/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 154/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 155/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 155/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 156/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 156/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 157/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 157/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 158/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 158/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 159/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 159/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 160/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 160/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 161/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 161/397, checking fields: 12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 1/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 2/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 3/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 4/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 5/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 6/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 7/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 8/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 9/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 10/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 11/12
+[ Info: 40_7: layer 2/2, base field no. 161/397, 12/12
+[ Info: 40_7: layer 2/2, base field no. 162/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 162/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 163/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 163/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 163/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 163/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 163/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 163/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 164/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 164/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 164/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 165/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 165/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 165/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 166/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 166/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 167/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 167/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 167/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 167/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 168/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 168/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 169/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 169/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 170/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 170/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 170/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 171/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 171/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 171/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 172/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 172/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 173/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 173/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 174/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 174/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 175/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 175/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 176/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 176/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 177/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 177/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 178/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 178/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 179/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 179/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 180/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 180/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 181/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 181/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 182/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 182/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 183/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 183/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 184/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 184/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 185/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 185/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 186/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 186/397, checking fields: 10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 1/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 2/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 3/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 4/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 5/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 6/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 7/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 8/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 9/10
+[ Info: 40_7: layer 2/2, base field no. 186/397, 10/10
+[ Info: 40_7: layer 2/2, base field no. 187/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 187/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 188/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 188/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 189/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 189/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 189/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 189/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 190/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 190/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 191/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 191/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 192/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 192/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 193/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 193/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 194/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 194/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 194/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 195/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 195/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 195/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 196/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 196/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 197/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 197/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 198/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 198/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 199/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 199/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 200/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 200/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 201/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 201/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 202/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 202/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 203/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 203/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 204/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 204/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 205/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 205/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 205/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 205/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 206/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 206/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 207/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 207/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 208/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 208/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 209/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 209/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 209/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 210/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 210/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 210/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 210/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 210/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 210/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 211/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 211/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 212/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 212/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 213/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 213/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 214/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 214/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 214/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 214/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 214/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 214/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 215/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 215/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 216/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 216/397, checking fields: 8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 1/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 2/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 3/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 4/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 5/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 6/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 7/8
+[ Info: 40_7: layer 2/2, base field no. 216/397, 8/8
+[ Info: 40_7: layer 2/2, base field no. 217/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 217/397, checking fields: 5
+[ Info: 40_7: layer 2/2, base field no. 217/397, 1/5
+[ Info: 40_7: layer 2/2, base field no. 217/397, 2/5
+[ Info: 40_7: layer 2/2, base field no. 217/397, 3/5
+[ Info: 40_7: layer 2/2, base field no. 217/397, 4/5
+[ Info: 40_7: layer 2/2, base field no. 217/397, 5/5
+[ Info: 40_7: layer 2/2, base field no. 218/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 218/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 219/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 219/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 220/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 220/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 220/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 221/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 221/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 222/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 222/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 222/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 223/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 223/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 224/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 224/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 225/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 225/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 226/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 226/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 227/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 227/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 228/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 228/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 229/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 229/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 230/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 230/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 231/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 231/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 232/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 232/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 233/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 233/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 233/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 234/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 234/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 235/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 235/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 236/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 236/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 237/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 237/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 238/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 238/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 239/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 239/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 240/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 240/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 241/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 241/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 242/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 242/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 243/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 243/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 244/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 244/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 244/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 244/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 244/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 245/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 245/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 246/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 246/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 246/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 246/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 247/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 247/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 248/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 248/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 248/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 249/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 249/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 250/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 250/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 251/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 251/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 252/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 252/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 253/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 253/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 254/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 254/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 255/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 255/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 256/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 256/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 257/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 257/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 258/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 258/397, checking fields: 5
+[ Info: 40_7: layer 2/2, base field no. 258/397, 1/5
+[ Info: 40_7: layer 2/2, base field no. 258/397, 2/5
+[ Info: 40_7: layer 2/2, base field no. 258/397, 3/5
+[ Info: 40_7: layer 2/2, base field no. 258/397, 4/5
+[ Info: 40_7: layer 2/2, base field no. 258/397, 5/5
+[ Info: 40_7: layer 2/2, base field no. 259/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 259/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 259/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 259/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 259/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 259/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 260/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 260/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 261/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 261/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 262/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 262/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 263/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 263/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 264/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 264/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 264/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 265/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 265/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 266/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 266/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 267/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 267/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 268/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 268/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 269/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 269/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 270/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 270/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 271/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 271/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 272/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 272/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 273/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 273/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 274/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 274/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 275/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 275/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 276/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 276/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 277/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 277/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 277/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 278/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 278/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 278/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 279/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 279/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 279/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 280/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 280/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 280/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 281/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 281/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 282/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 282/397, checking fields: 4
+[ Info: 40_7: layer 2/2, base field no. 282/397, 1/4
+[ Info: 40_7: layer 2/2, base field no. 282/397, 2/4
+[ Info: 40_7: layer 2/2, base field no. 282/397, 3/4
+[ Info: 40_7: layer 2/2, base field no. 282/397, 4/4
+[ Info: 40_7: layer 2/2, base field no. 283/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 283/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 284/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 284/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 285/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 285/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 285/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 286/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 286/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 287/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 287/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 288/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 288/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 289/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 289/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 290/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 290/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 291/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 291/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 292/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 292/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 293/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 293/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 293/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 293/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 293/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 294/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 294/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 295/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 295/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 296/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 296/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 297/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 297/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 298/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 298/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 299/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 299/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 299/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 299/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 300/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 300/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 301/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 301/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 302/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 302/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 303/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 303/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 304/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 304/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 304/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 304/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 304/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 305/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 305/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 306/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 306/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 307/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 307/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 308/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 308/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 309/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 309/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 310/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 310/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 311/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 311/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 312/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 312/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 313/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 313/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 313/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 314/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 314/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 315/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 315/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 315/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 315/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 316/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 316/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 316/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 316/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 317/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 317/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 318/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 318/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 318/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 318/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 319/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 319/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 320/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 320/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 321/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 321/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 322/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 322/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 323/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 323/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 324/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 324/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 324/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 324/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 325/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 325/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 326/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 326/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 327/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 327/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 328/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 328/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 329/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 329/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 330/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 330/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 331/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 331/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 332/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 332/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 333/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 333/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 334/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 334/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 335/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 335/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 336/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 336/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 337/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 337/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 338/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 338/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 339/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 339/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 340/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 340/397, checking fields: 2
+[ Info: 40_7: layer 2/2, base field no. 340/397, 1/2
+[ Info: 40_7: layer 2/2, base field no. 340/397, 2/2
+[ Info: 40_7: layer 2/2, base field no. 341/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 341/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 342/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 342/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 343/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 343/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 344/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 344/397, checking fields: 1
+[ Info: 40_7: layer 2/2, base field no. 344/397, 1/1
+[ Info: 40_7: layer 2/2, base field no. 345/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 345/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 346/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 346/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 347/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 347/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 348/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 348/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 349/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 349/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 350/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 350/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 351/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 351/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 352/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 352/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 353/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 353/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 354/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 354/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 355/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 355/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 356/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 356/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 357/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 357/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 358/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 358/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 359/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 359/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 360/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 360/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 361/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 361/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 362/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 362/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 363/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 363/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 364/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 364/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 365/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 365/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 366/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 366/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 367/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 367/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 368/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 368/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 369/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 369/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 370/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 370/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 371/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 371/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 372/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 372/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 373/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 373/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 374/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 374/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 375/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 375/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 376/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 376/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 377/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 377/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 378/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 378/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 379/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 379/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 380/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 380/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 381/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 381/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 382/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 382/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 383/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 383/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 384/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 384/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 385/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 385/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 386/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 386/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 387/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 387/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 388/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 388/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 389/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 389/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 390/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 390/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 391/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 391/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 392/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 392/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 393/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 393/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 394/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 394/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 395/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 395/397, checking fields: 0
+[ Info: 40_7: layer 2/2, base field no. 396/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 396/397, checking fields: 3
+[ Info: 40_7: layer 2/2, base field no. 396/397, 1/3
+[ Info: 40_7: layer 2/2, base field no. 396/397, 2/3
+[ Info: 40_7: layer 2/2, base field no. 396/397, 3/3
+[ Info: 40_7: layer 2/2, base field no. 397/397, constructing abelian extensions
+[ Info: 40_7: layer 2/2, base field no. 397/397, checking fields: 0
+1972.373691 seconds (6.30 G allocations: 525.664 GiB, 7.92% gc time, 0.71% compilation time: 2% of which was recompilation)

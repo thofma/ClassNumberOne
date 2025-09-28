@@ -1,0 +1,1170 @@
+[ Info: 20_3: File for first layer exists [4], 63095735; loading ...
+[ Info: 20_3: layer 2/2, base field no. 1/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 1/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 2/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 2/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 2/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 3/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 3/495, checking fields: 66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 1/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 2/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 3/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 4/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 5/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 6/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 7/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 8/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 9/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 10/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 11/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 12/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 13/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 14/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 15/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 16/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 17/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 18/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 19/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 20/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 21/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 22/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 23/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 24/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 25/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 26/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 27/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 28/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 29/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 30/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 31/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 32/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 33/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 34/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 35/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 36/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 37/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 38/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 39/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 40/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 41/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 42/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 43/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 44/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 45/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 46/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 47/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 48/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 49/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 50/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 51/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 52/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 53/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 54/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 55/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 56/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 57/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 58/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 59/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 60/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 61/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 62/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 63/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 64/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 65/66
+[ Info: 20_3: layer 2/2, base field no. 3/495, 66/66
+[ Info: 20_3: layer 2/2, base field no. 4/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 4/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 5/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 5/495, checking fields: 15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 1/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 2/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 3/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 4/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 5/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 6/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 7/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 8/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 9/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 10/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 11/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 12/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 13/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 14/15
+[ Info: 20_3: layer 2/2, base field no. 5/495, 15/15
+[ Info: 20_3: layer 2/2, base field no. 6/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 6/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 7/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 7/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 7/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 7/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 8/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 8/495, checking fields: 3
+[ Info: 20_3: layer 2/2, base field no. 8/495, 1/3
+[ Info: 20_3: layer 2/2, base field no. 8/495, 2/3
+[ Info: 20_3: layer 2/2, base field no. 8/495, 3/3
+[ Info: 20_3: layer 2/2, base field no. 9/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 9/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 10/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 10/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 11/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 11/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 12/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 12/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 13/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 13/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 13/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 14/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 14/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 15/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 15/495, checking fields: 3
+[ Info: 20_3: layer 2/2, base field no. 15/495, 1/3
+[ Info: 20_3: layer 2/2, base field no. 15/495, 2/3
+[ Info: 20_3: layer 2/2, base field no. 15/495, 3/3
+[ Info: 20_3: layer 2/2, base field no. 16/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 16/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 17/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 17/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 18/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 18/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 19/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 19/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 20/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 20/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 21/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 21/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 22/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 22/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 23/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 23/495, checking fields: 7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 1/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 2/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 3/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 4/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 5/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 6/7
+[ Info: 20_3: layer 2/2, base field no. 23/495, 7/7
+[ Info: 20_3: layer 2/2, base field no. 24/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 24/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 25/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 25/495, checking fields: 4
+[ Info: 20_3: layer 2/2, base field no. 25/495, 1/4
+[ Info: 20_3: layer 2/2, base field no. 25/495, 2/4
+[ Info: 20_3: layer 2/2, base field no. 25/495, 3/4
+[ Info: 20_3: layer 2/2, base field no. 25/495, 4/4
+[ Info: 20_3: layer 2/2, base field no. 26/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 26/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 27/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 27/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 28/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 28/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 29/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 29/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 30/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 30/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 30/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 30/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 31/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 31/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 32/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 32/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 32/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 33/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 33/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 34/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 34/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 35/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 35/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 36/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 36/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 37/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 37/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 38/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 38/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 39/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 39/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 40/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 40/495, checking fields: 3
+[ Info: 20_3: layer 2/2, base field no. 40/495, 1/3
+[ Info: 20_3: layer 2/2, base field no. 40/495, 2/3
+[ Info: 20_3: layer 2/2, base field no. 40/495, 3/3
+[ Info: 20_3: layer 2/2, base field no. 41/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 41/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 42/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 42/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 43/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 43/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 44/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 44/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 45/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 45/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 46/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 46/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 47/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 47/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 48/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 48/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 49/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 49/495, checking fields: 8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 1/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 2/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 3/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 4/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 5/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 6/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 7/8
+[ Info: 20_3: layer 2/2, base field no. 49/495, 8/8
+[ Info: 20_3: layer 2/2, base field no. 50/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 50/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 51/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 51/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 52/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 52/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 53/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 53/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 54/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 54/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 54/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 55/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 55/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 56/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 56/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 57/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 57/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 58/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 58/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 59/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 59/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 60/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 60/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 61/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 61/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 62/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 62/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 63/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 63/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 64/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 64/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 64/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 64/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 65/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 65/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 66/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 66/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 67/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 67/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 68/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 68/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 69/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 69/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 70/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 70/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 71/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 71/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 72/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 72/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 72/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 72/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 73/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 73/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 74/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 74/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 75/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 75/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 76/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 76/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 77/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 77/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 78/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 78/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 79/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 79/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 80/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 80/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 81/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 81/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 82/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 82/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 83/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 83/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 83/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 83/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 84/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 84/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 85/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 85/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 86/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 86/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 87/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 87/495, checking fields: 15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 1/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 2/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 3/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 4/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 5/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 6/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 7/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 8/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 9/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 10/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 11/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 12/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 13/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 14/15
+[ Info: 20_3: layer 2/2, base field no. 87/495, 15/15
+[ Info: 20_3: layer 2/2, base field no. 88/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 88/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 89/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 89/495, checking fields: 4
+[ Info: 20_3: layer 2/2, base field no. 89/495, 1/4
+[ Info: 20_3: layer 2/2, base field no. 89/495, 2/4
+[ Info: 20_3: layer 2/2, base field no. 89/495, 3/4
+[ Info: 20_3: layer 2/2, base field no. 89/495, 4/4
+[ Info: 20_3: layer 2/2, base field no. 90/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 90/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 91/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 91/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 92/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 92/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 93/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 93/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 94/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 94/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 95/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 95/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 96/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 96/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 97/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 97/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 98/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 98/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 99/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 99/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 100/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 100/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 101/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 101/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 102/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 102/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 103/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 103/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 104/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 104/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 105/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 105/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 106/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 106/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 107/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 107/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 108/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 108/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 109/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 109/495, checking fields: 10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 1/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 2/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 3/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 4/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 5/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 6/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 7/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 8/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 9/10
+[ Info: 20_3: layer 2/2, base field no. 109/495, 10/10
+[ Info: 20_3: layer 2/2, base field no. 110/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 110/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 111/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 111/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 111/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 111/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 112/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 112/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 113/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 113/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 114/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 114/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 115/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 115/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 116/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 116/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 117/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 117/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 118/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 118/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 119/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 119/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 120/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 120/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 121/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 121/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 122/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 122/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 123/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 123/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 124/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 124/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 125/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 125/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 126/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 126/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 127/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 127/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 128/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 128/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 129/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 129/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 130/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 130/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 131/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 131/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 132/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 132/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 133/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 133/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 134/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 134/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 135/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 135/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 136/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 136/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 137/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 137/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 138/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 138/495, checking fields: 4
+[ Info: 20_3: layer 2/2, base field no. 138/495, 1/4
+[ Info: 20_3: layer 2/2, base field no. 138/495, 2/4
+[ Info: 20_3: layer 2/2, base field no. 138/495, 3/4
+[ Info: 20_3: layer 2/2, base field no. 138/495, 4/4
+[ Info: 20_3: layer 2/2, base field no. 139/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 139/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 140/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 140/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 141/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 141/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 142/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 142/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 143/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 143/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 144/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 144/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 145/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 145/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 146/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 146/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 147/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 147/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 148/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 148/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 149/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 149/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 150/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 150/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 151/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 151/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 152/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 152/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 152/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 153/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 153/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 154/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 154/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 155/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 155/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 156/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 156/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 157/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 157/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 158/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 158/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 159/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 159/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 160/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 160/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 161/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 161/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 162/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 162/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 163/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 163/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 164/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 164/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 165/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 165/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 166/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 166/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 167/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 167/495, checking fields: 9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 1/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 2/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 3/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 4/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 5/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 6/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 7/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 8/9
+[ Info: 20_3: layer 2/2, base field no. 167/495, 9/9
+[ Info: 20_3: layer 2/2, base field no. 168/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 168/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 169/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 169/495, checking fields: 2
+[ Info: 20_3: layer 2/2, base field no. 169/495, 1/2
+[ Info: 20_3: layer 2/2, base field no. 169/495, 2/2
+[ Info: 20_3: layer 2/2, base field no. 170/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 170/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 171/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 171/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 172/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 172/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 173/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 173/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 174/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 174/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 175/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 175/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 176/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 176/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 177/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 177/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 178/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 178/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 179/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 179/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 180/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 180/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 181/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 181/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 182/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 182/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 183/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 183/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 184/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 184/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 185/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 185/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 186/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 186/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 187/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 187/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 188/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 188/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 189/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 189/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 190/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 190/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 191/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 191/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 192/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 192/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 193/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 193/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 194/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 194/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 195/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 195/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 196/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 196/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 197/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 197/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 198/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 198/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 199/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 199/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 200/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 200/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 201/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 201/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 201/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 202/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 202/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 203/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 203/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 204/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 204/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 205/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 205/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 206/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 206/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 207/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 207/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 208/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 208/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 209/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 209/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 210/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 210/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 211/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 211/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 212/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 212/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 213/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 213/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 214/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 214/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 215/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 215/495, checking fields: 1
+[ Info: 20_3: layer 2/2, base field no. 215/495, 1/1
+[ Info: 20_3: layer 2/2, base field no. 216/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 216/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 217/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 217/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 218/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 218/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 219/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 219/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 220/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 220/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 221/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 221/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 222/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 222/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 223/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 223/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 224/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 224/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 225/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 225/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 226/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 226/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 227/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 227/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 228/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 228/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 229/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 229/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 230/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 230/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 231/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 231/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 232/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 232/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 233/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 233/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 234/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 234/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 235/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 235/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 236/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 236/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 237/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 237/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 238/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 238/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 239/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 239/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 240/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 240/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 241/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 241/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 242/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 242/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 243/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 243/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 244/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 244/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 245/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 245/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 246/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 246/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 247/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 247/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 248/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 248/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 249/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 249/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 250/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 250/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 251/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 251/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 252/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 252/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 253/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 253/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 254/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 254/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 255/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 255/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 256/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 256/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 257/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 257/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 258/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 258/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 259/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 259/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 260/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 260/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 261/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 261/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 262/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 262/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 263/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 263/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 264/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 264/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 265/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 265/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 266/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 266/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 267/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 267/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 268/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 268/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 269/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 269/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 270/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 270/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 271/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 271/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 272/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 272/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 273/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 273/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 274/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 274/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 275/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 275/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 276/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 276/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 277/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 277/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 278/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 278/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 279/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 279/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 280/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 280/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 281/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 281/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 282/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 282/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 283/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 283/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 284/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 284/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 285/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 285/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 286/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 286/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 287/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 287/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 288/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 288/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 289/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 289/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 290/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 290/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 291/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 291/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 292/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 292/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 293/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 293/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 294/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 294/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 295/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 295/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 296/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 296/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 297/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 297/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 298/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 298/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 299/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 299/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 300/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 300/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 301/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 301/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 302/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 302/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 303/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 303/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 304/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 304/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 305/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 305/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 306/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 306/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 307/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 307/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 308/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 308/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 309/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 309/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 310/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 310/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 311/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 311/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 312/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 312/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 313/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 313/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 314/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 314/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 315/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 315/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 316/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 316/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 317/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 317/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 318/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 318/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 319/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 319/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 320/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 320/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 321/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 321/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 322/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 322/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 323/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 323/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 324/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 324/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 325/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 325/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 326/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 326/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 327/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 327/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 328/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 328/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 329/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 329/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 330/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 330/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 331/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 331/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 332/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 332/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 333/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 333/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 334/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 334/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 335/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 335/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 336/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 336/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 337/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 337/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 338/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 338/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 339/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 339/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 340/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 340/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 341/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 341/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 342/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 342/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 343/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 343/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 344/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 344/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 345/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 345/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 346/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 346/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 347/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 347/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 348/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 348/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 349/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 349/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 350/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 350/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 351/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 351/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 352/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 352/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 353/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 353/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 354/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 354/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 355/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 355/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 356/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 356/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 357/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 357/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 358/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 358/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 359/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 359/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 360/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 360/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 361/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 361/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 362/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 362/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 363/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 363/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 364/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 364/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 365/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 365/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 366/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 366/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 367/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 367/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 368/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 368/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 369/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 369/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 370/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 370/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 371/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 371/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 372/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 372/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 373/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 373/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 374/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 374/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 375/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 375/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 376/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 376/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 377/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 377/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 378/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 378/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 379/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 379/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 380/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 380/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 381/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 381/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 382/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 382/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 383/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 383/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 384/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 384/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 385/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 385/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 386/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 386/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 387/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 387/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 388/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 388/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 389/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 389/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 390/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 390/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 391/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 391/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 392/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 392/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 393/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 393/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 394/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 394/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 395/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 395/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 396/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 396/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 397/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 397/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 398/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 398/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 399/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 399/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 400/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 400/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 401/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 401/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 402/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 402/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 403/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 403/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 404/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 404/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 405/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 405/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 406/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 406/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 407/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 407/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 408/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 408/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 409/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 409/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 410/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 410/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 411/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 411/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 412/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 412/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 413/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 413/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 414/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 414/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 415/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 415/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 416/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 416/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 417/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 417/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 418/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 418/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 419/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 419/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 420/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 420/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 421/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 421/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 422/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 422/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 423/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 423/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 424/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 424/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 425/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 425/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 426/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 426/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 427/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 427/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 428/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 428/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 429/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 429/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 430/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 430/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 431/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 431/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 432/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 432/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 433/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 433/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 434/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 434/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 435/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 435/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 436/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 436/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 437/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 437/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 438/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 438/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 439/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 439/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 440/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 440/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 441/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 441/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 442/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 442/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 443/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 443/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 444/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 444/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 445/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 445/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 446/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 446/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 447/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 447/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 448/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 448/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 449/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 449/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 450/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 450/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 451/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 451/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 452/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 452/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 453/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 453/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 454/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 454/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 455/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 455/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 456/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 456/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 457/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 457/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 458/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 458/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 459/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 459/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 460/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 460/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 461/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 461/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 462/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 462/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 463/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 463/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 464/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 464/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 465/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 465/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 466/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 466/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 467/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 467/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 468/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 468/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 469/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 469/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 470/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 470/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 471/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 471/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 472/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 472/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 473/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 473/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 474/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 474/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 475/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 475/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 476/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 476/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 477/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 477/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 478/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 478/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 479/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 479/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 480/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 480/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 481/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 481/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 482/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 482/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 483/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 483/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 484/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 484/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 485/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 485/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 486/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 486/495, checking fields: 6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 1/6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 2/6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 3/6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 4/6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 5/6
+[ Info: 20_3: layer 2/2, base field no. 486/495, 6/6
+[ Info: 20_3: layer 2/2, base field no. 487/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 487/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 488/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 488/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 489/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 489/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 490/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 490/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 491/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 491/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 492/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 492/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 493/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 493/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 494/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 494/495, checking fields: 0
+[ Info: 20_3: layer 2/2, base field no. 495/495, constructing abelian extensions
+[ Info: 20_3: layer 2/2, base field no. 495/495, checking fields: 0
+165.285754 seconds (867.06 M allocations: 47.460 GiB, 13.33% gc time, 8.64% compilation time: 2% of which was recompilation)

@@ -1,0 +1,5 @@
+[ Info: 64_59: File for first layer exists [2, 4, 4], 1000000000000000000033242152759321825093719625880829952; loading ...
+[ Info: 64_59: layer 2/2, base field no. 1/1, constructing abelian extensions
+[ Info: 64_59: layer 2/2, base field no. 1/1, checking fields: 1
+[ Info: 64_59: layer 2/2, base field no. 1/1, 1/1
+ 58.915322 seconds (490.05 M allocations: 30.433 GiB, 12.91% gc time, 15.05% compilation time: 2% of which was recompilation)

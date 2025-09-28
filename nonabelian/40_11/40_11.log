@@ -1,0 +1,110 @@
+[ Info: 40_11: File for first layer exists [2, 10], 100000000000000000006878647822581760; loading ...
+[ Info: 40_11: layer 2/2, base field no. 1/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 1/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 1/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 2/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 2/24, checking fields: 15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 1/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 2/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 3/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 4/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 5/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 6/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 7/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 8/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 9/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 10/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 11/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 12/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 13/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 14/15
+[ Info: 40_11: layer 2/2, base field no. 2/24, 15/15
+[ Info: 40_11: layer 2/2, base field no. 3/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 3/24, checking fields: 7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 1/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 2/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 3/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 4/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 5/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 6/7
+[ Info: 40_11: layer 2/2, base field no. 3/24, 7/7
+[ Info: 40_11: layer 2/2, base field no. 4/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 4/24, checking fields: 2
+[ Info: 40_11: layer 2/2, base field no. 4/24, 1/2
+[ Info: 40_11: layer 2/2, base field no. 4/24, 2/2
+[ Info: 40_11: layer 2/2, base field no. 5/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 5/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 5/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 6/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 6/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 6/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 7/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 7/24, checking fields: 0
+[ Info: 40_11: layer 2/2, base field no. 8/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 8/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 8/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 9/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 9/24, checking fields: 0
+[ Info: 40_11: layer 2/2, base field no. 10/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 10/24, checking fields: 12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 1/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 2/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 3/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 4/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 5/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 6/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 7/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 8/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 9/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 10/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 11/12
+[ Info: 40_11: layer 2/2, base field no. 10/24, 12/12
+[ Info: 40_11: layer 2/2, base field no. 11/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 11/24, checking fields: 2
+[ Info: 40_11: layer 2/2, base field no. 11/24, 1/2
+[ Info: 40_11: layer 2/2, base field no. 11/24, 2/2
+[ Info: 40_11: layer 2/2, base field no. 12/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 12/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 12/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 13/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 13/24, checking fields: 5
+[ Info: 40_11: layer 2/2, base field no. 13/24, 1/5
+[ Info: 40_11: layer 2/2, base field no. 13/24, 2/5
+[ Info: 40_11: layer 2/2, base field no. 13/24, 3/5
+[ Info: 40_11: layer 2/2, base field no. 13/24, 4/5
+[ Info: 40_11: layer 2/2, base field no. 13/24, 5/5
+[ Info: 40_11: layer 2/2, base field no. 14/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 14/24, checking fields: 2
+[ Info: 40_11: layer 2/2, base field no. 14/24, 1/2
+[ Info: 40_11: layer 2/2, base field no. 14/24, 2/2
+[ Info: 40_11: layer 2/2, base field no. 15/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 15/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 15/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 16/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 16/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 16/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 17/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 17/24, checking fields: 2
+[ Info: 40_11: layer 2/2, base field no. 17/24, 1/2
+[ Info: 40_11: layer 2/2, base field no. 17/24, 2/2
+[ Info: 40_11: layer 2/2, base field no. 18/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 18/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 18/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 19/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 19/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 19/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 20/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 20/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 20/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 21/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 21/24, checking fields: 0
+[ Info: 40_11: layer 2/2, base field no. 22/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 22/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 22/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 23/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 23/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 23/24, 1/1
+[ Info: 40_11: layer 2/2, base field no. 24/24, constructing abelian extensions
+[ Info: 40_11: layer 2/2, base field no. 24/24, checking fields: 1
+[ Info: 40_11: layer 2/2, base field no. 24/24, 1/1
+264.157954 seconds (979.87 M allocations: 75.223 GiB, 8.46% gc time, 4.19% compilation time: 2% of which was recompilation)
