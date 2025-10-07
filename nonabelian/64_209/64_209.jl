@@ -103,19 +103,16 @@ function main()
         #next!(p2)
         @info pref * "layer $i/$(dlength - 1), base field no. $(ii)/$(length(current)), $j/$(length(l))"
         Labs, = absolute_simple_field(number_field(L; using_norm_relation = true); simplify = true)
-        if !is_normal(Labs)
-          continue
-        end
         G, = automorphism_group(Labs)
-        idd, = Hecke.find_small_group(G)
-        if idd != galois_group_of_subfields[i]
+        @assert order(G) == degree(Labs)
+        if !Hecke._is_small_group(G, Int.(galois_group_of_subfields[i]))
           continue
         end
         if i == dlength - 1 # last step
           if !Hecke.is_cm_field(Labs)[1]
             continue
           end
-          if Hecke.has_obviously_relative_class_number_not_one(Labs, true)[1]
+          if Hecke.has_obviously_relative_class_number_not_one(Labs, true, 20)[1]
             continue
           end
           hm = Hecke.relative_class_number(Labs)
