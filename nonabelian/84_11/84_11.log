@@ -1,0 +1,157 @@
+[ Info: 84_11: File for first layer does not exist; computing [3]...
+[ Info: 84_11: Discriminant bound: 100001
+[ Info: 84_11: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 84_11: 1/51
+[ Info: 84_11: 2/51
+[ Info: 84_11: 3/51
+[ Info: 84_11: 4/51
+[ Info: 84_11: 5/51
+[ Info: 84_11: 6/51
+[ Info: 84_11: 7/51
+[ Info: 84_11: 8/51
+[ Info: 84_11: 9/51
+[ Info: 84_11: 10/51
+[ Info: 84_11: 11/51
+[ Info: 84_11: 12/51
+[ Info: 84_11: 13/51
+[ Info: 84_11: 14/51
+[ Info: 84_11: 15/51
+[ Info: 84_11: 16/51
+[ Info: 84_11: 17/51
+[ Info: 84_11: 18/51
+[ Info: 84_11: 19/51
+[ Info: 84_11: 20/51
+[ Info: 84_11: 21/51
+[ Info: 84_11: 22/51
+[ Info: 84_11: 23/51
+[ Info: 84_11: 24/51
+[ Info: 84_11: 25/51
+[ Info: 84_11: 26/51
+[ Info: 84_11: 27/51
+[ Info: 84_11: 28/51
+[ Info: 84_11: 29/51
+[ Info: 84_11: 30/51
+[ Info: 84_11: 31/51
+[ Info: 84_11: 32/51
+[ Info: 84_11: 33/51
+[ Info: 84_11: 34/51
+[ Info: 84_11: 35/51
+[ Info: 84_11: 36/51
+[ Info: 84_11: 37/51
+[ Info: 84_11: 38/51
+[ Info: 84_11: 39/51
+[ Info: 84_11: 40/51
+[ Info: 84_11: 41/51
+[ Info: 84_11: 42/51
+[ Info: 84_11: 43/51
+[ Info: 84_11: 44/51
+[ Info: 84_11: 45/51
+[ Info: 84_11: 46/51
+[ Info: 84_11: 47/51
+[ Info: 84_11: 48/51
+[ Info: 84_11: 49/51
+[ Info: 84_11: 50/51
+[ Info: 84_11: 51/51
+[ Info: 84_11: layer 2/2, base field no. 1/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 1/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 2/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 2/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 3/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 3/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 4/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 4/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 5/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 5/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 6/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 6/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 7/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 7/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 8/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 8/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 9/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 9/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 10/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 10/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 11/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 11/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 12/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 12/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 13/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 13/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 14/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 14/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 15/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 15/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 16/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 16/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 17/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 17/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 18/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 18/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 19/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 19/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 20/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 20/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 21/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 21/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 22/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 22/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 23/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 23/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 24/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 24/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 25/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 25/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 26/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 26/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 27/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 27/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 28/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 28/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 29/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 29/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 30/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 30/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 31/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 31/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 32/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 32/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 33/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 33/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 34/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 34/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 35/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 35/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 36/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 36/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 37/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 37/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 38/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 38/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 39/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 39/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 40/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 40/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 41/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 41/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 42/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 42/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 43/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 43/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 44/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 44/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 45/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 45/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 46/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 46/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 47/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 47/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 48/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 48/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 49/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 49/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 50/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 50/51, checking fields: 0
+[ Info: 84_11: layer 2/2, base field no. 51/51, constructing abelian extensions
+[ Info: 84_11: layer 2/2, base field no. 51/51, checking fields: 0
+ 21.860556 seconds (69.89 M allocations: 3.911 GiB, 7.59% gc time, 67.92% compilation time: 2% of which was recompilation)

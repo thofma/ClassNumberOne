@@ -1,0 +1,565 @@
+[ Info: 84_5: File for first layer does not exist; computing [4]...
+[ Info: 84_5: Discriminant bound: 4641589
+[ Info: 84_5: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 84_5: 1/249
+[ Info: 84_5: 2/249
+[ Info: 84_5: 3/249
+[ Info: 84_5: 4/249
+[ Info: 84_5: 5/249
+[ Info: 84_5: 6/249
+[ Info: 84_5: 7/249
+[ Info: 84_5: 8/249
+[ Info: 84_5: 9/249
+[ Info: 84_5: 10/249
+[ Info: 84_5: 11/249
+[ Info: 84_5: 12/249
+[ Info: 84_5: 13/249
+[ Info: 84_5: 14/249
+[ Info: 84_5: 15/249
+[ Info: 84_5: 16/249
+[ Info: 84_5: 17/249
+[ Info: 84_5: 18/249
+[ Info: 84_5: 19/249
+[ Info: 84_5: 20/249
+[ Info: 84_5: 21/249
+[ Info: 84_5: 22/249
+[ Info: 84_5: 23/249
+[ Info: 84_5: 24/249
+[ Info: 84_5: 25/249
+[ Info: 84_5: 26/249
+[ Info: 84_5: 27/249
+[ Info: 84_5: 28/249
+[ Info: 84_5: 29/249
+[ Info: 84_5: 30/249
+[ Info: 84_5: 31/249
+[ Info: 84_5: 32/249
+[ Info: 84_5: 33/249
+[ Info: 84_5: 34/249
+[ Info: 84_5: 35/249
+[ Info: 84_5: 36/249
+[ Info: 84_5: 37/249
+[ Info: 84_5: 38/249
+[ Info: 84_5: 39/249
+[ Info: 84_5: 40/249
+[ Info: 84_5: 41/249
+[ Info: 84_5: 42/249
+[ Info: 84_5: 43/249
+[ Info: 84_5: 44/249
+[ Info: 84_5: 45/249
+[ Info: 84_5: 46/249
+[ Info: 84_5: 47/249
+[ Info: 84_5: 48/249
+[ Info: 84_5: 49/249
+[ Info: 84_5: 50/249
+[ Info: 84_5: 51/249
+[ Info: 84_5: 52/249
+[ Info: 84_5: 53/249
+[ Info: 84_5: 54/249
+[ Info: 84_5: 55/249
+[ Info: 84_5: 56/249
+[ Info: 84_5: 57/249
+[ Info: 84_5: 58/249
+[ Info: 84_5: 59/249
+[ Info: 84_5: 60/249
+[ Info: 84_5: 61/249
+[ Info: 84_5: 62/249
+[ Info: 84_5: 63/249
+[ Info: 84_5: 64/249
+[ Info: 84_5: 65/249
+[ Info: 84_5: 66/249
+[ Info: 84_5: 67/249
+[ Info: 84_5: 68/249
+[ Info: 84_5: 69/249
+[ Info: 84_5: 70/249
+[ Info: 84_5: 71/249
+[ Info: 84_5: 72/249
+[ Info: 84_5: 73/249
+[ Info: 84_5: 74/249
+[ Info: 84_5: 75/249
+[ Info: 84_5: 76/249
+[ Info: 84_5: 77/249
+[ Info: 84_5: 78/249
+[ Info: 84_5: 79/249
+[ Info: 84_5: 80/249
+[ Info: 84_5: 81/249
+[ Info: 84_5: 82/249
+[ Info: 84_5: 83/249
+[ Info: 84_5: 84/249
+[ Info: 84_5: 85/249
+[ Info: 84_5: 86/249
+[ Info: 84_5: 87/249
+[ Info: 84_5: 88/249
+[ Info: 84_5: 89/249
+[ Info: 84_5: 90/249
+[ Info: 84_5: 91/249
+[ Info: 84_5: 92/249
+[ Info: 84_5: 93/249
+[ Info: 84_5: 94/249
+[ Info: 84_5: 95/249
+[ Info: 84_5: 96/249
+[ Info: 84_5: 97/249
+[ Info: 84_5: 98/249
+[ Info: 84_5: 99/249
+[ Info: 84_5: 100/249
+[ Info: 84_5: 101/249
+[ Info: 84_5: 102/249
+[ Info: 84_5: 103/249
+[ Info: 84_5: 104/249
+[ Info: 84_5: 105/249
+[ Info: 84_5: 106/249
+[ Info: 84_5: 107/249
+[ Info: 84_5: 108/249
+[ Info: 84_5: 109/249
+[ Info: 84_5: 110/249
+[ Info: 84_5: 111/249
+[ Info: 84_5: 112/249
+[ Info: 84_5: 113/249
+[ Info: 84_5: 114/249
+[ Info: 84_5: 115/249
+[ Info: 84_5: 116/249
+[ Info: 84_5: 117/249
+[ Info: 84_5: 118/249
+[ Info: 84_5: 119/249
+[ Info: 84_5: 120/249
+[ Info: 84_5: 121/249
+[ Info: 84_5: 122/249
+[ Info: 84_5: 123/249
+[ Info: 84_5: 124/249
+[ Info: 84_5: 125/249
+[ Info: 84_5: 126/249
+[ Info: 84_5: 127/249
+[ Info: 84_5: 128/249
+[ Info: 84_5: 129/249
+[ Info: 84_5: 130/249
+[ Info: 84_5: 131/249
+[ Info: 84_5: 132/249
+[ Info: 84_5: 133/249
+[ Info: 84_5: 134/249
+[ Info: 84_5: 135/249
+[ Info: 84_5: 136/249
+[ Info: 84_5: 137/249
+[ Info: 84_5: 138/249
+[ Info: 84_5: 139/249
+[ Info: 84_5: 140/249
+[ Info: 84_5: 141/249
+[ Info: 84_5: 142/249
+[ Info: 84_5: 143/249
+[ Info: 84_5: 144/249
+[ Info: 84_5: 145/249
+[ Info: 84_5: 146/249
+[ Info: 84_5: 147/249
+[ Info: 84_5: 148/249
+[ Info: 84_5: 149/249
+[ Info: 84_5: 150/249
+[ Info: 84_5: 151/249
+[ Info: 84_5: 152/249
+[ Info: 84_5: 153/249
+[ Info: 84_5: 154/249
+[ Info: 84_5: 155/249
+[ Info: 84_5: 156/249
+[ Info: 84_5: 157/249
+[ Info: 84_5: 158/249
+[ Info: 84_5: 159/249
+[ Info: 84_5: 160/249
+[ Info: 84_5: 161/249
+[ Info: 84_5: 162/249
+[ Info: 84_5: 163/249
+[ Info: 84_5: 164/249
+[ Info: 84_5: 165/249
+[ Info: 84_5: 166/249
+[ Info: 84_5: 167/249
+[ Info: 84_5: 168/249
+[ Info: 84_5: 169/249
+[ Info: 84_5: 170/249
+[ Info: 84_5: 171/249
+[ Info: 84_5: 172/249
+[ Info: 84_5: 173/249
+[ Info: 84_5: 174/249
+[ Info: 84_5: 175/249
+[ Info: 84_5: 176/249
+[ Info: 84_5: 177/249
+[ Info: 84_5: 178/249
+[ Info: 84_5: 179/249
+[ Info: 84_5: 180/249
+[ Info: 84_5: 181/249
+[ Info: 84_5: 182/249
+[ Info: 84_5: 183/249
+[ Info: 84_5: 184/249
+[ Info: 84_5: 185/249
+[ Info: 84_5: 186/249
+[ Info: 84_5: 187/249
+[ Info: 84_5: 188/249
+[ Info: 84_5: 189/249
+[ Info: 84_5: 190/249
+[ Info: 84_5: 191/249
+[ Info: 84_5: 192/249
+[ Info: 84_5: 193/249
+[ Info: 84_5: 194/249
+[ Info: 84_5: 195/249
+[ Info: 84_5: 196/249
+[ Info: 84_5: 197/249
+[ Info: 84_5: 198/249
+[ Info: 84_5: 199/249
+[ Info: 84_5: 200/249
+[ Info: 84_5: 201/249
+[ Info: 84_5: 202/249
+[ Info: 84_5: 203/249
+[ Info: 84_5: 204/249
+[ Info: 84_5: 205/249
+[ Info: 84_5: 206/249
+[ Info: 84_5: 207/249
+[ Info: 84_5: 208/249
+[ Info: 84_5: 209/249
+[ Info: 84_5: 210/249
+[ Info: 84_5: 211/249
+[ Info: 84_5: 212/249
+[ Info: 84_5: 213/249
+[ Info: 84_5: 214/249
+[ Info: 84_5: 215/249
+[ Info: 84_5: 216/249
+[ Info: 84_5: 217/249
+[ Info: 84_5: 218/249
+[ Info: 84_5: 219/249
+[ Info: 84_5: 220/249
+[ Info: 84_5: 221/249
+[ Info: 84_5: 222/249
+[ Info: 84_5: 223/249
+[ Info: 84_5: 224/249
+[ Info: 84_5: 225/249
+[ Info: 84_5: 226/249
+[ Info: 84_5: 227/249
+[ Info: 84_5: 228/249
+[ Info: 84_5: 229/249
+[ Info: 84_5: 230/249
+[ Info: 84_5: 231/249
+[ Info: 84_5: 232/249
+[ Info: 84_5: 233/249
+[ Info: 84_5: 234/249
+[ Info: 84_5: 235/249
+[ Info: 84_5: 236/249
+[ Info: 84_5: 237/249
+[ Info: 84_5: 238/249
+[ Info: 84_5: 239/249
+[ Info: 84_5: 240/249
+[ Info: 84_5: 241/249
+[ Info: 84_5: 242/249
+[ Info: 84_5: 243/249
+[ Info: 84_5: 244/249
+[ Info: 84_5: 245/249
+[ Info: 84_5: 246/249
+[ Info: 84_5: 247/249
+[ Info: 84_5: 248/249
+[ Info: 84_5: 249/249
+[ Info: 84_5: layer 2/2, base field no. 1/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 1/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 2/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 2/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 3/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 3/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 4/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 4/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 5/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 5/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 6/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 6/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 7/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 7/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 8/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 8/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 9/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 9/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 10/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 10/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 11/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 11/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 12/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 12/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 13/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 13/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 14/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 14/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 15/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 15/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 16/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 16/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 17/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 17/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 18/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 18/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 19/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 19/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 20/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 20/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 21/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 21/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 22/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 22/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 23/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 23/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 24/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 24/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 25/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 25/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 26/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 26/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 27/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 27/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 28/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 28/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 29/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 29/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 30/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 30/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 31/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 31/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 32/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 32/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 33/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 33/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 34/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 34/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 35/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 35/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 36/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 36/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 37/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 37/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 38/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 38/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 39/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 39/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 40/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 40/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 41/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 41/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 42/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 42/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 43/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 43/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 44/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 44/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 45/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 45/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 46/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 46/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 47/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 47/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 48/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 48/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 49/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 49/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 50/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 50/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 51/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 51/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 52/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 52/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 53/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 53/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 54/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 54/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 55/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 55/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 56/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 56/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 57/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 57/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 58/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 58/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 59/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 59/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 60/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 60/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 61/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 61/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 62/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 62/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 63/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 63/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 64/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 64/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 65/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 65/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 66/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 66/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 67/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 67/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 68/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 68/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 69/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 69/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 70/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 70/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 71/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 71/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 72/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 72/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 73/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 73/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 74/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 74/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 75/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 75/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 76/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 76/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 77/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 77/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 78/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 78/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 79/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 79/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 80/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 80/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 81/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 81/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 82/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 82/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 83/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 83/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 84/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 84/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 85/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 85/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 86/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 86/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 87/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 87/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 88/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 88/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 89/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 89/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 90/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 90/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 91/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 91/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 92/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 92/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 93/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 93/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 94/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 94/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 95/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 95/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 96/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 96/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 97/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 97/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 98/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 98/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 99/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 99/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 100/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 100/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 101/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 101/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 102/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 102/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 103/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 103/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 104/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 104/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 105/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 105/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 106/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 106/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 107/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 107/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 108/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 108/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 109/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 109/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 110/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 110/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 111/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 111/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 112/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 112/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 113/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 113/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 114/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 114/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 115/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 115/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 116/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 116/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 117/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 117/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 118/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 118/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 119/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 119/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 120/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 120/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 121/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 121/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 122/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 122/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 123/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 123/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 124/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 124/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 125/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 125/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 126/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 126/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 127/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 127/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 128/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 128/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 129/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 129/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 130/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 130/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 131/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 131/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 132/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 132/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 133/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 133/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 134/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 134/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 135/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 135/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 136/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 136/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 137/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 137/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 138/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 138/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 139/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 139/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 140/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 140/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 141/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 141/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 142/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 142/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 143/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 143/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 144/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 144/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 145/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 145/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 146/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 146/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 147/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 147/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 148/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 148/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 149/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 149/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 150/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 150/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 151/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 151/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 152/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 152/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 153/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 153/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 154/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 154/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 155/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 155/156, checking fields: 0
+[ Info: 84_5: layer 2/2, base field no. 156/156, constructing abelian extensions
+[ Info: 84_5: layer 2/2, base field no. 156/156, checking fields: 0
+ 42.816473 seconds (156.19 M allocations: 7.298 GiB, 11.83% gc time, 54.42% compilation time: 1% of which was recompilation)

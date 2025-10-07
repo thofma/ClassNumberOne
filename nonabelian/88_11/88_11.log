@@ -1,0 +1,1430 @@
+[ Info: 88_11: File for first layer does not exist; computing [2, 2, 2]...
+[ Info: 88_11: Discriminant bound: 18738174228604
+[ Info: 88_11: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 88_11: 1/958
+[ Info: 88_11: 2/958
+[ Info: 88_11: 3/958
+[ Info: 88_11: 4/958
+[ Info: 88_11: 5/958
+[ Info: 88_11: 6/958
+[ Info: 88_11: 7/958
+[ Info: 88_11: 8/958
+[ Info: 88_11: 9/958
+[ Info: 88_11: 10/958
+[ Info: 88_11: 11/958
+[ Info: 88_11: 12/958
+[ Info: 88_11: 13/958
+[ Info: 88_11: 14/958
+[ Info: 88_11: 15/958
+[ Info: 88_11: 16/958
+[ Info: 88_11: 17/958
+[ Info: 88_11: 18/958
+[ Info: 88_11: 19/958
+[ Info: 88_11: 20/958
+[ Info: 88_11: 21/958
+[ Info: 88_11: 22/958
+[ Info: 88_11: 23/958
+[ Info: 88_11: 24/958
+[ Info: 88_11: 25/958
+[ Info: 88_11: 26/958
+[ Info: 88_11: 27/958
+[ Info: 88_11: 28/958
+[ Info: 88_11: 29/958
+[ Info: 88_11: 30/958
+[ Info: 88_11: 31/958
+[ Info: 88_11: 32/958
+[ Info: 88_11: 33/958
+[ Info: 88_11: 34/958
+[ Info: 88_11: 35/958
+[ Info: 88_11: 36/958
+[ Info: 88_11: 37/958
+[ Info: 88_11: 38/958
+[ Info: 88_11: 39/958
+[ Info: 88_11: 40/958
+[ Info: 88_11: 41/958
+[ Info: 88_11: 42/958
+[ Info: 88_11: 43/958
+[ Info: 88_11: 44/958
+[ Info: 88_11: 45/958
+[ Info: 88_11: 46/958
+[ Info: 88_11: 47/958
+[ Info: 88_11: 48/958
+[ Info: 88_11: 49/958
+[ Info: 88_11: 50/958
+[ Info: 88_11: 51/958
+[ Info: 88_11: 52/958
+[ Info: 88_11: 53/958
+[ Info: 88_11: 54/958
+[ Info: 88_11: 55/958
+[ Info: 88_11: 56/958
+[ Info: 88_11: 57/958
+[ Info: 88_11: 58/958
+[ Info: 88_11: 59/958
+[ Info: 88_11: 60/958
+[ Info: 88_11: 61/958
+[ Info: 88_11: 62/958
+[ Info: 88_11: 63/958
+[ Info: 88_11: 64/958
+[ Info: 88_11: 65/958
+[ Info: 88_11: 66/958
+[ Info: 88_11: 67/958
+[ Info: 88_11: 68/958
+[ Info: 88_11: 69/958
+[ Info: 88_11: 70/958
+[ Info: 88_11: 71/958
+[ Info: 88_11: 72/958
+[ Info: 88_11: 73/958
+[ Info: 88_11: 74/958
+[ Info: 88_11: 75/958
+[ Info: 88_11: 76/958
+[ Info: 88_11: 77/958
+[ Info: 88_11: 78/958
+[ Info: 88_11: 79/958
+[ Info: 88_11: 80/958
+[ Info: 88_11: 81/958
+[ Info: 88_11: 82/958
+[ Info: 88_11: 83/958
+[ Info: 88_11: 84/958
+[ Info: 88_11: 85/958
+[ Info: 88_11: 86/958
+[ Info: 88_11: 87/958
+[ Info: 88_11: 88/958
+[ Info: 88_11: 89/958
+[ Info: 88_11: 90/958
+[ Info: 88_11: 91/958
+[ Info: 88_11: 92/958
+[ Info: 88_11: 93/958
+[ Info: 88_11: 94/958
+[ Info: 88_11: 95/958
+[ Info: 88_11: 96/958
+[ Info: 88_11: 97/958
+[ Info: 88_11: 98/958
+[ Info: 88_11: 99/958
+[ Info: 88_11: 100/958
+[ Info: 88_11: 101/958
+[ Info: 88_11: 102/958
+[ Info: 88_11: 103/958
+[ Info: 88_11: 104/958
+[ Info: 88_11: 105/958
+[ Info: 88_11: 106/958
+[ Info: 88_11: 107/958
+[ Info: 88_11: 108/958
+[ Info: 88_11: 109/958
+[ Info: 88_11: 110/958
+[ Info: 88_11: 111/958
+[ Info: 88_11: 112/958
+[ Info: 88_11: 113/958
+[ Info: 88_11: 114/958
+[ Info: 88_11: 115/958
+[ Info: 88_11: 116/958
+[ Info: 88_11: 117/958
+[ Info: 88_11: 118/958
+[ Info: 88_11: 119/958
+[ Info: 88_11: 120/958
+[ Info: 88_11: 121/958
+[ Info: 88_11: 122/958
+[ Info: 88_11: 123/958
+[ Info: 88_11: 124/958
+[ Info: 88_11: 125/958
+[ Info: 88_11: 126/958
+[ Info: 88_11: 127/958
+[ Info: 88_11: 128/958
+[ Info: 88_11: 129/958
+[ Info: 88_11: 130/958
+[ Info: 88_11: 131/958
+[ Info: 88_11: 132/958
+[ Info: 88_11: 133/958
+[ Info: 88_11: 134/958
+[ Info: 88_11: 135/958
+[ Info: 88_11: 136/958
+[ Info: 88_11: 137/958
+[ Info: 88_11: 138/958
+[ Info: 88_11: 139/958
+[ Info: 88_11: 140/958
+[ Info: 88_11: 141/958
+[ Info: 88_11: 142/958
+[ Info: 88_11: 143/958
+[ Info: 88_11: 144/958
+[ Info: 88_11: 145/958
+[ Info: 88_11: 146/958
+[ Info: 88_11: 147/958
+[ Info: 88_11: 148/958
+[ Info: 88_11: 149/958
+[ Info: 88_11: 150/958
+[ Info: 88_11: 151/958
+[ Info: 88_11: 152/958
+[ Info: 88_11: 153/958
+[ Info: 88_11: 154/958
+[ Info: 88_11: 155/958
+[ Info: 88_11: 156/958
+[ Info: 88_11: 157/958
+[ Info: 88_11: 158/958
+[ Info: 88_11: 159/958
+[ Info: 88_11: 160/958
+[ Info: 88_11: 161/958
+[ Info: 88_11: 162/958
+[ Info: 88_11: 163/958
+[ Info: 88_11: 164/958
+[ Info: 88_11: 165/958
+[ Info: 88_11: 166/958
+[ Info: 88_11: 167/958
+[ Info: 88_11: 168/958
+[ Info: 88_11: 169/958
+[ Info: 88_11: 170/958
+[ Info: 88_11: 171/958
+[ Info: 88_11: 172/958
+[ Info: 88_11: 173/958
+[ Info: 88_11: 174/958
+[ Info: 88_11: 175/958
+[ Info: 88_11: 176/958
+[ Info: 88_11: 177/958
+[ Info: 88_11: 178/958
+[ Info: 88_11: 179/958
+[ Info: 88_11: 180/958
+[ Info: 88_11: 181/958
+[ Info: 88_11: 182/958
+[ Info: 88_11: 183/958
+[ Info: 88_11: 184/958
+[ Info: 88_11: 185/958
+[ Info: 88_11: 186/958
+[ Info: 88_11: 187/958
+[ Info: 88_11: 188/958
+[ Info: 88_11: 189/958
+[ Info: 88_11: 190/958
+[ Info: 88_11: 191/958
+[ Info: 88_11: 192/958
+[ Info: 88_11: 193/958
+[ Info: 88_11: 194/958
+[ Info: 88_11: 195/958
+[ Info: 88_11: 196/958
+[ Info: 88_11: 197/958
+[ Info: 88_11: 198/958
+[ Info: 88_11: 199/958
+[ Info: 88_11: 200/958
+[ Info: 88_11: 201/958
+[ Info: 88_11: 202/958
+[ Info: 88_11: 203/958
+[ Info: 88_11: 204/958
+[ Info: 88_11: 205/958
+[ Info: 88_11: 206/958
+[ Info: 88_11: 207/958
+[ Info: 88_11: 208/958
+[ Info: 88_11: 209/958
+[ Info: 88_11: 210/958
+[ Info: 88_11: 211/958
+[ Info: 88_11: 212/958
+[ Info: 88_11: 213/958
+[ Info: 88_11: 214/958
+[ Info: 88_11: 215/958
+[ Info: 88_11: 216/958
+[ Info: 88_11: 217/958
+[ Info: 88_11: 218/958
+[ Info: 88_11: 219/958
+[ Info: 88_11: 220/958
+[ Info: 88_11: 221/958
+[ Info: 88_11: 222/958
+[ Info: 88_11: 223/958
+[ Info: 88_11: 224/958
+[ Info: 88_11: 225/958
+[ Info: 88_11: 226/958
+[ Info: 88_11: 227/958
+[ Info: 88_11: 228/958
+[ Info: 88_11: 229/958
+[ Info: 88_11: 230/958
+[ Info: 88_11: 231/958
+[ Info: 88_11: 232/958
+[ Info: 88_11: 233/958
+[ Info: 88_11: 234/958
+[ Info: 88_11: 235/958
+[ Info: 88_11: 236/958
+[ Info: 88_11: 237/958
+[ Info: 88_11: 238/958
+[ Info: 88_11: 239/958
+[ Info: 88_11: 240/958
+[ Info: 88_11: 241/958
+[ Info: 88_11: 242/958
+[ Info: 88_11: 243/958
+[ Info: 88_11: 244/958
+[ Info: 88_11: 245/958
+[ Info: 88_11: 246/958
+[ Info: 88_11: 247/958
+[ Info: 88_11: 248/958
+[ Info: 88_11: 249/958
+[ Info: 88_11: 250/958
+[ Info: 88_11: 251/958
+[ Info: 88_11: 252/958
+[ Info: 88_11: 253/958
+[ Info: 88_11: 254/958
+[ Info: 88_11: 255/958
+[ Info: 88_11: 256/958
+[ Info: 88_11: 257/958
+[ Info: 88_11: 258/958
+[ Info: 88_11: 259/958
+[ Info: 88_11: 260/958
+[ Info: 88_11: 261/958
+[ Info: 88_11: 262/958
+[ Info: 88_11: 263/958
+[ Info: 88_11: 264/958
+[ Info: 88_11: 265/958
+[ Info: 88_11: 266/958
+[ Info: 88_11: 267/958
+[ Info: 88_11: 268/958
+[ Info: 88_11: 269/958
+[ Info: 88_11: 270/958
+[ Info: 88_11: 271/958
+[ Info: 88_11: 272/958
+[ Info: 88_11: 273/958
+[ Info: 88_11: 274/958
+[ Info: 88_11: 275/958
+[ Info: 88_11: 276/958
+[ Info: 88_11: 277/958
+[ Info: 88_11: 278/958
+[ Info: 88_11: 279/958
+[ Info: 88_11: 280/958
+[ Info: 88_11: 281/958
+[ Info: 88_11: 282/958
+[ Info: 88_11: 283/958
+[ Info: 88_11: 284/958
+[ Info: 88_11: 285/958
+[ Info: 88_11: 286/958
+[ Info: 88_11: 287/958
+[ Info: 88_11: 288/958
+[ Info: 88_11: 289/958
+[ Info: 88_11: 290/958
+[ Info: 88_11: 291/958
+[ Info: 88_11: 292/958
+[ Info: 88_11: 293/958
+[ Info: 88_11: 294/958
+[ Info: 88_11: 295/958
+[ Info: 88_11: 296/958
+[ Info: 88_11: 297/958
+[ Info: 88_11: 298/958
+[ Info: 88_11: 299/958
+[ Info: 88_11: 300/958
+[ Info: 88_11: 301/958
+[ Info: 88_11: 302/958
+[ Info: 88_11: 303/958
+[ Info: 88_11: 304/958
+[ Info: 88_11: 305/958
+[ Info: 88_11: 306/958
+[ Info: 88_11: 307/958
+[ Info: 88_11: 308/958
+[ Info: 88_11: 309/958
+[ Info: 88_11: 310/958
+[ Info: 88_11: 311/958
+[ Info: 88_11: 312/958
+[ Info: 88_11: 313/958
+[ Info: 88_11: 314/958
+[ Info: 88_11: 315/958
+[ Info: 88_11: 316/958
+[ Info: 88_11: 317/958
+[ Info: 88_11: 318/958
+[ Info: 88_11: 319/958
+[ Info: 88_11: 320/958
+[ Info: 88_11: 321/958
+[ Info: 88_11: 322/958
+[ Info: 88_11: 323/958
+[ Info: 88_11: 324/958
+[ Info: 88_11: 325/958
+[ Info: 88_11: 326/958
+[ Info: 88_11: 327/958
+[ Info: 88_11: 328/958
+[ Info: 88_11: 329/958
+[ Info: 88_11: 330/958
+[ Info: 88_11: 331/958
+[ Info: 88_11: 332/958
+[ Info: 88_11: 333/958
+[ Info: 88_11: 334/958
+[ Info: 88_11: 335/958
+[ Info: 88_11: 336/958
+[ Info: 88_11: 337/958
+[ Info: 88_11: 338/958
+[ Info: 88_11: 339/958
+[ Info: 88_11: 340/958
+[ Info: 88_11: 341/958
+[ Info: 88_11: 342/958
+[ Info: 88_11: 343/958
+[ Info: 88_11: 344/958
+[ Info: 88_11: 345/958
+[ Info: 88_11: 346/958
+[ Info: 88_11: 347/958
+[ Info: 88_11: 348/958
+[ Info: 88_11: 349/958
+[ Info: 88_11: 350/958
+[ Info: 88_11: 351/958
+[ Info: 88_11: 352/958
+[ Info: 88_11: 353/958
+[ Info: 88_11: 354/958
+[ Info: 88_11: 355/958
+[ Info: 88_11: 356/958
+[ Info: 88_11: 357/958
+[ Info: 88_11: 358/958
+[ Info: 88_11: 359/958
+[ Info: 88_11: 360/958
+[ Info: 88_11: 361/958
+[ Info: 88_11: 362/958
+[ Info: 88_11: 363/958
+[ Info: 88_11: 364/958
+[ Info: 88_11: 365/958
+[ Info: 88_11: 366/958
+[ Info: 88_11: 367/958
+[ Info: 88_11: 368/958
+[ Info: 88_11: 369/958
+[ Info: 88_11: 370/958
+[ Info: 88_11: 371/958
+[ Info: 88_11: 372/958
+[ Info: 88_11: 373/958
+[ Info: 88_11: 374/958
+[ Info: 88_11: 375/958
+[ Info: 88_11: 376/958
+[ Info: 88_11: 377/958
+[ Info: 88_11: 378/958
+[ Info: 88_11: 379/958
+[ Info: 88_11: 380/958
+[ Info: 88_11: 381/958
+[ Info: 88_11: 382/958
+[ Info: 88_11: 383/958
+[ Info: 88_11: 384/958
+[ Info: 88_11: 385/958
+[ Info: 88_11: 386/958
+[ Info: 88_11: 387/958
+[ Info: 88_11: 388/958
+[ Info: 88_11: 389/958
+[ Info: 88_11: 390/958
+[ Info: 88_11: 391/958
+[ Info: 88_11: 392/958
+[ Info: 88_11: 393/958
+[ Info: 88_11: 394/958
+[ Info: 88_11: 395/958
+[ Info: 88_11: 396/958
+[ Info: 88_11: 397/958
+[ Info: 88_11: 398/958
+[ Info: 88_11: 399/958
+[ Info: 88_11: 400/958
+[ Info: 88_11: 401/958
+[ Info: 88_11: 402/958
+[ Info: 88_11: 403/958
+[ Info: 88_11: 404/958
+[ Info: 88_11: 405/958
+[ Info: 88_11: 406/958
+[ Info: 88_11: 407/958
+[ Info: 88_11: 408/958
+[ Info: 88_11: 409/958
+[ Info: 88_11: 410/958
+[ Info: 88_11: 411/958
+[ Info: 88_11: 412/958
+[ Info: 88_11: 413/958
+[ Info: 88_11: 414/958
+[ Info: 88_11: 415/958
+[ Info: 88_11: 416/958
+[ Info: 88_11: 417/958
+[ Info: 88_11: 418/958
+[ Info: 88_11: 419/958
+[ Info: 88_11: 420/958
+[ Info: 88_11: 421/958
+[ Info: 88_11: 422/958
+[ Info: 88_11: 423/958
+[ Info: 88_11: 424/958
+[ Info: 88_11: 425/958
+[ Info: 88_11: 426/958
+[ Info: 88_11: 427/958
+[ Info: 88_11: 428/958
+[ Info: 88_11: 429/958
+[ Info: 88_11: 430/958
+[ Info: 88_11: 431/958
+[ Info: 88_11: 432/958
+[ Info: 88_11: 433/958
+[ Info: 88_11: 434/958
+[ Info: 88_11: 435/958
+[ Info: 88_11: 436/958
+[ Info: 88_11: 437/958
+[ Info: 88_11: 438/958
+[ Info: 88_11: 439/958
+[ Info: 88_11: 440/958
+[ Info: 88_11: 441/958
+[ Info: 88_11: 442/958
+[ Info: 88_11: 443/958
+[ Info: 88_11: 444/958
+[ Info: 88_11: 445/958
+[ Info: 88_11: 446/958
+[ Info: 88_11: 447/958
+[ Info: 88_11: 448/958
+[ Info: 88_11: 449/958
+[ Info: 88_11: 450/958
+[ Info: 88_11: 451/958
+[ Info: 88_11: 452/958
+[ Info: 88_11: 453/958
+[ Info: 88_11: 454/958
+[ Info: 88_11: 455/958
+[ Info: 88_11: 456/958
+[ Info: 88_11: 457/958
+[ Info: 88_11: 458/958
+[ Info: 88_11: 459/958
+[ Info: 88_11: 460/958
+[ Info: 88_11: 461/958
+[ Info: 88_11: 462/958
+[ Info: 88_11: 463/958
+[ Info: 88_11: 464/958
+[ Info: 88_11: 465/958
+[ Info: 88_11: 466/958
+[ Info: 88_11: 467/958
+[ Info: 88_11: 468/958
+[ Info: 88_11: 469/958
+[ Info: 88_11: 470/958
+[ Info: 88_11: 471/958
+[ Info: 88_11: 472/958
+[ Info: 88_11: 473/958
+[ Info: 88_11: 474/958
+[ Info: 88_11: 475/958
+[ Info: 88_11: 476/958
+[ Info: 88_11: 477/958
+[ Info: 88_11: 478/958
+[ Info: 88_11: 479/958
+[ Info: 88_11: 480/958
+[ Info: 88_11: 481/958
+[ Info: 88_11: 482/958
+[ Info: 88_11: 483/958
+[ Info: 88_11: 484/958
+[ Info: 88_11: 485/958
+[ Info: 88_11: 486/958
+[ Info: 88_11: 487/958
+[ Info: 88_11: 488/958
+[ Info: 88_11: 489/958
+[ Info: 88_11: 490/958
+[ Info: 88_11: 491/958
+[ Info: 88_11: 492/958
+[ Info: 88_11: 493/958
+[ Info: 88_11: 494/958
+[ Info: 88_11: 495/958
+[ Info: 88_11: 496/958
+[ Info: 88_11: 497/958
+[ Info: 88_11: 498/958
+[ Info: 88_11: 499/958
+[ Info: 88_11: 500/958
+[ Info: 88_11: 501/958
+[ Info: 88_11: 502/958
+[ Info: 88_11: 503/958
+[ Info: 88_11: 504/958
+[ Info: 88_11: 505/958
+[ Info: 88_11: 506/958
+[ Info: 88_11: 507/958
+[ Info: 88_11: 508/958
+[ Info: 88_11: 509/958
+[ Info: 88_11: 510/958
+[ Info: 88_11: 511/958
+[ Info: 88_11: 512/958
+[ Info: 88_11: 513/958
+[ Info: 88_11: 514/958
+[ Info: 88_11: 515/958
+[ Info: 88_11: 516/958
+[ Info: 88_11: 517/958
+[ Info: 88_11: 518/958
+[ Info: 88_11: 519/958
+[ Info: 88_11: 520/958
+[ Info: 88_11: 521/958
+[ Info: 88_11: 522/958
+[ Info: 88_11: 523/958
+[ Info: 88_11: 524/958
+[ Info: 88_11: 525/958
+[ Info: 88_11: 526/958
+[ Info: 88_11: 527/958
+[ Info: 88_11: 528/958
+[ Info: 88_11: 529/958
+[ Info: 88_11: 530/958
+[ Info: 88_11: 531/958
+[ Info: 88_11: 532/958
+[ Info: 88_11: 533/958
+[ Info: 88_11: 534/958
+[ Info: 88_11: 535/958
+[ Info: 88_11: 536/958
+[ Info: 88_11: 537/958
+[ Info: 88_11: 538/958
+[ Info: 88_11: 539/958
+[ Info: 88_11: 540/958
+[ Info: 88_11: 541/958
+[ Info: 88_11: 542/958
+[ Info: 88_11: 543/958
+[ Info: 88_11: 544/958
+[ Info: 88_11: 545/958
+[ Info: 88_11: 546/958
+[ Info: 88_11: 547/958
+[ Info: 88_11: 548/958
+[ Info: 88_11: 549/958
+[ Info: 88_11: 550/958
+[ Info: 88_11: 551/958
+[ Info: 88_11: 552/958
+[ Info: 88_11: 553/958
+[ Info: 88_11: 554/958
+[ Info: 88_11: 555/958
+[ Info: 88_11: 556/958
+[ Info: 88_11: 557/958
+[ Info: 88_11: 558/958
+[ Info: 88_11: 559/958
+[ Info: 88_11: 560/958
+[ Info: 88_11: 561/958
+[ Info: 88_11: 562/958
+[ Info: 88_11: 563/958
+[ Info: 88_11: 564/958
+[ Info: 88_11: 565/958
+[ Info: 88_11: 566/958
+[ Info: 88_11: 567/958
+[ Info: 88_11: 568/958
+[ Info: 88_11: 569/958
+[ Info: 88_11: 570/958
+[ Info: 88_11: 571/958
+[ Info: 88_11: 572/958
+[ Info: 88_11: 573/958
+[ Info: 88_11: 574/958
+[ Info: 88_11: 575/958
+[ Info: 88_11: 576/958
+[ Info: 88_11: 577/958
+[ Info: 88_11: 578/958
+[ Info: 88_11: 579/958
+[ Info: 88_11: 580/958
+[ Info: 88_11: 581/958
+[ Info: 88_11: 582/958
+[ Info: 88_11: 583/958
+[ Info: 88_11: 584/958
+[ Info: 88_11: 585/958
+[ Info: 88_11: 586/958
+[ Info: 88_11: 587/958
+[ Info: 88_11: 588/958
+[ Info: 88_11: 589/958
+[ Info: 88_11: 590/958
+[ Info: 88_11: 591/958
+[ Info: 88_11: 592/958
+[ Info: 88_11: 593/958
+[ Info: 88_11: 594/958
+[ Info: 88_11: 595/958
+[ Info: 88_11: 596/958
+[ Info: 88_11: 597/958
+[ Info: 88_11: 598/958
+[ Info: 88_11: 599/958
+[ Info: 88_11: 600/958
+[ Info: 88_11: 601/958
+[ Info: 88_11: 602/958
+[ Info: 88_11: 603/958
+[ Info: 88_11: 604/958
+[ Info: 88_11: 605/958
+[ Info: 88_11: 606/958
+[ Info: 88_11: 607/958
+[ Info: 88_11: 608/958
+[ Info: 88_11: 609/958
+[ Info: 88_11: 610/958
+[ Info: 88_11: 611/958
+[ Info: 88_11: 612/958
+[ Info: 88_11: 613/958
+[ Info: 88_11: 614/958
+[ Info: 88_11: 615/958
+[ Info: 88_11: 616/958
+[ Info: 88_11: 617/958
+[ Info: 88_11: 618/958
+[ Info: 88_11: 619/958
+[ Info: 88_11: 620/958
+[ Info: 88_11: 621/958
+[ Info: 88_11: 622/958
+[ Info: 88_11: 623/958
+[ Info: 88_11: 624/958
+[ Info: 88_11: 625/958
+[ Info: 88_11: 626/958
+[ Info: 88_11: 627/958
+[ Info: 88_11: 628/958
+[ Info: 88_11: 629/958
+[ Info: 88_11: 630/958
+[ Info: 88_11: 631/958
+[ Info: 88_11: 632/958
+[ Info: 88_11: 633/958
+[ Info: 88_11: 634/958
+[ Info: 88_11: 635/958
+[ Info: 88_11: 636/958
+[ Info: 88_11: 637/958
+[ Info: 88_11: 638/958
+[ Info: 88_11: 639/958
+[ Info: 88_11: 640/958
+[ Info: 88_11: 641/958
+[ Info: 88_11: 642/958
+[ Info: 88_11: 643/958
+[ Info: 88_11: 644/958
+[ Info: 88_11: 645/958
+[ Info: 88_11: 646/958
+[ Info: 88_11: 647/958
+[ Info: 88_11: 648/958
+[ Info: 88_11: 649/958
+[ Info: 88_11: 650/958
+[ Info: 88_11: 651/958
+[ Info: 88_11: 652/958
+[ Info: 88_11: 653/958
+[ Info: 88_11: 654/958
+[ Info: 88_11: 655/958
+[ Info: 88_11: 656/958
+[ Info: 88_11: 657/958
+[ Info: 88_11: 658/958
+[ Info: 88_11: 659/958
+[ Info: 88_11: 660/958
+[ Info: 88_11: 661/958
+[ Info: 88_11: 662/958
+[ Info: 88_11: 663/958
+[ Info: 88_11: 664/958
+[ Info: 88_11: 665/958
+[ Info: 88_11: 666/958
+[ Info: 88_11: 667/958
+[ Info: 88_11: 668/958
+[ Info: 88_11: 669/958
+[ Info: 88_11: 670/958
+[ Info: 88_11: 671/958
+[ Info: 88_11: 672/958
+[ Info: 88_11: 673/958
+[ Info: 88_11: 674/958
+[ Info: 88_11: 675/958
+[ Info: 88_11: 676/958
+[ Info: 88_11: 677/958
+[ Info: 88_11: 678/958
+[ Info: 88_11: 679/958
+[ Info: 88_11: 680/958
+[ Info: 88_11: 681/958
+[ Info: 88_11: 682/958
+[ Info: 88_11: 683/958
+[ Info: 88_11: 684/958
+[ Info: 88_11: 685/958
+[ Info: 88_11: 686/958
+[ Info: 88_11: 687/958
+[ Info: 88_11: 688/958
+[ Info: 88_11: 689/958
+[ Info: 88_11: 690/958
+[ Info: 88_11: 691/958
+[ Info: 88_11: 692/958
+[ Info: 88_11: 693/958
+[ Info: 88_11: 694/958
+[ Info: 88_11: 695/958
+[ Info: 88_11: 696/958
+[ Info: 88_11: 697/958
+[ Info: 88_11: 698/958
+[ Info: 88_11: 699/958
+[ Info: 88_11: 700/958
+[ Info: 88_11: 701/958
+[ Info: 88_11: 702/958
+[ Info: 88_11: 703/958
+[ Info: 88_11: 704/958
+[ Info: 88_11: 705/958
+[ Info: 88_11: 706/958
+[ Info: 88_11: 707/958
+[ Info: 88_11: 708/958
+[ Info: 88_11: 709/958
+[ Info: 88_11: 710/958
+[ Info: 88_11: 711/958
+[ Info: 88_11: 712/958
+[ Info: 88_11: 713/958
+[ Info: 88_11: 714/958
+[ Info: 88_11: 715/958
+[ Info: 88_11: 716/958
+[ Info: 88_11: 717/958
+[ Info: 88_11: 718/958
+[ Info: 88_11: 719/958
+[ Info: 88_11: 720/958
+[ Info: 88_11: 721/958
+[ Info: 88_11: 722/958
+[ Info: 88_11: 723/958
+[ Info: 88_11: 724/958
+[ Info: 88_11: 725/958
+[ Info: 88_11: 726/958
+[ Info: 88_11: 727/958
+[ Info: 88_11: 728/958
+[ Info: 88_11: 729/958
+[ Info: 88_11: 730/958
+[ Info: 88_11: 731/958
+[ Info: 88_11: 732/958
+[ Info: 88_11: 733/958
+[ Info: 88_11: 734/958
+[ Info: 88_11: 735/958
+[ Info: 88_11: 736/958
+[ Info: 88_11: 737/958
+[ Info: 88_11: 738/958
+[ Info: 88_11: 739/958
+[ Info: 88_11: 740/958
+[ Info: 88_11: 741/958
+[ Info: 88_11: 742/958
+[ Info: 88_11: 743/958
+[ Info: 88_11: 744/958
+[ Info: 88_11: 745/958
+[ Info: 88_11: 746/958
+[ Info: 88_11: 747/958
+[ Info: 88_11: 748/958
+[ Info: 88_11: 749/958
+[ Info: 88_11: 750/958
+[ Info: 88_11: 751/958
+[ Info: 88_11: 752/958
+[ Info: 88_11: 753/958
+[ Info: 88_11: 754/958
+[ Info: 88_11: 755/958
+[ Info: 88_11: 756/958
+[ Info: 88_11: 757/958
+[ Info: 88_11: 758/958
+[ Info: 88_11: 759/958
+[ Info: 88_11: 760/958
+[ Info: 88_11: 761/958
+[ Info: 88_11: 762/958
+[ Info: 88_11: 763/958
+[ Info: 88_11: 764/958
+[ Info: 88_11: 765/958
+[ Info: 88_11: 766/958
+[ Info: 88_11: 767/958
+[ Info: 88_11: 768/958
+[ Info: 88_11: 769/958
+[ Info: 88_11: 770/958
+[ Info: 88_11: 771/958
+[ Info: 88_11: 772/958
+[ Info: 88_11: 773/958
+[ Info: 88_11: 774/958
+[ Info: 88_11: 775/958
+[ Info: 88_11: 776/958
+[ Info: 88_11: 777/958
+[ Info: 88_11: 778/958
+[ Info: 88_11: 779/958
+[ Info: 88_11: 780/958
+[ Info: 88_11: 781/958
+[ Info: 88_11: 782/958
+[ Info: 88_11: 783/958
+[ Info: 88_11: 784/958
+[ Info: 88_11: 785/958
+[ Info: 88_11: 786/958
+[ Info: 88_11: 787/958
+[ Info: 88_11: 788/958
+[ Info: 88_11: 789/958
+[ Info: 88_11: 790/958
+[ Info: 88_11: 791/958
+[ Info: 88_11: 792/958
+[ Info: 88_11: 793/958
+[ Info: 88_11: 794/958
+[ Info: 88_11: 795/958
+[ Info: 88_11: 796/958
+[ Info: 88_11: 797/958
+[ Info: 88_11: 798/958
+[ Info: 88_11: 799/958
+[ Info: 88_11: 800/958
+[ Info: 88_11: 801/958
+[ Info: 88_11: 802/958
+[ Info: 88_11: 803/958
+[ Info: 88_11: 804/958
+[ Info: 88_11: 805/958
+[ Info: 88_11: 806/958
+[ Info: 88_11: 807/958
+[ Info: 88_11: 808/958
+[ Info: 88_11: 809/958
+[ Info: 88_11: 810/958
+[ Info: 88_11: 811/958
+[ Info: 88_11: 812/958
+[ Info: 88_11: 813/958
+[ Info: 88_11: 814/958
+[ Info: 88_11: 815/958
+[ Info: 88_11: 816/958
+[ Info: 88_11: 817/958
+[ Info: 88_11: 818/958
+[ Info: 88_11: 819/958
+[ Info: 88_11: 820/958
+[ Info: 88_11: 821/958
+[ Info: 88_11: 822/958
+[ Info: 88_11: 823/958
+[ Info: 88_11: 824/958
+[ Info: 88_11: 825/958
+[ Info: 88_11: 826/958
+[ Info: 88_11: 827/958
+[ Info: 88_11: 828/958
+[ Info: 88_11: 829/958
+[ Info: 88_11: 830/958
+[ Info: 88_11: 831/958
+[ Info: 88_11: 832/958
+[ Info: 88_11: 833/958
+[ Info: 88_11: 834/958
+[ Info: 88_11: 835/958
+[ Info: 88_11: 836/958
+[ Info: 88_11: 837/958
+[ Info: 88_11: 838/958
+[ Info: 88_11: 839/958
+[ Info: 88_11: 840/958
+[ Info: 88_11: 841/958
+[ Info: 88_11: 842/958
+[ Info: 88_11: 843/958
+[ Info: 88_11: 844/958
+[ Info: 88_11: 845/958
+[ Info: 88_11: 846/958
+[ Info: 88_11: 847/958
+[ Info: 88_11: 848/958
+[ Info: 88_11: 849/958
+[ Info: 88_11: 850/958
+[ Info: 88_11: 851/958
+[ Info: 88_11: 852/958
+[ Info: 88_11: 853/958
+[ Info: 88_11: 854/958
+[ Info: 88_11: 855/958
+[ Info: 88_11: 856/958
+[ Info: 88_11: 857/958
+[ Info: 88_11: 858/958
+[ Info: 88_11: 859/958
+[ Info: 88_11: 860/958
+[ Info: 88_11: 861/958
+[ Info: 88_11: 862/958
+[ Info: 88_11: 863/958
+[ Info: 88_11: 864/958
+[ Info: 88_11: 865/958
+[ Info: 88_11: 866/958
+[ Info: 88_11: 867/958
+[ Info: 88_11: 868/958
+[ Info: 88_11: 869/958
+[ Info: 88_11: 870/958
+[ Info: 88_11: 871/958
+[ Info: 88_11: 872/958
+[ Info: 88_11: 873/958
+[ Info: 88_11: 874/958
+[ Info: 88_11: 875/958
+[ Info: 88_11: 876/958
+[ Info: 88_11: 877/958
+[ Info: 88_11: 878/958
+[ Info: 88_11: 879/958
+[ Info: 88_11: 880/958
+[ Info: 88_11: 881/958
+[ Info: 88_11: 882/958
+[ Info: 88_11: 883/958
+[ Info: 88_11: 884/958
+[ Info: 88_11: 885/958
+[ Info: 88_11: 886/958
+[ Info: 88_11: 887/958
+[ Info: 88_11: 888/958
+[ Info: 88_11: 889/958
+[ Info: 88_11: 890/958
+[ Info: 88_11: 891/958
+[ Info: 88_11: 892/958
+[ Info: 88_11: 893/958
+[ Info: 88_11: 894/958
+[ Info: 88_11: 895/958
+[ Info: 88_11: 896/958
+[ Info: 88_11: 897/958
+[ Info: 88_11: 898/958
+[ Info: 88_11: 899/958
+[ Info: 88_11: 900/958
+[ Info: 88_11: 901/958
+[ Info: 88_11: 902/958
+[ Info: 88_11: 903/958
+[ Info: 88_11: 904/958
+[ Info: 88_11: 905/958
+[ Info: 88_11: 906/958
+[ Info: 88_11: 907/958
+[ Info: 88_11: 908/958
+[ Info: 88_11: 909/958
+[ Info: 88_11: 910/958
+[ Info: 88_11: 911/958
+[ Info: 88_11: 912/958
+[ Info: 88_11: 913/958
+[ Info: 88_11: 914/958
+[ Info: 88_11: 915/958
+[ Info: 88_11: 916/958
+[ Info: 88_11: 917/958
+[ Info: 88_11: 918/958
+[ Info: 88_11: 919/958
+[ Info: 88_11: 920/958
+[ Info: 88_11: 921/958
+[ Info: 88_11: 922/958
+[ Info: 88_11: 923/958
+[ Info: 88_11: 924/958
+[ Info: 88_11: 925/958
+[ Info: 88_11: 926/958
+[ Info: 88_11: 927/958
+[ Info: 88_11: 928/958
+[ Info: 88_11: 929/958
+[ Info: 88_11: 930/958
+[ Info: 88_11: 931/958
+[ Info: 88_11: 932/958
+[ Info: 88_11: 933/958
+[ Info: 88_11: 934/958
+[ Info: 88_11: 935/958
+[ Info: 88_11: 936/958
+[ Info: 88_11: 937/958
+[ Info: 88_11: 938/958
+[ Info: 88_11: 939/958
+[ Info: 88_11: 940/958
+[ Info: 88_11: 941/958
+[ Info: 88_11: 942/958
+[ Info: 88_11: 943/958
+[ Info: 88_11: 944/958
+[ Info: 88_11: 945/958
+[ Info: 88_11: 946/958
+[ Info: 88_11: 947/958
+[ Info: 88_11: 948/958
+[ Info: 88_11: 949/958
+[ Info: 88_11: 950/958
+[ Info: 88_11: 951/958
+[ Info: 88_11: 952/958
+[ Info: 88_11: 953/958
+[ Info: 88_11: 954/958
+[ Info: 88_11: 955/958
+[ Info: 88_11: 956/958
+[ Info: 88_11: 957/958
+[ Info: 88_11: 958/958
+[ Info: 88_11: layer 2/2, base field no. 1/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 1/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 2/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 2/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 3/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 3/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 4/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 4/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 5/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 5/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 6/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 6/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 7/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 7/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 8/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 8/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 9/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 9/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 10/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 10/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 11/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 11/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 12/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 12/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 13/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 13/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 14/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 14/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 15/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 15/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 16/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 16/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 17/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 17/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 18/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 18/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 19/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 19/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 20/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 20/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 21/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 21/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 22/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 22/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 23/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 23/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 24/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 24/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 25/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 25/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 26/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 26/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 27/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 27/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 28/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 28/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 29/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 29/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 30/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 30/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 31/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 31/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 32/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 32/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 33/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 33/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 34/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 34/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 35/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 35/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 36/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 36/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 37/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 37/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 38/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 38/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 39/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 39/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 40/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 40/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 41/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 41/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 42/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 42/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 43/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 43/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 44/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 44/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 45/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 45/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 46/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 46/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 47/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 47/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 48/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 48/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 49/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 49/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 50/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 50/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 51/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 51/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 52/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 52/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 53/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 53/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 54/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 54/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 55/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 55/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 56/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 56/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 57/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 57/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 58/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 58/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 59/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 59/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 60/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 60/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 61/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 61/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 62/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 62/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 63/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 63/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 64/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 64/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 65/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 65/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 66/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 66/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 67/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 67/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 68/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 68/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 69/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 69/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 70/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 70/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 71/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 71/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 72/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 72/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 73/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 73/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 74/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 74/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 75/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 75/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 76/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 76/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 77/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 77/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 78/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 78/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 79/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 79/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 80/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 80/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 81/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 81/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 82/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 82/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 83/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 83/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 84/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 84/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 85/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 85/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 86/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 86/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 87/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 87/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 88/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 88/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 89/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 89/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 90/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 90/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 91/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 91/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 92/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 92/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 93/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 93/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 94/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 94/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 95/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 95/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 96/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 96/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 97/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 97/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 98/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 98/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 99/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 99/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 100/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 100/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 101/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 101/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 102/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 102/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 103/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 103/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 104/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 104/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 105/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 105/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 106/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 106/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 107/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 107/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 108/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 108/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 109/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 109/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 110/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 110/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 111/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 111/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 112/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 112/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 113/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 113/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 114/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 114/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 115/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 115/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 116/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 116/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 117/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 117/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 118/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 118/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 119/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 119/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 120/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 120/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 121/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 121/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 122/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 122/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 123/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 123/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 124/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 124/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 125/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 125/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 126/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 126/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 127/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 127/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 128/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 128/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 129/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 129/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 130/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 130/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 131/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 131/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 132/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 132/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 133/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 133/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 134/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 134/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 135/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 135/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 136/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 136/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 137/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 137/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 138/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 138/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 139/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 139/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 140/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 140/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 141/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 141/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 142/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 142/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 143/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 143/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 144/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 144/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 145/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 145/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 146/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 146/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 147/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 147/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 148/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 148/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 149/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 149/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 150/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 150/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 151/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 151/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 152/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 152/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 153/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 153/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 154/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 154/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 155/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 155/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 156/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 156/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 157/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 157/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 158/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 158/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 159/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 159/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 160/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 160/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 161/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 161/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 162/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 162/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 163/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 163/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 164/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 164/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 165/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 165/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 166/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 166/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 167/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 167/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 168/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 168/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 169/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 169/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 170/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 170/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 171/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 171/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 172/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 172/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 173/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 173/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 174/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 174/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 175/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 175/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 176/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 176/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 177/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 177/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 178/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 178/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 179/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 179/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 180/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 180/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 181/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 181/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 182/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 182/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 183/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 183/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 184/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 184/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 185/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 185/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 186/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 186/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 187/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 187/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 188/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 188/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 189/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 189/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 190/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 190/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 191/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 191/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 192/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 192/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 193/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 193/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 194/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 194/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 195/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 195/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 196/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 196/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 197/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 197/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 198/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 198/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 199/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 199/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 200/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 200/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 201/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 201/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 202/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 202/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 203/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 203/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 204/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 204/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 205/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 205/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 206/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 206/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 207/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 207/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 208/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 208/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 209/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 209/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 210/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 210/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 211/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 211/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 212/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 212/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 213/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 213/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 214/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 214/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 215/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 215/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 216/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 216/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 217/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 217/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 218/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 218/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 219/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 219/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 220/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 220/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 221/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 221/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 222/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 222/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 223/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 223/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 224/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 224/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 225/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 225/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 226/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 226/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 227/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 227/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 228/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 228/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 229/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 229/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 230/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 230/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 231/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 231/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 232/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 232/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 233/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 233/234, checking fields: 0
+[ Info: 88_11: layer 2/2, base field no. 234/234, constructing abelian extensions
+[ Info: 88_11: layer 2/2, base field no. 234/234, checking fields: 0
+231.039098 seconds (1.68 G allocations: 82.544 GiB, 20.41% gc time, 6.68% compilation time: 2% of which was recompilation)

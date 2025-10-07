@@ -1,0 +1,25 @@
+[ Info: 80_3: File for first layer does not exist; computing [16]...
+[ Info: 80_3: Discriminant bound: 398107170553497250777006080
+[ Info: 80_3: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_3: 1/9
+[ Info: 80_3: 2/9
+[ Info: 80_3: 3/9
+[ Info: 80_3: 4/9
+[ Info: 80_3: 5/9
+[ Info: 80_3: 6/9
+[ Info: 80_3: 7/9
+[ Info: 80_3: 8/9
+[ Info: 80_3: 9/9
+[ Info: 80_3: layer 2/2, base field no. 1/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 1/6, checking fields: 0
+[ Info: 80_3: layer 2/2, base field no. 2/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 2/6, checking fields: 0
+[ Info: 80_3: layer 2/2, base field no. 3/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 3/6, checking fields: 0
+[ Info: 80_3: layer 2/2, base field no. 4/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 4/6, checking fields: 0
+[ Info: 80_3: layer 2/2, base field no. 5/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 5/6, checking fields: 0
+[ Info: 80_3: layer 2/2, base field no. 6/6, constructing abelian extensions
+[ Info: 80_3: layer 2/2, base field no. 6/6, checking fields: 0
+ 24.476808 seconds (81.79 M allocations: 4.131 GiB, 7.69% gc time, 68.99% compilation time: 1% of which was recompilation)

@@ -1,0 +1,27 @@
+[ Info: 80_28: File for first layer exists [2, 8], 398107170553497250777006080; loading ...
+[ Info: 80_28: layer 2/2, base field no. 1/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 1/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 2/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 2/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 3/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 3/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 4/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 4/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 5/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 5/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 6/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 6/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 7/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 7/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 8/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 8/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 9/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 9/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 10/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 10/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 11/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 11/12, checking fields: 0
+[ Info: 80_28: layer 2/2, base field no. 12/12, constructing abelian extensions
+[ Info: 80_28: layer 2/2, base field no. 12/12, checking fields: 1
+[ Info: 80_28: layer 2/2, base field no. 12/12, 1/1
+1292.559156 seconds (557.29 M allocations: 628.073 GiB, 1.83% gc time, 0.90% compilation time: 2% of which was recompilation)

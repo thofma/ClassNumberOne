@@ -1,0 +1,1133 @@
+[ Info: 88_6: File for first layer does not exist; computing [2, 4]...
+[ Info: 88_6: Discriminant bound: 18738174228604
+[ Info: 88_6: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 88_6: 1/601
+[ Info: 88_6: 2/601
+[ Info: 88_6: 3/601
+[ Info: 88_6: 4/601
+[ Info: 88_6: 5/601
+[ Info: 88_6: 6/601
+[ Info: 88_6: 7/601
+[ Info: 88_6: 8/601
+[ Info: 88_6: 9/601
+[ Info: 88_6: 10/601
+[ Info: 88_6: 11/601
+[ Info: 88_6: 12/601
+[ Info: 88_6: 13/601
+[ Info: 88_6: 14/601
+[ Info: 88_6: 15/601
+[ Info: 88_6: 16/601
+[ Info: 88_6: 17/601
+[ Info: 88_6: 18/601
+[ Info: 88_6: 19/601
+[ Info: 88_6: 20/601
+[ Info: 88_6: 21/601
+[ Info: 88_6: 22/601
+[ Info: 88_6: 23/601
+[ Info: 88_6: 24/601
+[ Info: 88_6: 25/601
+[ Info: 88_6: 26/601
+[ Info: 88_6: 27/601
+[ Info: 88_6: 28/601
+[ Info: 88_6: 29/601
+[ Info: 88_6: 30/601
+[ Info: 88_6: 31/601
+[ Info: 88_6: 32/601
+[ Info: 88_6: 33/601
+[ Info: 88_6: 34/601
+[ Info: 88_6: 35/601
+[ Info: 88_6: 36/601
+[ Info: 88_6: 37/601
+[ Info: 88_6: 38/601
+[ Info: 88_6: 39/601
+[ Info: 88_6: 40/601
+[ Info: 88_6: 41/601
+[ Info: 88_6: 42/601
+[ Info: 88_6: 43/601
+[ Info: 88_6: 44/601
+[ Info: 88_6: 45/601
+[ Info: 88_6: 46/601
+[ Info: 88_6: 47/601
+[ Info: 88_6: 48/601
+[ Info: 88_6: 49/601
+[ Info: 88_6: 50/601
+[ Info: 88_6: 51/601
+[ Info: 88_6: 52/601
+[ Info: 88_6: 53/601
+[ Info: 88_6: 54/601
+[ Info: 88_6: 55/601
+[ Info: 88_6: 56/601
+[ Info: 88_6: 57/601
+[ Info: 88_6: 58/601
+[ Info: 88_6: 59/601
+[ Info: 88_6: 60/601
+[ Info: 88_6: 61/601
+[ Info: 88_6: 62/601
+[ Info: 88_6: 63/601
+[ Info: 88_6: 64/601
+[ Info: 88_6: 65/601
+[ Info: 88_6: 66/601
+[ Info: 88_6: 67/601
+[ Info: 88_6: 68/601
+[ Info: 88_6: 69/601
+[ Info: 88_6: 70/601
+[ Info: 88_6: 71/601
+[ Info: 88_6: 72/601
+[ Info: 88_6: 73/601
+[ Info: 88_6: 74/601
+[ Info: 88_6: 75/601
+[ Info: 88_6: 76/601
+[ Info: 88_6: 77/601
+[ Info: 88_6: 78/601
+[ Info: 88_6: 79/601
+[ Info: 88_6: 80/601
+[ Info: 88_6: 81/601
+[ Info: 88_6: 82/601
+[ Info: 88_6: 83/601
+[ Info: 88_6: 84/601
+[ Info: 88_6: 85/601
+[ Info: 88_6: 86/601
+[ Info: 88_6: 87/601
+[ Info: 88_6: 88/601
+[ Info: 88_6: 89/601
+[ Info: 88_6: 90/601
+[ Info: 88_6: 91/601
+[ Info: 88_6: 92/601
+[ Info: 88_6: 93/601
+[ Info: 88_6: 94/601
+[ Info: 88_6: 95/601
+[ Info: 88_6: 96/601
+[ Info: 88_6: 97/601
+[ Info: 88_6: 98/601
+[ Info: 88_6: 99/601
+[ Info: 88_6: 100/601
+[ Info: 88_6: 101/601
+[ Info: 88_6: 102/601
+[ Info: 88_6: 103/601
+[ Info: 88_6: 104/601
+[ Info: 88_6: 105/601
+[ Info: 88_6: 106/601
+[ Info: 88_6: 107/601
+[ Info: 88_6: 108/601
+[ Info: 88_6: 109/601
+[ Info: 88_6: 110/601
+[ Info: 88_6: 111/601
+[ Info: 88_6: 112/601
+[ Info: 88_6: 113/601
+[ Info: 88_6: 114/601
+[ Info: 88_6: 115/601
+[ Info: 88_6: 116/601
+[ Info: 88_6: 117/601
+[ Info: 88_6: 118/601
+[ Info: 88_6: 119/601
+[ Info: 88_6: 120/601
+[ Info: 88_6: 121/601
+[ Info: 88_6: 122/601
+[ Info: 88_6: 123/601
+[ Info: 88_6: 124/601
+[ Info: 88_6: 125/601
+[ Info: 88_6: 126/601
+[ Info: 88_6: 127/601
+[ Info: 88_6: 128/601
+[ Info: 88_6: 129/601
+[ Info: 88_6: 130/601
+[ Info: 88_6: 131/601
+[ Info: 88_6: 132/601
+[ Info: 88_6: 133/601
+[ Info: 88_6: 134/601
+[ Info: 88_6: 135/601
+[ Info: 88_6: 136/601
+[ Info: 88_6: 137/601
+[ Info: 88_6: 138/601
+[ Info: 88_6: 139/601
+[ Info: 88_6: 140/601
+[ Info: 88_6: 141/601
+[ Info: 88_6: 142/601
+[ Info: 88_6: 143/601
+[ Info: 88_6: 144/601
+[ Info: 88_6: 145/601
+[ Info: 88_6: 146/601
+[ Info: 88_6: 147/601
+[ Info: 88_6: 148/601
+[ Info: 88_6: 149/601
+[ Info: 88_6: 150/601
+[ Info: 88_6: 151/601
+[ Info: 88_6: 152/601
+[ Info: 88_6: 153/601
+[ Info: 88_6: 154/601
+[ Info: 88_6: 155/601
+[ Info: 88_6: 156/601
+[ Info: 88_6: 157/601
+[ Info: 88_6: 158/601
+[ Info: 88_6: 159/601
+[ Info: 88_6: 160/601
+[ Info: 88_6: 161/601
+[ Info: 88_6: 162/601
+[ Info: 88_6: 163/601
+[ Info: 88_6: 164/601
+[ Info: 88_6: 165/601
+[ Info: 88_6: 166/601
+[ Info: 88_6: 167/601
+[ Info: 88_6: 168/601
+[ Info: 88_6: 169/601
+[ Info: 88_6: 170/601
+[ Info: 88_6: 171/601
+[ Info: 88_6: 172/601
+[ Info: 88_6: 173/601
+[ Info: 88_6: 174/601
+[ Info: 88_6: 175/601
+[ Info: 88_6: 176/601
+[ Info: 88_6: 177/601
+[ Info: 88_6: 178/601
+[ Info: 88_6: 179/601
+[ Info: 88_6: 180/601
+[ Info: 88_6: 181/601
+[ Info: 88_6: 182/601
+[ Info: 88_6: 183/601
+[ Info: 88_6: 184/601
+[ Info: 88_6: 185/601
+[ Info: 88_6: 186/601
+[ Info: 88_6: 187/601
+[ Info: 88_6: 188/601
+[ Info: 88_6: 189/601
+[ Info: 88_6: 190/601
+[ Info: 88_6: 191/601
+[ Info: 88_6: 192/601
+[ Info: 88_6: 193/601
+[ Info: 88_6: 194/601
+[ Info: 88_6: 195/601
+[ Info: 88_6: 196/601
+[ Info: 88_6: 197/601
+[ Info: 88_6: 198/601
+[ Info: 88_6: 199/601
+[ Info: 88_6: 200/601
+[ Info: 88_6: 201/601
+[ Info: 88_6: 202/601
+[ Info: 88_6: 203/601
+[ Info: 88_6: 204/601
+[ Info: 88_6: 205/601
+[ Info: 88_6: 206/601
+[ Info: 88_6: 207/601
+[ Info: 88_6: 208/601
+[ Info: 88_6: 209/601
+[ Info: 88_6: 210/601
+[ Info: 88_6: 211/601
+[ Info: 88_6: 212/601
+[ Info: 88_6: 213/601
+[ Info: 88_6: 214/601
+[ Info: 88_6: 215/601
+[ Info: 88_6: 216/601
+[ Info: 88_6: 217/601
+[ Info: 88_6: 218/601
+[ Info: 88_6: 219/601
+[ Info: 88_6: 220/601
+[ Info: 88_6: 221/601
+[ Info: 88_6: 222/601
+[ Info: 88_6: 223/601
+[ Info: 88_6: 224/601
+[ Info: 88_6: 225/601
+[ Info: 88_6: 226/601
+[ Info: 88_6: 227/601
+[ Info: 88_6: 228/601
+[ Info: 88_6: 229/601
+[ Info: 88_6: 230/601
+[ Info: 88_6: 231/601
+[ Info: 88_6: 232/601
+[ Info: 88_6: 233/601
+[ Info: 88_6: 234/601
+[ Info: 88_6: 235/601
+[ Info: 88_6: 236/601
+[ Info: 88_6: 237/601
+[ Info: 88_6: 238/601
+[ Info: 88_6: 239/601
+[ Info: 88_6: 240/601
+[ Info: 88_6: 241/601
+[ Info: 88_6: 242/601
+[ Info: 88_6: 243/601
+[ Info: 88_6: 244/601
+[ Info: 88_6: 245/601
+[ Info: 88_6: 246/601
+[ Info: 88_6: 247/601
+[ Info: 88_6: 248/601
+[ Info: 88_6: 249/601
+[ Info: 88_6: 250/601
+[ Info: 88_6: 251/601
+[ Info: 88_6: 252/601
+[ Info: 88_6: 253/601
+[ Info: 88_6: 254/601
+[ Info: 88_6: 255/601
+[ Info: 88_6: 256/601
+[ Info: 88_6: 257/601
+[ Info: 88_6: 258/601
+[ Info: 88_6: 259/601
+[ Info: 88_6: 260/601
+[ Info: 88_6: 261/601
+[ Info: 88_6: 262/601
+[ Info: 88_6: 263/601
+[ Info: 88_6: 264/601
+[ Info: 88_6: 265/601
+[ Info: 88_6: 266/601
+[ Info: 88_6: 267/601
+[ Info: 88_6: 268/601
+[ Info: 88_6: 269/601
+[ Info: 88_6: 270/601
+[ Info: 88_6: 271/601
+[ Info: 88_6: 272/601
+[ Info: 88_6: 273/601
+[ Info: 88_6: 274/601
+[ Info: 88_6: 275/601
+[ Info: 88_6: 276/601
+[ Info: 88_6: 277/601
+[ Info: 88_6: 278/601
+[ Info: 88_6: 279/601
+[ Info: 88_6: 280/601
+[ Info: 88_6: 281/601
+[ Info: 88_6: 282/601
+[ Info: 88_6: 283/601
+[ Info: 88_6: 284/601
+[ Info: 88_6: 285/601
+[ Info: 88_6: 286/601
+[ Info: 88_6: 287/601
+[ Info: 88_6: 288/601
+[ Info: 88_6: 289/601
+[ Info: 88_6: 290/601
+[ Info: 88_6: 291/601
+[ Info: 88_6: 292/601
+[ Info: 88_6: 293/601
+[ Info: 88_6: 294/601
+[ Info: 88_6: 295/601
+[ Info: 88_6: 296/601
+[ Info: 88_6: 297/601
+[ Info: 88_6: 298/601
+[ Info: 88_6: 299/601
+[ Info: 88_6: 300/601
+[ Info: 88_6: 301/601
+[ Info: 88_6: 302/601
+[ Info: 88_6: 303/601
+[ Info: 88_6: 304/601
+[ Info: 88_6: 305/601
+[ Info: 88_6: 306/601
+[ Info: 88_6: 307/601
+[ Info: 88_6: 308/601
+[ Info: 88_6: 309/601
+[ Info: 88_6: 310/601
+[ Info: 88_6: 311/601
+[ Info: 88_6: 312/601
+[ Info: 88_6: 313/601
+[ Info: 88_6: 314/601
+[ Info: 88_6: 315/601
+[ Info: 88_6: 316/601
+[ Info: 88_6: 317/601
+[ Info: 88_6: 318/601
+[ Info: 88_6: 319/601
+[ Info: 88_6: 320/601
+[ Info: 88_6: 321/601
+[ Info: 88_6: 322/601
+[ Info: 88_6: 323/601
+[ Info: 88_6: 324/601
+[ Info: 88_6: 325/601
+[ Info: 88_6: 326/601
+[ Info: 88_6: 327/601
+[ Info: 88_6: 328/601
+[ Info: 88_6: 329/601
+[ Info: 88_6: 330/601
+[ Info: 88_6: 331/601
+[ Info: 88_6: 332/601
+[ Info: 88_6: 333/601
+[ Info: 88_6: 334/601
+[ Info: 88_6: 335/601
+[ Info: 88_6: 336/601
+[ Info: 88_6: 337/601
+[ Info: 88_6: 338/601
+[ Info: 88_6: 339/601
+[ Info: 88_6: 340/601
+[ Info: 88_6: 341/601
+[ Info: 88_6: 342/601
+[ Info: 88_6: 343/601
+[ Info: 88_6: 344/601
+[ Info: 88_6: 345/601
+[ Info: 88_6: 346/601
+[ Info: 88_6: 347/601
+[ Info: 88_6: 348/601
+[ Info: 88_6: 349/601
+[ Info: 88_6: 350/601
+[ Info: 88_6: 351/601
+[ Info: 88_6: 352/601
+[ Info: 88_6: 353/601
+[ Info: 88_6: 354/601
+[ Info: 88_6: 355/601
+[ Info: 88_6: 356/601
+[ Info: 88_6: 357/601
+[ Info: 88_6: 358/601
+[ Info: 88_6: 359/601
+[ Info: 88_6: 360/601
+[ Info: 88_6: 361/601
+[ Info: 88_6: 362/601
+[ Info: 88_6: 363/601
+[ Info: 88_6: 364/601
+[ Info: 88_6: 365/601
+[ Info: 88_6: 366/601
+[ Info: 88_6: 367/601
+[ Info: 88_6: 368/601
+[ Info: 88_6: 369/601
+[ Info: 88_6: 370/601
+[ Info: 88_6: 371/601
+[ Info: 88_6: 372/601
+[ Info: 88_6: 373/601
+[ Info: 88_6: 374/601
+[ Info: 88_6: 375/601
+[ Info: 88_6: 376/601
+[ Info: 88_6: 377/601
+[ Info: 88_6: 378/601
+[ Info: 88_6: 379/601
+[ Info: 88_6: 380/601
+[ Info: 88_6: 381/601
+[ Info: 88_6: 382/601
+[ Info: 88_6: 383/601
+[ Info: 88_6: 384/601
+[ Info: 88_6: 385/601
+[ Info: 88_6: 386/601
+[ Info: 88_6: 387/601
+[ Info: 88_6: 388/601
+[ Info: 88_6: 389/601
+[ Info: 88_6: 390/601
+[ Info: 88_6: 391/601
+[ Info: 88_6: 392/601
+[ Info: 88_6: 393/601
+[ Info: 88_6: 394/601
+[ Info: 88_6: 395/601
+[ Info: 88_6: 396/601
+[ Info: 88_6: 397/601
+[ Info: 88_6: 398/601
+[ Info: 88_6: 399/601
+[ Info: 88_6: 400/601
+[ Info: 88_6: 401/601
+[ Info: 88_6: 402/601
+[ Info: 88_6: 403/601
+[ Info: 88_6: 404/601
+[ Info: 88_6: 405/601
+[ Info: 88_6: 406/601
+[ Info: 88_6: 407/601
+[ Info: 88_6: 408/601
+[ Info: 88_6: 409/601
+[ Info: 88_6: 410/601
+[ Info: 88_6: 411/601
+[ Info: 88_6: 412/601
+[ Info: 88_6: 413/601
+[ Info: 88_6: 414/601
+[ Info: 88_6: 415/601
+[ Info: 88_6: 416/601
+[ Info: 88_6: 417/601
+[ Info: 88_6: 418/601
+[ Info: 88_6: 419/601
+[ Info: 88_6: 420/601
+[ Info: 88_6: 421/601
+[ Info: 88_6: 422/601
+[ Info: 88_6: 423/601
+[ Info: 88_6: 424/601
+[ Info: 88_6: 425/601
+[ Info: 88_6: 426/601
+[ Info: 88_6: 427/601
+[ Info: 88_6: 428/601
+[ Info: 88_6: 429/601
+[ Info: 88_6: 430/601
+[ Info: 88_6: 431/601
+[ Info: 88_6: 432/601
+[ Info: 88_6: 433/601
+[ Info: 88_6: 434/601
+[ Info: 88_6: 435/601
+[ Info: 88_6: 436/601
+[ Info: 88_6: 437/601
+[ Info: 88_6: 438/601
+[ Info: 88_6: 439/601
+[ Info: 88_6: 440/601
+[ Info: 88_6: 441/601
+[ Info: 88_6: 442/601
+[ Info: 88_6: 443/601
+[ Info: 88_6: 444/601
+[ Info: 88_6: 445/601
+[ Info: 88_6: 446/601
+[ Info: 88_6: 447/601
+[ Info: 88_6: 448/601
+[ Info: 88_6: 449/601
+[ Info: 88_6: 450/601
+[ Info: 88_6: 451/601
+[ Info: 88_6: 452/601
+[ Info: 88_6: 453/601
+[ Info: 88_6: 454/601
+[ Info: 88_6: 455/601
+[ Info: 88_6: 456/601
+[ Info: 88_6: 457/601
+[ Info: 88_6: 458/601
+[ Info: 88_6: 459/601
+[ Info: 88_6: 460/601
+[ Info: 88_6: 461/601
+[ Info: 88_6: 462/601
+[ Info: 88_6: 463/601
+[ Info: 88_6: 464/601
+[ Info: 88_6: 465/601
+[ Info: 88_6: 466/601
+[ Info: 88_6: 467/601
+[ Info: 88_6: 468/601
+[ Info: 88_6: 469/601
+[ Info: 88_6: 470/601
+[ Info: 88_6: 471/601
+[ Info: 88_6: 472/601
+[ Info: 88_6: 473/601
+[ Info: 88_6: 474/601
+[ Info: 88_6: 475/601
+[ Info: 88_6: 476/601
+[ Info: 88_6: 477/601
+[ Info: 88_6: 478/601
+[ Info: 88_6: 479/601
+[ Info: 88_6: 480/601
+[ Info: 88_6: 481/601
+[ Info: 88_6: 482/601
+[ Info: 88_6: 483/601
+[ Info: 88_6: 484/601
+[ Info: 88_6: 485/601
+[ Info: 88_6: 486/601
+[ Info: 88_6: 487/601
+[ Info: 88_6: 488/601
+[ Info: 88_6: 489/601
+[ Info: 88_6: 490/601
+[ Info: 88_6: 491/601
+[ Info: 88_6: 492/601
+[ Info: 88_6: 493/601
+[ Info: 88_6: 494/601
+[ Info: 88_6: 495/601
+[ Info: 88_6: 496/601
+[ Info: 88_6: 497/601
+[ Info: 88_6: 498/601
+[ Info: 88_6: 499/601
+[ Info: 88_6: 500/601
+[ Info: 88_6: 501/601
+[ Info: 88_6: 502/601
+[ Info: 88_6: 503/601
+[ Info: 88_6: 504/601
+[ Info: 88_6: 505/601
+[ Info: 88_6: 506/601
+[ Info: 88_6: 507/601
+[ Info: 88_6: 508/601
+[ Info: 88_6: 509/601
+[ Info: 88_6: 510/601
+[ Info: 88_6: 511/601
+[ Info: 88_6: 512/601
+[ Info: 88_6: 513/601
+[ Info: 88_6: 514/601
+[ Info: 88_6: 515/601
+[ Info: 88_6: 516/601
+[ Info: 88_6: 517/601
+[ Info: 88_6: 518/601
+[ Info: 88_6: 519/601
+[ Info: 88_6: 520/601
+[ Info: 88_6: 521/601
+[ Info: 88_6: 522/601
+[ Info: 88_6: 523/601
+[ Info: 88_6: 524/601
+[ Info: 88_6: 525/601
+[ Info: 88_6: 526/601
+[ Info: 88_6: 527/601
+[ Info: 88_6: 528/601
+[ Info: 88_6: 529/601
+[ Info: 88_6: 530/601
+[ Info: 88_6: 531/601
+[ Info: 88_6: 532/601
+[ Info: 88_6: 533/601
+[ Info: 88_6: 534/601
+[ Info: 88_6: 535/601
+[ Info: 88_6: 536/601
+[ Info: 88_6: 537/601
+[ Info: 88_6: 538/601
+[ Info: 88_6: 539/601
+[ Info: 88_6: 540/601
+[ Info: 88_6: 541/601
+[ Info: 88_6: 542/601
+[ Info: 88_6: 543/601
+[ Info: 88_6: 544/601
+[ Info: 88_6: 545/601
+[ Info: 88_6: 546/601
+[ Info: 88_6: 547/601
+[ Info: 88_6: 548/601
+[ Info: 88_6: 549/601
+[ Info: 88_6: 550/601
+[ Info: 88_6: 551/601
+[ Info: 88_6: 552/601
+[ Info: 88_6: 553/601
+[ Info: 88_6: 554/601
+[ Info: 88_6: 555/601
+[ Info: 88_6: 556/601
+[ Info: 88_6: 557/601
+[ Info: 88_6: 558/601
+[ Info: 88_6: 559/601
+[ Info: 88_6: 560/601
+[ Info: 88_6: 561/601
+[ Info: 88_6: 562/601
+[ Info: 88_6: 563/601
+[ Info: 88_6: 564/601
+[ Info: 88_6: 565/601
+[ Info: 88_6: 566/601
+[ Info: 88_6: 567/601
+[ Info: 88_6: 568/601
+[ Info: 88_6: 569/601
+[ Info: 88_6: 570/601
+[ Info: 88_6: 571/601
+[ Info: 88_6: 572/601
+[ Info: 88_6: 573/601
+[ Info: 88_6: 574/601
+[ Info: 88_6: 575/601
+[ Info: 88_6: 576/601
+[ Info: 88_6: 577/601
+[ Info: 88_6: 578/601
+[ Info: 88_6: 579/601
+[ Info: 88_6: 580/601
+[ Info: 88_6: 581/601
+[ Info: 88_6: 582/601
+[ Info: 88_6: 583/601
+[ Info: 88_6: 584/601
+[ Info: 88_6: 585/601
+[ Info: 88_6: 586/601
+[ Info: 88_6: 587/601
+[ Info: 88_6: 588/601
+[ Info: 88_6: 589/601
+[ Info: 88_6: 590/601
+[ Info: 88_6: 591/601
+[ Info: 88_6: 592/601
+[ Info: 88_6: 593/601
+[ Info: 88_6: 594/601
+[ Info: 88_6: 595/601
+[ Info: 88_6: 596/601
+[ Info: 88_6: 597/601
+[ Info: 88_6: 598/601
+[ Info: 88_6: 599/601
+[ Info: 88_6: 600/601
+[ Info: 88_6: 601/601
+[ Info: 88_6: layer 2/2, base field no. 1/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 1/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 2/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 2/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 3/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 3/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 4/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 4/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 5/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 5/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 6/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 6/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 7/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 7/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 8/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 8/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 9/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 9/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 10/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 10/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 11/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 11/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 12/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 12/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 13/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 13/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 14/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 14/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 15/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 15/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 16/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 16/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 17/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 17/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 18/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 18/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 19/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 19/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 20/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 20/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 21/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 21/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 22/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 22/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 23/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 23/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 24/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 24/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 25/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 25/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 26/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 26/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 27/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 27/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 28/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 28/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 29/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 29/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 30/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 30/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 31/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 31/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 32/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 32/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 33/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 33/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 34/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 34/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 35/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 35/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 36/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 36/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 37/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 37/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 38/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 38/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 39/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 39/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 40/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 40/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 41/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 41/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 42/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 42/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 43/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 43/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 44/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 44/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 45/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 45/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 46/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 46/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 47/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 47/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 48/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 48/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 49/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 49/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 50/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 50/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 51/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 51/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 52/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 52/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 53/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 53/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 54/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 54/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 55/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 55/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 56/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 56/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 57/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 57/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 58/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 58/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 59/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 59/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 60/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 60/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 61/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 61/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 62/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 62/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 63/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 63/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 64/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 64/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 65/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 65/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 66/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 66/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 67/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 67/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 68/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 68/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 69/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 69/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 70/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 70/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 71/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 71/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 72/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 72/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 73/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 73/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 74/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 74/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 75/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 75/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 76/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 76/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 77/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 77/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 78/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 78/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 79/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 79/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 80/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 80/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 81/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 81/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 82/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 82/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 83/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 83/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 84/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 84/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 85/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 85/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 86/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 86/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 87/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 87/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 88/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 88/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 89/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 89/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 90/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 90/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 91/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 91/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 92/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 92/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 93/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 93/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 94/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 94/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 95/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 95/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 96/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 96/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 97/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 97/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 98/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 98/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 99/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 99/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 100/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 100/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 101/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 101/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 102/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 102/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 103/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 103/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 104/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 104/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 105/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 105/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 106/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 106/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 107/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 107/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 108/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 108/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 109/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 109/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 110/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 110/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 111/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 111/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 112/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 112/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 113/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 113/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 114/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 114/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 115/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 115/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 116/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 116/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 117/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 117/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 118/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 118/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 119/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 119/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 120/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 120/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 121/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 121/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 122/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 122/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 123/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 123/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 124/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 124/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 125/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 125/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 126/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 126/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 127/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 127/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 128/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 128/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 129/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 129/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 130/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 130/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 131/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 131/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 132/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 132/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 133/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 133/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 134/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 134/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 135/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 135/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 136/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 136/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 137/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 137/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 138/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 138/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 139/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 139/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 140/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 140/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 141/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 141/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 142/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 142/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 143/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 143/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 144/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 144/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 145/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 145/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 146/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 146/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 147/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 147/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 148/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 148/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 149/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 149/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 150/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 150/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 151/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 151/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 152/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 152/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 153/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 153/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 154/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 154/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 155/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 155/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 156/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 156/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 157/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 157/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 158/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 158/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 159/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 159/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 160/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 160/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 161/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 161/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 162/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 162/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 163/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 163/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 164/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 164/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 165/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 165/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 166/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 166/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 167/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 167/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 168/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 168/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 169/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 169/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 170/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 170/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 171/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 171/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 172/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 172/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 173/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 173/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 174/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 174/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 175/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 175/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 176/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 176/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 177/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 177/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 178/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 178/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 179/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 179/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 180/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 180/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 181/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 181/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 182/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 182/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 183/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 183/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 184/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 184/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 185/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 185/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 186/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 186/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 187/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 187/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 188/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 188/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 189/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 189/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 190/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 190/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 191/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 191/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 192/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 192/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 193/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 193/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 194/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 194/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 195/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 195/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 196/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 196/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 197/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 197/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 198/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 198/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 199/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 199/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 200/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 200/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 201/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 201/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 202/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 202/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 203/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 203/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 204/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 204/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 205/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 205/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 206/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 206/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 207/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 207/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 208/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 208/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 209/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 209/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 210/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 210/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 211/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 211/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 212/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 212/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 213/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 213/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 214/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 214/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 215/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 215/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 216/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 216/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 217/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 217/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 218/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 218/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 219/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 219/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 220/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 220/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 221/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 221/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 222/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 222/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 223/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 223/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 224/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 224/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 225/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 225/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 226/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 226/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 227/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 227/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 228/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 228/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 229/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 229/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 230/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 230/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 231/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 231/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 232/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 232/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 233/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 233/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 234/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 234/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 235/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 235/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 236/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 236/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 237/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 237/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 238/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 238/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 239/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 239/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 240/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 240/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 241/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 241/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 242/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 242/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 243/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 243/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 244/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 244/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 245/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 245/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 246/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 246/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 247/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 247/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 248/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 248/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 249/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 249/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 250/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 250/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 251/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 251/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 252/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 252/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 253/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 253/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 254/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 254/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 255/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 255/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 256/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 256/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 257/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 257/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 258/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 258/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 259/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 259/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 260/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 260/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 261/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 261/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 262/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 262/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 263/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 263/264, checking fields: 0
+[ Info: 88_6: layer 2/2, base field no. 264/264, constructing abelian extensions
+[ Info: 88_6: layer 2/2, base field no. 264/264, checking fields: 0
+166.126249 seconds (1.15 G allocations: 55.505 GiB, 20.20% gc time, 13.33% compilation time: 1% of which was recompilation)

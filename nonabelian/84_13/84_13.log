@@ -1,0 +1,6 @@
+[ Info: 84_13: File for first layer does not exist; computing [2, 14]...
+[ Info: 84_13: Discriminant bound: 46415888336127788928549391793325563061620178944
+[ Info: 84_13: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 84_13: 1/2
+[ Info: 84_13: 2/2
+ 33.140027 seconds (124.43 M allocations: 6.602 GiB, 9.18% gc time, 49.21% compilation time: 2% of which was recompilation)

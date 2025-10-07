@@ -1,0 +1,94 @@
+[ Info: 80_51: File for first layer does not exist; computing [2, 2, 2, 2]...
+[ Info: 80_51: Discriminant bound: 398107170553497250777006080
+[ Info: 80_51: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_51: 1/76
+[ Info: 80_51: 2/76
+[ Info: 80_51: 3/76
+[ Info: 80_51: 4/76
+[ Info: 80_51: 5/76
+[ Info: 80_51: 6/76
+[ Info: 80_51: 7/76
+[ Info: 80_51: 8/76
+[ Info: 80_51: 9/76
+[ Info: 80_51: 10/76
+[ Info: 80_51: 11/76
+[ Info: 80_51: 12/76
+[ Info: 80_51: 13/76
+[ Info: 80_51: 14/76
+[ Info: 80_51: 15/76
+[ Info: 80_51: 16/76
+[ Info: 80_51: 17/76
+[ Info: 80_51: 18/76
+[ Info: 80_51: 19/76
+[ Info: 80_51: 20/76
+[ Info: 80_51: 21/76
+[ Info: 80_51: 22/76
+[ Info: 80_51: 23/76
+[ Info: 80_51: 24/76
+[ Info: 80_51: 25/76
+[ Info: 80_51: 26/76
+[ Info: 80_51: 27/76
+[ Info: 80_51: 28/76
+[ Info: 80_51: 29/76
+[ Info: 80_51: 30/76
+[ Info: 80_51: 31/76
+[ Info: 80_51: 32/76
+[ Info: 80_51: 33/76
+[ Info: 80_51: 34/76
+[ Info: 80_51: 35/76
+[ Info: 80_51: 36/76
+[ Info: 80_51: 37/76
+[ Info: 80_51: 38/76
+[ Info: 80_51: 39/76
+[ Info: 80_51: 40/76
+[ Info: 80_51: 41/76
+[ Info: 80_51: 42/76
+[ Info: 80_51: 43/76
+[ Info: 80_51: 44/76
+[ Info: 80_51: 45/76
+[ Info: 80_51: 46/76
+[ Info: 80_51: 47/76
+[ Info: 80_51: 48/76
+[ Info: 80_51: 49/76
+[ Info: 80_51: 50/76
+[ Info: 80_51: 51/76
+[ Info: 80_51: 52/76
+[ Info: 80_51: 53/76
+[ Info: 80_51: 54/76
+[ Info: 80_51: 55/76
+[ Info: 80_51: 56/76
+[ Info: 80_51: 57/76
+[ Info: 80_51: 58/76
+[ Info: 80_51: 59/76
+[ Info: 80_51: 60/76
+[ Info: 80_51: 61/76
+[ Info: 80_51: 62/76
+[ Info: 80_51: 63/76
+[ Info: 80_51: 64/76
+[ Info: 80_51: 65/76
+[ Info: 80_51: 66/76
+[ Info: 80_51: 67/76
+[ Info: 80_51: 68/76
+[ Info: 80_51: 69/76
+[ Info: 80_51: 70/76
+[ Info: 80_51: 71/76
+[ Info: 80_51: 72/76
+[ Info: 80_51: 73/76
+[ Info: 80_51: 74/76
+[ Info: 80_51: 75/76
+[ Info: 80_51: 76/76
+[ Info: 80_51: layer 2/2, base field no. 1/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 1/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 2/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 2/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 3/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 3/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 4/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 4/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 5/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 5/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 6/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 6/7, checking fields: 0
+[ Info: 80_51: layer 2/2, base field no. 7/7, constructing abelian extensions
+[ Info: 80_51: layer 2/2, base field no. 7/7, checking fields: 0
+ 96.767365 seconds (567.09 M allocations: 29.149 GiB, 15.87% gc time, 14.83% compilation time: 2% of which was recompilation)

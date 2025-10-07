@@ -1,0 +1,138 @@
+[ Info: 72_48: File for first layer does not exist; computing [2, 2, 6]...
+[ Info: 72_48: Discriminant bound: 21544346900318837217843613386241841561600
+[ Info: 72_48: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 72_48: 1/103
+[ Info: 72_48: 2/103
+[ Info: 72_48: 3/103
+[ Info: 72_48: 4/103
+[ Info: 72_48: 5/103
+[ Info: 72_48: 6/103
+[ Info: 72_48: 7/103
+[ Info: 72_48: 8/103
+[ Info: 72_48: 9/103
+[ Info: 72_48: 10/103
+[ Info: 72_48: 11/103
+[ Info: 72_48: 12/103
+[ Info: 72_48: 13/103
+[ Info: 72_48: 14/103
+[ Info: 72_48: 15/103
+[ Info: 72_48: 16/103
+[ Info: 72_48: 17/103
+[ Info: 72_48: 18/103
+[ Info: 72_48: 19/103
+[ Info: 72_48: 20/103
+[ Info: 72_48: 21/103
+[ Info: 72_48: 22/103
+[ Info: 72_48: 23/103
+[ Info: 72_48: 24/103
+[ Info: 72_48: 25/103
+[ Info: 72_48: 26/103
+[ Info: 72_48: 27/103
+[ Info: 72_48: 28/103
+[ Info: 72_48: 29/103
+[ Info: 72_48: 30/103
+[ Info: 72_48: 31/103
+[ Info: 72_48: 32/103
+[ Info: 72_48: 33/103
+[ Info: 72_48: 34/103
+[ Info: 72_48: 35/103
+[ Info: 72_48: 36/103
+[ Info: 72_48: 37/103
+[ Info: 72_48: 38/103
+[ Info: 72_48: 39/103
+[ Info: 72_48: 40/103
+[ Info: 72_48: 41/103
+[ Info: 72_48: 42/103
+[ Info: 72_48: 43/103
+[ Info: 72_48: 44/103
+[ Info: 72_48: 45/103
+[ Info: 72_48: 46/103
+[ Info: 72_48: 47/103
+[ Info: 72_48: 48/103
+[ Info: 72_48: 49/103
+[ Info: 72_48: 50/103
+[ Info: 72_48: 51/103
+[ Info: 72_48: 52/103
+[ Info: 72_48: 53/103
+[ Info: 72_48: 54/103
+[ Info: 72_48: 55/103
+[ Info: 72_48: 56/103
+[ Info: 72_48: 57/103
+[ Info: 72_48: 58/103
+[ Info: 72_48: 59/103
+[ Info: 72_48: 60/103
+[ Info: 72_48: 61/103
+[ Info: 72_48: 62/103
+[ Info: 72_48: 63/103
+[ Info: 72_48: 64/103
+[ Info: 72_48: 65/103
+[ Info: 72_48: 66/103
+[ Info: 72_48: 67/103
+[ Info: 72_48: 68/103
+[ Info: 72_48: 69/103
+[ Info: 72_48: 70/103
+[ Info: 72_48: 71/103
+[ Info: 72_48: 72/103
+[ Info: 72_48: 73/103
+[ Info: 72_48: 74/103
+[ Info: 72_48: 75/103
+[ Info: 72_48: 76/103
+[ Info: 72_48: 77/103
+[ Info: 72_48: 78/103
+[ Info: 72_48: 79/103
+[ Info: 72_48: 80/103
+[ Info: 72_48: 81/103
+[ Info: 72_48: 82/103
+[ Info: 72_48: 83/103
+[ Info: 72_48: 84/103
+[ Info: 72_48: 85/103
+[ Info: 72_48: 86/103
+[ Info: 72_48: 87/103
+[ Info: 72_48: 88/103
+[ Info: 72_48: 89/103
+[ Info: 72_48: 90/103
+[ Info: 72_48: 91/103
+[ Info: 72_48: 92/103
+[ Info: 72_48: 93/103
+[ Info: 72_48: 94/103
+[ Info: 72_48: 95/103
+[ Info: 72_48: 96/103
+[ Info: 72_48: 97/103
+[ Info: 72_48: 98/103
+[ Info: 72_48: 99/103
+[ Info: 72_48: 100/103
+[ Info: 72_48: 101/103
+[ Info: 72_48: 102/103
+[ Info: 72_48: 103/103
+[ Info: 72_48: layer 2/2, base field no. 1/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 1/9, checking fields: 0
+[ Info: 72_48: layer 2/2, base field no. 2/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 2/9, checking fields: 0
+[ Info: 72_48: layer 2/2, base field no. 3/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 3/9, checking fields: 6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 1/6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 2/6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 3/6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 4/6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 5/6
+[ Info: 72_48: layer 2/2, base field no. 3/9, 6/6
+[ Info: 72_48: layer 2/2, base field no. 4/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 4/9, checking fields: 1
+[ Info: 72_48: layer 2/2, base field no. 4/9, 1/1
+[ Info: 72_48: layer 2/2, base field no. 5/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 5/9, checking fields: 0
+[ Info: 72_48: layer 2/2, base field no. 6/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 6/9, checking fields: 0
+[ Info: 72_48: layer 2/2, base field no. 7/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 7/9, checking fields: 6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 1/6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 2/6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 3/6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 4/6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 5/6
+[ Info: 72_48: layer 2/2, base field no. 7/9, 6/6
+[ Info: 72_48: layer 2/2, base field no. 8/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 8/9, checking fields: 0
+[ Info: 72_48: layer 2/2, base field no. 9/9, constructing abelian extensions
+[ Info: 72_48: layer 2/2, base field no. 9/9, checking fields: 0
+1565.151885 seconds (3.92 G allocations: 459.673 GiB, 5.95% gc time, 1.00% compilation time: 1% of which was recompilation)

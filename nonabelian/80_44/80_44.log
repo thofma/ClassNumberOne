@@ -1,0 +1,1476 @@
+[ Info: 80_44: File for first layer does not exist; computing [2, 2, 2]...
+[ Info: 80_44: Discriminant bound: 19952623149689
+[ Info: 80_44: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_44: 1/964
+[ Info: 80_44: 2/964
+[ Info: 80_44: 3/964
+[ Info: 80_44: 4/964
+[ Info: 80_44: 5/964
+[ Info: 80_44: 6/964
+[ Info: 80_44: 7/964
+[ Info: 80_44: 8/964
+[ Info: 80_44: 9/964
+[ Info: 80_44: 10/964
+[ Info: 80_44: 11/964
+[ Info: 80_44: 12/964
+[ Info: 80_44: 13/964
+[ Info: 80_44: 14/964
+[ Info: 80_44: 15/964
+[ Info: 80_44: 16/964
+[ Info: 80_44: 17/964
+[ Info: 80_44: 18/964
+[ Info: 80_44: 19/964
+[ Info: 80_44: 20/964
+[ Info: 80_44: 21/964
+[ Info: 80_44: 22/964
+[ Info: 80_44: 23/964
+[ Info: 80_44: 24/964
+[ Info: 80_44: 25/964
+[ Info: 80_44: 26/964
+[ Info: 80_44: 27/964
+[ Info: 80_44: 28/964
+[ Info: 80_44: 29/964
+[ Info: 80_44: 30/964
+[ Info: 80_44: 31/964
+[ Info: 80_44: 32/964
+[ Info: 80_44: 33/964
+[ Info: 80_44: 34/964
+[ Info: 80_44: 35/964
+[ Info: 80_44: 36/964
+[ Info: 80_44: 37/964
+[ Info: 80_44: 38/964
+[ Info: 80_44: 39/964
+[ Info: 80_44: 40/964
+[ Info: 80_44: 41/964
+[ Info: 80_44: 42/964
+[ Info: 80_44: 43/964
+[ Info: 80_44: 44/964
+[ Info: 80_44: 45/964
+[ Info: 80_44: 46/964
+[ Info: 80_44: 47/964
+[ Info: 80_44: 48/964
+[ Info: 80_44: 49/964
+[ Info: 80_44: 50/964
+[ Info: 80_44: 51/964
+[ Info: 80_44: 52/964
+[ Info: 80_44: 53/964
+[ Info: 80_44: 54/964
+[ Info: 80_44: 55/964
+[ Info: 80_44: 56/964
+[ Info: 80_44: 57/964
+[ Info: 80_44: 58/964
+[ Info: 80_44: 59/964
+[ Info: 80_44: 60/964
+[ Info: 80_44: 61/964
+[ Info: 80_44: 62/964
+[ Info: 80_44: 63/964
+[ Info: 80_44: 64/964
+[ Info: 80_44: 65/964
+[ Info: 80_44: 66/964
+[ Info: 80_44: 67/964
+[ Info: 80_44: 68/964
+[ Info: 80_44: 69/964
+[ Info: 80_44: 70/964
+[ Info: 80_44: 71/964
+[ Info: 80_44: 72/964
+[ Info: 80_44: 73/964
+[ Info: 80_44: 74/964
+[ Info: 80_44: 75/964
+[ Info: 80_44: 76/964
+[ Info: 80_44: 77/964
+[ Info: 80_44: 78/964
+[ Info: 80_44: 79/964
+[ Info: 80_44: 80/964
+[ Info: 80_44: 81/964
+[ Info: 80_44: 82/964
+[ Info: 80_44: 83/964
+[ Info: 80_44: 84/964
+[ Info: 80_44: 85/964
+[ Info: 80_44: 86/964
+[ Info: 80_44: 87/964
+[ Info: 80_44: 88/964
+[ Info: 80_44: 89/964
+[ Info: 80_44: 90/964
+[ Info: 80_44: 91/964
+[ Info: 80_44: 92/964
+[ Info: 80_44: 93/964
+[ Info: 80_44: 94/964
+[ Info: 80_44: 95/964
+[ Info: 80_44: 96/964
+[ Info: 80_44: 97/964
+[ Info: 80_44: 98/964
+[ Info: 80_44: 99/964
+[ Info: 80_44: 100/964
+[ Info: 80_44: 101/964
+[ Info: 80_44: 102/964
+[ Info: 80_44: 103/964
+[ Info: 80_44: 104/964
+[ Info: 80_44: 105/964
+[ Info: 80_44: 106/964
+[ Info: 80_44: 107/964
+[ Info: 80_44: 108/964
+[ Info: 80_44: 109/964
+[ Info: 80_44: 110/964
+[ Info: 80_44: 111/964
+[ Info: 80_44: 112/964
+[ Info: 80_44: 113/964
+[ Info: 80_44: 114/964
+[ Info: 80_44: 115/964
+[ Info: 80_44: 116/964
+[ Info: 80_44: 117/964
+[ Info: 80_44: 118/964
+[ Info: 80_44: 119/964
+[ Info: 80_44: 120/964
+[ Info: 80_44: 121/964
+[ Info: 80_44: 122/964
+[ Info: 80_44: 123/964
+[ Info: 80_44: 124/964
+[ Info: 80_44: 125/964
+[ Info: 80_44: 126/964
+[ Info: 80_44: 127/964
+[ Info: 80_44: 128/964
+[ Info: 80_44: 129/964
+[ Info: 80_44: 130/964
+[ Info: 80_44: 131/964
+[ Info: 80_44: 132/964
+[ Info: 80_44: 133/964
+[ Info: 80_44: 134/964
+[ Info: 80_44: 135/964
+[ Info: 80_44: 136/964
+[ Info: 80_44: 137/964
+[ Info: 80_44: 138/964
+[ Info: 80_44: 139/964
+[ Info: 80_44: 140/964
+[ Info: 80_44: 141/964
+[ Info: 80_44: 142/964
+[ Info: 80_44: 143/964
+[ Info: 80_44: 144/964
+[ Info: 80_44: 145/964
+[ Info: 80_44: 146/964
+[ Info: 80_44: 147/964
+[ Info: 80_44: 148/964
+[ Info: 80_44: 149/964
+[ Info: 80_44: 150/964
+[ Info: 80_44: 151/964
+[ Info: 80_44: 152/964
+[ Info: 80_44: 153/964
+[ Info: 80_44: 154/964
+[ Info: 80_44: 155/964
+[ Info: 80_44: 156/964
+[ Info: 80_44: 157/964
+[ Info: 80_44: 158/964
+[ Info: 80_44: 159/964
+[ Info: 80_44: 160/964
+[ Info: 80_44: 161/964
+[ Info: 80_44: 162/964
+[ Info: 80_44: 163/964
+[ Info: 80_44: 164/964
+[ Info: 80_44: 165/964
+[ Info: 80_44: 166/964
+[ Info: 80_44: 167/964
+[ Info: 80_44: 168/964
+[ Info: 80_44: 169/964
+[ Info: 80_44: 170/964
+[ Info: 80_44: 171/964
+[ Info: 80_44: 172/964
+[ Info: 80_44: 173/964
+[ Info: 80_44: 174/964
+[ Info: 80_44: 175/964
+[ Info: 80_44: 176/964
+[ Info: 80_44: 177/964
+[ Info: 80_44: 178/964
+[ Info: 80_44: 179/964
+[ Info: 80_44: 180/964
+[ Info: 80_44: 181/964
+[ Info: 80_44: 182/964
+[ Info: 80_44: 183/964
+[ Info: 80_44: 184/964
+[ Info: 80_44: 185/964
+[ Info: 80_44: 186/964
+[ Info: 80_44: 187/964
+[ Info: 80_44: 188/964
+[ Info: 80_44: 189/964
+[ Info: 80_44: 190/964
+[ Info: 80_44: 191/964
+[ Info: 80_44: 192/964
+[ Info: 80_44: 193/964
+[ Info: 80_44: 194/964
+[ Info: 80_44: 195/964
+[ Info: 80_44: 196/964
+[ Info: 80_44: 197/964
+[ Info: 80_44: 198/964
+[ Info: 80_44: 199/964
+[ Info: 80_44: 200/964
+[ Info: 80_44: 201/964
+[ Info: 80_44: 202/964
+[ Info: 80_44: 203/964
+[ Info: 80_44: 204/964
+[ Info: 80_44: 205/964
+[ Info: 80_44: 206/964
+[ Info: 80_44: 207/964
+[ Info: 80_44: 208/964
+[ Info: 80_44: 209/964
+[ Info: 80_44: 210/964
+[ Info: 80_44: 211/964
+[ Info: 80_44: 212/964
+[ Info: 80_44: 213/964
+[ Info: 80_44: 214/964
+[ Info: 80_44: 215/964
+[ Info: 80_44: 216/964
+[ Info: 80_44: 217/964
+[ Info: 80_44: 218/964
+[ Info: 80_44: 219/964
+[ Info: 80_44: 220/964
+[ Info: 80_44: 221/964
+[ Info: 80_44: 222/964
+[ Info: 80_44: 223/964
+[ Info: 80_44: 224/964
+[ Info: 80_44: 225/964
+[ Info: 80_44: 226/964
+[ Info: 80_44: 227/964
+[ Info: 80_44: 228/964
+[ Info: 80_44: 229/964
+[ Info: 80_44: 230/964
+[ Info: 80_44: 231/964
+[ Info: 80_44: 232/964
+[ Info: 80_44: 233/964
+[ Info: 80_44: 234/964
+[ Info: 80_44: 235/964
+[ Info: 80_44: 236/964
+[ Info: 80_44: 237/964
+[ Info: 80_44: 238/964
+[ Info: 80_44: 239/964
+[ Info: 80_44: 240/964
+[ Info: 80_44: 241/964
+[ Info: 80_44: 242/964
+[ Info: 80_44: 243/964
+[ Info: 80_44: 244/964
+[ Info: 80_44: 245/964
+[ Info: 80_44: 246/964
+[ Info: 80_44: 247/964
+[ Info: 80_44: 248/964
+[ Info: 80_44: 249/964
+[ Info: 80_44: 250/964
+[ Info: 80_44: 251/964
+[ Info: 80_44: 252/964
+[ Info: 80_44: 253/964
+[ Info: 80_44: 254/964
+[ Info: 80_44: 255/964
+[ Info: 80_44: 256/964
+[ Info: 80_44: 257/964
+[ Info: 80_44: 258/964
+[ Info: 80_44: 259/964
+[ Info: 80_44: 260/964
+[ Info: 80_44: 261/964
+[ Info: 80_44: 262/964
+[ Info: 80_44: 263/964
+[ Info: 80_44: 264/964
+[ Info: 80_44: 265/964
+[ Info: 80_44: 266/964
+[ Info: 80_44: 267/964
+[ Info: 80_44: 268/964
+[ Info: 80_44: 269/964
+[ Info: 80_44: 270/964
+[ Info: 80_44: 271/964
+[ Info: 80_44: 272/964
+[ Info: 80_44: 273/964
+[ Info: 80_44: 274/964
+[ Info: 80_44: 275/964
+[ Info: 80_44: 276/964
+[ Info: 80_44: 277/964
+[ Info: 80_44: 278/964
+[ Info: 80_44: 279/964
+[ Info: 80_44: 280/964
+[ Info: 80_44: 281/964
+[ Info: 80_44: 282/964
+[ Info: 80_44: 283/964
+[ Info: 80_44: 284/964
+[ Info: 80_44: 285/964
+[ Info: 80_44: 286/964
+[ Info: 80_44: 287/964
+[ Info: 80_44: 288/964
+[ Info: 80_44: 289/964
+[ Info: 80_44: 290/964
+[ Info: 80_44: 291/964
+[ Info: 80_44: 292/964
+[ Info: 80_44: 293/964
+[ Info: 80_44: 294/964
+[ Info: 80_44: 295/964
+[ Info: 80_44: 296/964
+[ Info: 80_44: 297/964
+[ Info: 80_44: 298/964
+[ Info: 80_44: 299/964
+[ Info: 80_44: 300/964
+[ Info: 80_44: 301/964
+[ Info: 80_44: 302/964
+[ Info: 80_44: 303/964
+[ Info: 80_44: 304/964
+[ Info: 80_44: 305/964
+[ Info: 80_44: 306/964
+[ Info: 80_44: 307/964
+[ Info: 80_44: 308/964
+[ Info: 80_44: 309/964
+[ Info: 80_44: 310/964
+[ Info: 80_44: 311/964
+[ Info: 80_44: 312/964
+[ Info: 80_44: 313/964
+[ Info: 80_44: 314/964
+[ Info: 80_44: 315/964
+[ Info: 80_44: 316/964
+[ Info: 80_44: 317/964
+[ Info: 80_44: 318/964
+[ Info: 80_44: 319/964
+[ Info: 80_44: 320/964
+[ Info: 80_44: 321/964
+[ Info: 80_44: 322/964
+[ Info: 80_44: 323/964
+[ Info: 80_44: 324/964
+[ Info: 80_44: 325/964
+[ Info: 80_44: 326/964
+[ Info: 80_44: 327/964
+[ Info: 80_44: 328/964
+[ Info: 80_44: 329/964
+[ Info: 80_44: 330/964
+[ Info: 80_44: 331/964
+[ Info: 80_44: 332/964
+[ Info: 80_44: 333/964
+[ Info: 80_44: 334/964
+[ Info: 80_44: 335/964
+[ Info: 80_44: 336/964
+[ Info: 80_44: 337/964
+[ Info: 80_44: 338/964
+[ Info: 80_44: 339/964
+[ Info: 80_44: 340/964
+[ Info: 80_44: 341/964
+[ Info: 80_44: 342/964
+[ Info: 80_44: 343/964
+[ Info: 80_44: 344/964
+[ Info: 80_44: 345/964
+[ Info: 80_44: 346/964
+[ Info: 80_44: 347/964
+[ Info: 80_44: 348/964
+[ Info: 80_44: 349/964
+[ Info: 80_44: 350/964
+[ Info: 80_44: 351/964
+[ Info: 80_44: 352/964
+[ Info: 80_44: 353/964
+[ Info: 80_44: 354/964
+[ Info: 80_44: 355/964
+[ Info: 80_44: 356/964
+[ Info: 80_44: 357/964
+[ Info: 80_44: 358/964
+[ Info: 80_44: 359/964
+[ Info: 80_44: 360/964
+[ Info: 80_44: 361/964
+[ Info: 80_44: 362/964
+[ Info: 80_44: 363/964
+[ Info: 80_44: 364/964
+[ Info: 80_44: 365/964
+[ Info: 80_44: 366/964
+[ Info: 80_44: 367/964
+[ Info: 80_44: 368/964
+[ Info: 80_44: 369/964
+[ Info: 80_44: 370/964
+[ Info: 80_44: 371/964
+[ Info: 80_44: 372/964
+[ Info: 80_44: 373/964
+[ Info: 80_44: 374/964
+[ Info: 80_44: 375/964
+[ Info: 80_44: 376/964
+[ Info: 80_44: 377/964
+[ Info: 80_44: 378/964
+[ Info: 80_44: 379/964
+[ Info: 80_44: 380/964
+[ Info: 80_44: 381/964
+[ Info: 80_44: 382/964
+[ Info: 80_44: 383/964
+[ Info: 80_44: 384/964
+[ Info: 80_44: 385/964
+[ Info: 80_44: 386/964
+[ Info: 80_44: 387/964
+[ Info: 80_44: 388/964
+[ Info: 80_44: 389/964
+[ Info: 80_44: 390/964
+[ Info: 80_44: 391/964
+[ Info: 80_44: 392/964
+[ Info: 80_44: 393/964
+[ Info: 80_44: 394/964
+[ Info: 80_44: 395/964
+[ Info: 80_44: 396/964
+[ Info: 80_44: 397/964
+[ Info: 80_44: 398/964
+[ Info: 80_44: 399/964
+[ Info: 80_44: 400/964
+[ Info: 80_44: 401/964
+[ Info: 80_44: 402/964
+[ Info: 80_44: 403/964
+[ Info: 80_44: 404/964
+[ Info: 80_44: 405/964
+[ Info: 80_44: 406/964
+[ Info: 80_44: 407/964
+[ Info: 80_44: 408/964
+[ Info: 80_44: 409/964
+[ Info: 80_44: 410/964
+[ Info: 80_44: 411/964
+[ Info: 80_44: 412/964
+[ Info: 80_44: 413/964
+[ Info: 80_44: 414/964
+[ Info: 80_44: 415/964
+[ Info: 80_44: 416/964
+[ Info: 80_44: 417/964
+[ Info: 80_44: 418/964
+[ Info: 80_44: 419/964
+[ Info: 80_44: 420/964
+[ Info: 80_44: 421/964
+[ Info: 80_44: 422/964
+[ Info: 80_44: 423/964
+[ Info: 80_44: 424/964
+[ Info: 80_44: 425/964
+[ Info: 80_44: 426/964
+[ Info: 80_44: 427/964
+[ Info: 80_44: 428/964
+[ Info: 80_44: 429/964
+[ Info: 80_44: 430/964
+[ Info: 80_44: 431/964
+[ Info: 80_44: 432/964
+[ Info: 80_44: 433/964
+[ Info: 80_44: 434/964
+[ Info: 80_44: 435/964
+[ Info: 80_44: 436/964
+[ Info: 80_44: 437/964
+[ Info: 80_44: 438/964
+[ Info: 80_44: 439/964
+[ Info: 80_44: 440/964
+[ Info: 80_44: 441/964
+[ Info: 80_44: 442/964
+[ Info: 80_44: 443/964
+[ Info: 80_44: 444/964
+[ Info: 80_44: 445/964
+[ Info: 80_44: 446/964
+[ Info: 80_44: 447/964
+[ Info: 80_44: 448/964
+[ Info: 80_44: 449/964
+[ Info: 80_44: 450/964
+[ Info: 80_44: 451/964
+[ Info: 80_44: 452/964
+[ Info: 80_44: 453/964
+[ Info: 80_44: 454/964
+[ Info: 80_44: 455/964
+[ Info: 80_44: 456/964
+[ Info: 80_44: 457/964
+[ Info: 80_44: 458/964
+[ Info: 80_44: 459/964
+[ Info: 80_44: 460/964
+[ Info: 80_44: 461/964
+[ Info: 80_44: 462/964
+[ Info: 80_44: 463/964
+[ Info: 80_44: 464/964
+[ Info: 80_44: 465/964
+[ Info: 80_44: 466/964
+[ Info: 80_44: 467/964
+[ Info: 80_44: 468/964
+[ Info: 80_44: 469/964
+[ Info: 80_44: 470/964
+[ Info: 80_44: 471/964
+[ Info: 80_44: 472/964
+[ Info: 80_44: 473/964
+[ Info: 80_44: 474/964
+[ Info: 80_44: 475/964
+[ Info: 80_44: 476/964
+[ Info: 80_44: 477/964
+[ Info: 80_44: 478/964
+[ Info: 80_44: 479/964
+[ Info: 80_44: 480/964
+[ Info: 80_44: 481/964
+[ Info: 80_44: 482/964
+[ Info: 80_44: 483/964
+[ Info: 80_44: 484/964
+[ Info: 80_44: 485/964
+[ Info: 80_44: 486/964
+[ Info: 80_44: 487/964
+[ Info: 80_44: 488/964
+[ Info: 80_44: 489/964
+[ Info: 80_44: 490/964
+[ Info: 80_44: 491/964
+[ Info: 80_44: 492/964
+[ Info: 80_44: 493/964
+[ Info: 80_44: 494/964
+[ Info: 80_44: 495/964
+[ Info: 80_44: 496/964
+[ Info: 80_44: 497/964
+[ Info: 80_44: 498/964
+[ Info: 80_44: 499/964
+[ Info: 80_44: 500/964
+[ Info: 80_44: 501/964
+[ Info: 80_44: 502/964
+[ Info: 80_44: 503/964
+[ Info: 80_44: 504/964
+[ Info: 80_44: 505/964
+[ Info: 80_44: 506/964
+[ Info: 80_44: 507/964
+[ Info: 80_44: 508/964
+[ Info: 80_44: 509/964
+[ Info: 80_44: 510/964
+[ Info: 80_44: 511/964
+[ Info: 80_44: 512/964
+[ Info: 80_44: 513/964
+[ Info: 80_44: 514/964
+[ Info: 80_44: 515/964
+[ Info: 80_44: 516/964
+[ Info: 80_44: 517/964
+[ Info: 80_44: 518/964
+[ Info: 80_44: 519/964
+[ Info: 80_44: 520/964
+[ Info: 80_44: 521/964
+[ Info: 80_44: 522/964
+[ Info: 80_44: 523/964
+[ Info: 80_44: 524/964
+[ Info: 80_44: 525/964
+[ Info: 80_44: 526/964
+[ Info: 80_44: 527/964
+[ Info: 80_44: 528/964
+[ Info: 80_44: 529/964
+[ Info: 80_44: 530/964
+[ Info: 80_44: 531/964
+[ Info: 80_44: 532/964
+[ Info: 80_44: 533/964
+[ Info: 80_44: 534/964
+[ Info: 80_44: 535/964
+[ Info: 80_44: 536/964
+[ Info: 80_44: 537/964
+[ Info: 80_44: 538/964
+[ Info: 80_44: 539/964
+[ Info: 80_44: 540/964
+[ Info: 80_44: 541/964
+[ Info: 80_44: 542/964
+[ Info: 80_44: 543/964
+[ Info: 80_44: 544/964
+[ Info: 80_44: 545/964
+[ Info: 80_44: 546/964
+[ Info: 80_44: 547/964
+[ Info: 80_44: 548/964
+[ Info: 80_44: 549/964
+[ Info: 80_44: 550/964
+[ Info: 80_44: 551/964
+[ Info: 80_44: 552/964
+[ Info: 80_44: 553/964
+[ Info: 80_44: 554/964
+[ Info: 80_44: 555/964
+[ Info: 80_44: 556/964
+[ Info: 80_44: 557/964
+[ Info: 80_44: 558/964
+[ Info: 80_44: 559/964
+[ Info: 80_44: 560/964
+[ Info: 80_44: 561/964
+[ Info: 80_44: 562/964
+[ Info: 80_44: 563/964
+[ Info: 80_44: 564/964
+[ Info: 80_44: 565/964
+[ Info: 80_44: 566/964
+[ Info: 80_44: 567/964
+[ Info: 80_44: 568/964
+[ Info: 80_44: 569/964
+[ Info: 80_44: 570/964
+[ Info: 80_44: 571/964
+[ Info: 80_44: 572/964
+[ Info: 80_44: 573/964
+[ Info: 80_44: 574/964
+[ Info: 80_44: 575/964
+[ Info: 80_44: 576/964
+[ Info: 80_44: 577/964
+[ Info: 80_44: 578/964
+[ Info: 80_44: 579/964
+[ Info: 80_44: 580/964
+[ Info: 80_44: 581/964
+[ Info: 80_44: 582/964
+[ Info: 80_44: 583/964
+[ Info: 80_44: 584/964
+[ Info: 80_44: 585/964
+[ Info: 80_44: 586/964
+[ Info: 80_44: 587/964
+[ Info: 80_44: 588/964
+[ Info: 80_44: 589/964
+[ Info: 80_44: 590/964
+[ Info: 80_44: 591/964
+[ Info: 80_44: 592/964
+[ Info: 80_44: 593/964
+[ Info: 80_44: 594/964
+[ Info: 80_44: 595/964
+[ Info: 80_44: 596/964
+[ Info: 80_44: 597/964
+[ Info: 80_44: 598/964
+[ Info: 80_44: 599/964
+[ Info: 80_44: 600/964
+[ Info: 80_44: 601/964
+[ Info: 80_44: 602/964
+[ Info: 80_44: 603/964
+[ Info: 80_44: 604/964
+[ Info: 80_44: 605/964
+[ Info: 80_44: 606/964
+[ Info: 80_44: 607/964
+[ Info: 80_44: 608/964
+[ Info: 80_44: 609/964
+[ Info: 80_44: 610/964
+[ Info: 80_44: 611/964
+[ Info: 80_44: 612/964
+[ Info: 80_44: 613/964
+[ Info: 80_44: 614/964
+[ Info: 80_44: 615/964
+[ Info: 80_44: 616/964
+[ Info: 80_44: 617/964
+[ Info: 80_44: 618/964
+[ Info: 80_44: 619/964
+[ Info: 80_44: 620/964
+[ Info: 80_44: 621/964
+[ Info: 80_44: 622/964
+[ Info: 80_44: 623/964
+[ Info: 80_44: 624/964
+[ Info: 80_44: 625/964
+[ Info: 80_44: 626/964
+[ Info: 80_44: 627/964
+[ Info: 80_44: 628/964
+[ Info: 80_44: 629/964
+[ Info: 80_44: 630/964
+[ Info: 80_44: 631/964
+[ Info: 80_44: 632/964
+[ Info: 80_44: 633/964
+[ Info: 80_44: 634/964
+[ Info: 80_44: 635/964
+[ Info: 80_44: 636/964
+[ Info: 80_44: 637/964
+[ Info: 80_44: 638/964
+[ Info: 80_44: 639/964
+[ Info: 80_44: 640/964
+[ Info: 80_44: 641/964
+[ Info: 80_44: 642/964
+[ Info: 80_44: 643/964
+[ Info: 80_44: 644/964
+[ Info: 80_44: 645/964
+[ Info: 80_44: 646/964
+[ Info: 80_44: 647/964
+[ Info: 80_44: 648/964
+[ Info: 80_44: 649/964
+[ Info: 80_44: 650/964
+[ Info: 80_44: 651/964
+[ Info: 80_44: 652/964
+[ Info: 80_44: 653/964
+[ Info: 80_44: 654/964
+[ Info: 80_44: 655/964
+[ Info: 80_44: 656/964
+[ Info: 80_44: 657/964
+[ Info: 80_44: 658/964
+[ Info: 80_44: 659/964
+[ Info: 80_44: 660/964
+[ Info: 80_44: 661/964
+[ Info: 80_44: 662/964
+[ Info: 80_44: 663/964
+[ Info: 80_44: 664/964
+[ Info: 80_44: 665/964
+[ Info: 80_44: 666/964
+[ Info: 80_44: 667/964
+[ Info: 80_44: 668/964
+[ Info: 80_44: 669/964
+[ Info: 80_44: 670/964
+[ Info: 80_44: 671/964
+[ Info: 80_44: 672/964
+[ Info: 80_44: 673/964
+[ Info: 80_44: 674/964
+[ Info: 80_44: 675/964
+[ Info: 80_44: 676/964
+[ Info: 80_44: 677/964
+[ Info: 80_44: 678/964
+[ Info: 80_44: 679/964
+[ Info: 80_44: 680/964
+[ Info: 80_44: 681/964
+[ Info: 80_44: 682/964
+[ Info: 80_44: 683/964
+[ Info: 80_44: 684/964
+[ Info: 80_44: 685/964
+[ Info: 80_44: 686/964
+[ Info: 80_44: 687/964
+[ Info: 80_44: 688/964
+[ Info: 80_44: 689/964
+[ Info: 80_44: 690/964
+[ Info: 80_44: 691/964
+[ Info: 80_44: 692/964
+[ Info: 80_44: 693/964
+[ Info: 80_44: 694/964
+[ Info: 80_44: 695/964
+[ Info: 80_44: 696/964
+[ Info: 80_44: 697/964
+[ Info: 80_44: 698/964
+[ Info: 80_44: 699/964
+[ Info: 80_44: 700/964
+[ Info: 80_44: 701/964
+[ Info: 80_44: 702/964
+[ Info: 80_44: 703/964
+[ Info: 80_44: 704/964
+[ Info: 80_44: 705/964
+[ Info: 80_44: 706/964
+[ Info: 80_44: 707/964
+[ Info: 80_44: 708/964
+[ Info: 80_44: 709/964
+[ Info: 80_44: 710/964
+[ Info: 80_44: 711/964
+[ Info: 80_44: 712/964
+[ Info: 80_44: 713/964
+[ Info: 80_44: 714/964
+[ Info: 80_44: 715/964
+[ Info: 80_44: 716/964
+[ Info: 80_44: 717/964
+[ Info: 80_44: 718/964
+[ Info: 80_44: 719/964
+[ Info: 80_44: 720/964
+[ Info: 80_44: 721/964
+[ Info: 80_44: 722/964
+[ Info: 80_44: 723/964
+[ Info: 80_44: 724/964
+[ Info: 80_44: 725/964
+[ Info: 80_44: 726/964
+[ Info: 80_44: 727/964
+[ Info: 80_44: 728/964
+[ Info: 80_44: 729/964
+[ Info: 80_44: 730/964
+[ Info: 80_44: 731/964
+[ Info: 80_44: 732/964
+[ Info: 80_44: 733/964
+[ Info: 80_44: 734/964
+[ Info: 80_44: 735/964
+[ Info: 80_44: 736/964
+[ Info: 80_44: 737/964
+[ Info: 80_44: 738/964
+[ Info: 80_44: 739/964
+[ Info: 80_44: 740/964
+[ Info: 80_44: 741/964
+[ Info: 80_44: 742/964
+[ Info: 80_44: 743/964
+[ Info: 80_44: 744/964
+[ Info: 80_44: 745/964
+[ Info: 80_44: 746/964
+[ Info: 80_44: 747/964
+[ Info: 80_44: 748/964
+[ Info: 80_44: 749/964
+[ Info: 80_44: 750/964
+[ Info: 80_44: 751/964
+[ Info: 80_44: 752/964
+[ Info: 80_44: 753/964
+[ Info: 80_44: 754/964
+[ Info: 80_44: 755/964
+[ Info: 80_44: 756/964
+[ Info: 80_44: 757/964
+[ Info: 80_44: 758/964
+[ Info: 80_44: 759/964
+[ Info: 80_44: 760/964
+[ Info: 80_44: 761/964
+[ Info: 80_44: 762/964
+[ Info: 80_44: 763/964
+[ Info: 80_44: 764/964
+[ Info: 80_44: 765/964
+[ Info: 80_44: 766/964
+[ Info: 80_44: 767/964
+[ Info: 80_44: 768/964
+[ Info: 80_44: 769/964
+[ Info: 80_44: 770/964
+[ Info: 80_44: 771/964
+[ Info: 80_44: 772/964
+[ Info: 80_44: 773/964
+[ Info: 80_44: 774/964
+[ Info: 80_44: 775/964
+[ Info: 80_44: 776/964
+[ Info: 80_44: 777/964
+[ Info: 80_44: 778/964
+[ Info: 80_44: 779/964
+[ Info: 80_44: 780/964
+[ Info: 80_44: 781/964
+[ Info: 80_44: 782/964
+[ Info: 80_44: 783/964
+[ Info: 80_44: 784/964
+[ Info: 80_44: 785/964
+[ Info: 80_44: 786/964
+[ Info: 80_44: 787/964
+[ Info: 80_44: 788/964
+[ Info: 80_44: 789/964
+[ Info: 80_44: 790/964
+[ Info: 80_44: 791/964
+[ Info: 80_44: 792/964
+[ Info: 80_44: 793/964
+[ Info: 80_44: 794/964
+[ Info: 80_44: 795/964
+[ Info: 80_44: 796/964
+[ Info: 80_44: 797/964
+[ Info: 80_44: 798/964
+[ Info: 80_44: 799/964
+[ Info: 80_44: 800/964
+[ Info: 80_44: 801/964
+[ Info: 80_44: 802/964
+[ Info: 80_44: 803/964
+[ Info: 80_44: 804/964
+[ Info: 80_44: 805/964
+[ Info: 80_44: 806/964
+[ Info: 80_44: 807/964
+[ Info: 80_44: 808/964
+[ Info: 80_44: 809/964
+[ Info: 80_44: 810/964
+[ Info: 80_44: 811/964
+[ Info: 80_44: 812/964
+[ Info: 80_44: 813/964
+[ Info: 80_44: 814/964
+[ Info: 80_44: 815/964
+[ Info: 80_44: 816/964
+[ Info: 80_44: 817/964
+[ Info: 80_44: 818/964
+[ Info: 80_44: 819/964
+[ Info: 80_44: 820/964
+[ Info: 80_44: 821/964
+[ Info: 80_44: 822/964
+[ Info: 80_44: 823/964
+[ Info: 80_44: 824/964
+[ Info: 80_44: 825/964
+[ Info: 80_44: 826/964
+[ Info: 80_44: 827/964
+[ Info: 80_44: 828/964
+[ Info: 80_44: 829/964
+[ Info: 80_44: 830/964
+[ Info: 80_44: 831/964
+[ Info: 80_44: 832/964
+[ Info: 80_44: 833/964
+[ Info: 80_44: 834/964
+[ Info: 80_44: 835/964
+[ Info: 80_44: 836/964
+[ Info: 80_44: 837/964
+[ Info: 80_44: 838/964
+[ Info: 80_44: 839/964
+[ Info: 80_44: 840/964
+[ Info: 80_44: 841/964
+[ Info: 80_44: 842/964
+[ Info: 80_44: 843/964
+[ Info: 80_44: 844/964
+[ Info: 80_44: 845/964
+[ Info: 80_44: 846/964
+[ Info: 80_44: 847/964
+[ Info: 80_44: 848/964
+[ Info: 80_44: 849/964
+[ Info: 80_44: 850/964
+[ Info: 80_44: 851/964
+[ Info: 80_44: 852/964
+[ Info: 80_44: 853/964
+[ Info: 80_44: 854/964
+[ Info: 80_44: 855/964
+[ Info: 80_44: 856/964
+[ Info: 80_44: 857/964
+[ Info: 80_44: 858/964
+[ Info: 80_44: 859/964
+[ Info: 80_44: 860/964
+[ Info: 80_44: 861/964
+[ Info: 80_44: 862/964
+[ Info: 80_44: 863/964
+[ Info: 80_44: 864/964
+[ Info: 80_44: 865/964
+[ Info: 80_44: 866/964
+[ Info: 80_44: 867/964
+[ Info: 80_44: 868/964
+[ Info: 80_44: 869/964
+[ Info: 80_44: 870/964
+[ Info: 80_44: 871/964
+[ Info: 80_44: 872/964
+[ Info: 80_44: 873/964
+[ Info: 80_44: 874/964
+[ Info: 80_44: 875/964
+[ Info: 80_44: 876/964
+[ Info: 80_44: 877/964
+[ Info: 80_44: 878/964
+[ Info: 80_44: 879/964
+[ Info: 80_44: 880/964
+[ Info: 80_44: 881/964
+[ Info: 80_44: 882/964
+[ Info: 80_44: 883/964
+[ Info: 80_44: 884/964
+[ Info: 80_44: 885/964
+[ Info: 80_44: 886/964
+[ Info: 80_44: 887/964
+[ Info: 80_44: 888/964
+[ Info: 80_44: 889/964
+[ Info: 80_44: 890/964
+[ Info: 80_44: 891/964
+[ Info: 80_44: 892/964
+[ Info: 80_44: 893/964
+[ Info: 80_44: 894/964
+[ Info: 80_44: 895/964
+[ Info: 80_44: 896/964
+[ Info: 80_44: 897/964
+[ Info: 80_44: 898/964
+[ Info: 80_44: 899/964
+[ Info: 80_44: 900/964
+[ Info: 80_44: 901/964
+[ Info: 80_44: 902/964
+[ Info: 80_44: 903/964
+[ Info: 80_44: 904/964
+[ Info: 80_44: 905/964
+[ Info: 80_44: 906/964
+[ Info: 80_44: 907/964
+[ Info: 80_44: 908/964
+[ Info: 80_44: 909/964
+[ Info: 80_44: 910/964
+[ Info: 80_44: 911/964
+[ Info: 80_44: 912/964
+[ Info: 80_44: 913/964
+[ Info: 80_44: 914/964
+[ Info: 80_44: 915/964
+[ Info: 80_44: 916/964
+[ Info: 80_44: 917/964
+[ Info: 80_44: 918/964
+[ Info: 80_44: 919/964
+[ Info: 80_44: 920/964
+[ Info: 80_44: 921/964
+[ Info: 80_44: 922/964
+[ Info: 80_44: 923/964
+[ Info: 80_44: 924/964
+[ Info: 80_44: 925/964
+[ Info: 80_44: 926/964
+[ Info: 80_44: 927/964
+[ Info: 80_44: 928/964
+[ Info: 80_44: 929/964
+[ Info: 80_44: 930/964
+[ Info: 80_44: 931/964
+[ Info: 80_44: 932/964
+[ Info: 80_44: 933/964
+[ Info: 80_44: 934/964
+[ Info: 80_44: 935/964
+[ Info: 80_44: 936/964
+[ Info: 80_44: 937/964
+[ Info: 80_44: 938/964
+[ Info: 80_44: 939/964
+[ Info: 80_44: 940/964
+[ Info: 80_44: 941/964
+[ Info: 80_44: 942/964
+[ Info: 80_44: 943/964
+[ Info: 80_44: 944/964
+[ Info: 80_44: 945/964
+[ Info: 80_44: 946/964
+[ Info: 80_44: 947/964
+[ Info: 80_44: 948/964
+[ Info: 80_44: 949/964
+[ Info: 80_44: 950/964
+[ Info: 80_44: 951/964
+[ Info: 80_44: 952/964
+[ Info: 80_44: 953/964
+[ Info: 80_44: 954/964
+[ Info: 80_44: 955/964
+[ Info: 80_44: 956/964
+[ Info: 80_44: 957/964
+[ Info: 80_44: 958/964
+[ Info: 80_44: 959/964
+[ Info: 80_44: 960/964
+[ Info: 80_44: 961/964
+[ Info: 80_44: 962/964
+[ Info: 80_44: 963/964
+[ Info: 80_44: 964/964
+[ Info: 80_44: layer 2/2, base field no. 1/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 1/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 2/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 2/234, checking fields: 6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 1/6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 2/6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 3/6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 4/6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 5/6
+[ Info: 80_44: layer 2/2, base field no. 2/234, 6/6
+[ Info: 80_44: layer 2/2, base field no. 3/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 3/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 4/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 4/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 5/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 5/234, checking fields: 10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 1/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 2/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 3/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 4/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 5/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 6/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 7/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 8/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 9/10
+[ Info: 80_44: layer 2/2, base field no. 5/234, 10/10
+[ Info: 80_44: layer 2/2, base field no. 6/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 6/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 7/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 7/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 8/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 8/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 9/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 9/234, checking fields: 2
+[ Info: 80_44: layer 2/2, base field no. 9/234, 1/2
+[ Info: 80_44: layer 2/2, base field no. 9/234, 2/2
+[ Info: 80_44: layer 2/2, base field no. 10/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 10/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 11/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 11/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 12/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 12/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 13/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 13/234, checking fields: 6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 1/6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 2/6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 3/6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 4/6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 5/6
+[ Info: 80_44: layer 2/2, base field no. 13/234, 6/6
+[ Info: 80_44: layer 2/2, base field no. 14/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 14/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 15/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 15/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 16/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 16/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 17/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 17/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 18/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 18/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 19/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 19/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 20/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 20/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 21/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 21/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 22/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 22/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 23/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 23/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 24/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 24/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 25/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 25/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 26/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 26/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 27/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 27/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 28/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 28/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 29/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 29/234, checking fields: 4
+[ Info: 80_44: layer 2/2, base field no. 29/234, 1/4
+[ Info: 80_44: layer 2/2, base field no. 29/234, 2/4
+[ Info: 80_44: layer 2/2, base field no. 29/234, 3/4
+[ Info: 80_44: layer 2/2, base field no. 29/234, 4/4
+[ Info: 80_44: layer 2/2, base field no. 30/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 30/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 31/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 31/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 32/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 32/234, checking fields: 2
+[ Info: 80_44: layer 2/2, base field no. 32/234, 1/2
+[ Info: 80_44: layer 2/2, base field no. 32/234, 2/2
+[ Info: 80_44: layer 2/2, base field no. 33/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 33/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 34/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 34/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 35/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 35/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 36/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 36/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 37/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 37/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 38/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 38/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 39/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 39/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 40/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 40/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 41/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 41/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 42/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 42/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 43/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 43/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 44/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 44/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 45/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 45/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 46/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 46/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 47/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 47/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 48/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 48/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 49/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 49/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 50/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 50/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 51/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 51/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 52/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 52/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 53/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 53/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 54/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 54/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 55/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 55/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 56/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 56/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 57/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 57/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 58/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 58/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 59/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 59/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 60/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 60/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 61/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 61/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 62/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 62/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 63/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 63/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 64/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 64/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 65/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 65/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 66/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 66/234, checking fields: 3
+[ Info: 80_44: layer 2/2, base field no. 66/234, 1/3
+[ Info: 80_44: layer 2/2, base field no. 66/234, 2/3
+[ Info: 80_44: layer 2/2, base field no. 66/234, 3/3
+[ Info: 80_44: layer 2/2, base field no. 67/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 67/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 68/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 68/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 69/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 69/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 70/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 70/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 71/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 71/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 72/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 72/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 73/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 73/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 74/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 74/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 75/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 75/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 76/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 76/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 77/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 77/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 78/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 78/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 79/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 79/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 80/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 80/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 81/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 81/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 82/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 82/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 83/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 83/234, checking fields: 2
+[ Info: 80_44: layer 2/2, base field no. 83/234, 1/2
+[ Info: 80_44: layer 2/2, base field no. 83/234, 2/2
+[ Info: 80_44: layer 2/2, base field no. 84/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 84/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 85/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 85/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 86/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 86/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 87/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 87/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 88/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 88/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 89/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 89/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 90/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 90/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 91/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 91/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 92/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 92/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 93/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 93/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 94/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 94/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 95/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 95/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 96/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 96/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 97/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 97/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 98/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 98/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 99/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 99/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 100/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 100/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 101/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 101/234, checking fields: 2
+[ Info: 80_44: layer 2/2, base field no. 101/234, 1/2
+[ Info: 80_44: layer 2/2, base field no. 101/234, 2/2
+[ Info: 80_44: layer 2/2, base field no. 102/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 102/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 103/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 103/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 104/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 104/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 105/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 105/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 106/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 106/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 107/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 107/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 108/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 108/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 109/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 109/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 110/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 110/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 111/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 111/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 112/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 112/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 113/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 113/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 114/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 114/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 115/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 115/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 116/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 116/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 117/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 117/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 118/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 118/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 119/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 119/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 120/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 120/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 121/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 121/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 122/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 122/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 123/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 123/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 124/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 124/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 125/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 125/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 126/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 126/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 127/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 127/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 128/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 128/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 129/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 129/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 130/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 130/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 131/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 131/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 132/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 132/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 133/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 133/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 134/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 134/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 135/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 135/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 136/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 136/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 137/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 137/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 138/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 138/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 139/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 139/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 140/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 140/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 141/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 141/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 142/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 142/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 143/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 143/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 144/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 144/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 145/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 145/234, checking fields: 3
+[ Info: 80_44: layer 2/2, base field no. 145/234, 1/3
+[ Info: 80_44: layer 2/2, base field no. 145/234, 2/3
+[ Info: 80_44: layer 2/2, base field no. 145/234, 3/3
+[ Info: 80_44: layer 2/2, base field no. 146/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 146/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 147/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 147/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 148/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 148/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 149/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 149/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 150/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 150/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 151/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 151/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 152/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 152/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 153/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 153/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 154/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 154/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 155/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 155/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 156/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 156/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 157/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 157/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 158/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 158/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 159/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 159/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 160/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 160/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 161/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 161/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 162/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 162/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 163/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 163/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 164/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 164/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 165/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 165/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 166/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 166/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 167/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 167/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 168/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 168/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 169/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 169/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 170/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 170/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 171/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 171/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 172/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 172/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 173/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 173/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 174/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 174/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 175/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 175/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 176/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 176/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 177/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 177/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 178/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 178/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 179/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 179/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 180/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 180/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 181/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 181/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 182/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 182/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 183/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 183/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 184/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 184/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 185/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 185/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 186/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 186/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 187/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 187/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 188/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 188/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 189/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 189/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 190/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 190/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 191/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 191/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 192/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 192/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 193/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 193/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 194/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 194/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 195/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 195/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 196/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 196/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 197/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 197/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 198/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 198/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 199/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 199/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 200/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 200/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 201/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 201/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 202/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 202/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 203/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 203/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 204/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 204/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 205/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 205/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 206/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 206/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 207/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 207/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 208/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 208/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 209/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 209/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 210/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 210/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 211/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 211/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 212/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 212/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 213/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 213/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 214/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 214/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 215/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 215/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 216/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 216/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 217/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 217/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 218/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 218/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 219/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 219/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 220/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 220/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 221/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 221/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 222/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 222/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 223/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 223/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 224/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 224/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 225/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 225/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 226/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 226/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 227/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 227/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 228/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 228/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 229/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 229/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 230/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 230/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 231/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 231/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 232/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 232/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 233/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 233/234, checking fields: 0
+[ Info: 80_44: layer 2/2, base field no. 234/234, constructing abelian extensions
+[ Info: 80_44: layer 2/2, base field no. 234/234, checking fields: 0
+4804.632916 seconds (7.85 G allocations: 1.954 TiB, 4.75% gc time, 0.44% compilation time: 1% of which was recompilation)

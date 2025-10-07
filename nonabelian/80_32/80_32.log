@@ -1,0 +1,59 @@
+[ Info: 80_32: File for first layer does not exist; computing [2, 8]...
+[ Info: 80_32: Discriminant bound: 398107170553497250777006080
+[ Info: 80_32: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_32: 1/30
+[ Info: 80_32: 2/30
+[ Info: 80_32: 3/30
+[ Info: 80_32: 4/30
+[ Info: 80_32: 5/30
+[ Info: 80_32: 6/30
+[ Info: 80_32: 7/30
+[ Info: 80_32: 8/30
+[ Info: 80_32: 9/30
+[ Info: 80_32: 10/30
+[ Info: 80_32: 11/30
+[ Info: 80_32: 12/30
+[ Info: 80_32: 13/30
+[ Info: 80_32: 14/30
+[ Info: 80_32: 15/30
+[ Info: 80_32: 16/30
+[ Info: 80_32: 17/30
+[ Info: 80_32: 18/30
+[ Info: 80_32: 19/30
+[ Info: 80_32: 20/30
+[ Info: 80_32: 21/30
+[ Info: 80_32: 22/30
+[ Info: 80_32: 23/30
+[ Info: 80_32: 24/30
+[ Info: 80_32: 25/30
+[ Info: 80_32: 26/30
+[ Info: 80_32: 27/30
+[ Info: 80_32: 28/30
+[ Info: 80_32: 29/30
+[ Info: 80_32: 30/30
+[ Info: 80_32: layer 2/2, base field no. 1/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 1/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 2/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 2/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 3/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 3/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 4/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 4/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 5/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 5/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 6/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 6/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 7/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 7/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 8/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 8/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 9/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 9/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 10/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 10/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 11/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 11/12, checking fields: 0
+[ Info: 80_32: layer 2/2, base field no. 12/12, constructing abelian extensions
+[ Info: 80_32: layer 2/2, base field no. 12/12, checking fields: 1
+[ Info: 80_32: layer 2/2, base field no. 12/12, 1/1
+526.126821 seconds (615.71 M allocations: 192.177 GiB, 3.35% gc time, 4.04% compilation time: <1% of which was recompilation)

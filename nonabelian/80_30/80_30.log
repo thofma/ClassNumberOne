@@ -1,0 +1,44 @@
+[ Info: 80_30: File for first layer does not exist; computing [4, 4]...
+[ Info: 80_30: Discriminant bound: 398107170553497250777006080
+[ Info: 80_30: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_30: 1/19
+[ Info: 80_30: 2/19
+[ Info: 80_30: 3/19
+[ Info: 80_30: 4/19
+[ Info: 80_30: 5/19
+[ Info: 80_30: 6/19
+[ Info: 80_30: 7/19
+[ Info: 80_30: 8/19
+[ Info: 80_30: 9/19
+[ Info: 80_30: 10/19
+[ Info: 80_30: 11/19
+[ Info: 80_30: 12/19
+[ Info: 80_30: 13/19
+[ Info: 80_30: 14/19
+[ Info: 80_30: 15/19
+[ Info: 80_30: 16/19
+[ Info: 80_30: 17/19
+[ Info: 80_30: 18/19
+[ Info: 80_30: 19/19
+[ Info: 80_30: layer 2/2, base field no. 1/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 1/8, checking fields: 1
+[ Info: 80_30: layer 2/2, base field no. 1/8, 1/1
+[ Info: 80_30: layer 2/2, base field no. 2/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 2/8, checking fields: 0
+[ Info: 80_30: layer 2/2, base field no. 3/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 3/8, checking fields: 0
+[ Info: 80_30: layer 2/2, base field no. 4/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 4/8, checking fields: 0
+[ Info: 80_30: layer 2/2, base field no. 5/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 5/8, checking fields: 4
+[ Info: 80_30: layer 2/2, base field no. 5/8, 1/4
+[ Info: 80_30: layer 2/2, base field no. 5/8, 2/4
+[ Info: 80_30: layer 2/2, base field no. 5/8, 3/4
+[ Info: 80_30: layer 2/2, base field no. 5/8, 4/4
+[ Info: 80_30: layer 2/2, base field no. 6/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 6/8, checking fields: 0
+[ Info: 80_30: layer 2/2, base field no. 7/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 7/8, checking fields: 0
+[ Info: 80_30: layer 2/2, base field no. 8/8, constructing abelian extensions
+[ Info: 80_30: layer 2/2, base field no. 8/8, checking fields: 0
+340.183146 seconds (875.02 M allocations: 129.157 GiB, 5.75% gc time, 5.25% compilation time: 1% of which was recompilation)

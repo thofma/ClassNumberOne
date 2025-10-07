@@ -1,0 +1,14 @@
+[ Info: 80_1: File for first layer exists [16], 398107170553497250777006080; loading ...
+[ Info: 80_1: layer 2/2, base field no. 1/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 1/6, checking fields: 0
+[ Info: 80_1: layer 2/2, base field no. 2/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 2/6, checking fields: 0
+[ Info: 80_1: layer 2/2, base field no. 3/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 3/6, checking fields: 0
+[ Info: 80_1: layer 2/2, base field no. 4/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 4/6, checking fields: 0
+[ Info: 80_1: layer 2/2, base field no. 5/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 5/6, checking fields: 0
+[ Info: 80_1: layer 2/2, base field no. 6/6, constructing abelian extensions
+[ Info: 80_1: layer 2/2, base field no. 6/6, checking fields: 0
+  6.821397 seconds (17.75 M allocations: 1.129 GiB, 7.50% gc time, 65.80% compilation time: 5% of which was recompilation)

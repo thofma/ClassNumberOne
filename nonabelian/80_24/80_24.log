@@ -1,0 +1,10 @@
+[ Info: 80_24: File for first layer does not exist; computing [2, 20]...
+[ Info: 80_24: Discriminant bound: 3162277660168379332122469159730039232280072135608309007396479434752
+[ Info: 80_24: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 80_24: 1/6
+[ Info: 80_24: 2/6
+[ Info: 80_24: 3/6
+[ Info: 80_24: 4/6
+[ Info: 80_24: 5/6
+[ Info: 80_24: 6/6
+532.868909 seconds (4.37 G allocations: 235.952 GiB, 22.08% gc time, 3.96% compilation time: 1% of which was recompilation)

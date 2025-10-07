@@ -1,0 +1,8 @@
+[ Info: 84_3: File for first layer does not exist; computing [28]...
+[ Info: 84_3: Discriminant bound: 46415888336127788928549391793325563061620178944
+[ Info: 84_3: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 84_3: 1/2
+[ Info: 84_3: 2/2
+[ Info: 84_3: layer 2/2, base field no. 1/1, constructing abelian extensions
+[ Info: 84_3: layer 2/2, base field no. 1/1, checking fields: 0
+ 35.159515 seconds (115.54 M allocations: 5.895 GiB, 10.39% gc time, 56.25% compilation time: 1% of which was recompilation)

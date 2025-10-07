@@ -1,0 +1,7 @@
+[ Info: 88_10: File for first layer does not exist; computing [2, 22]...
+[ Info: 88_10: Discriminant bound: 10000000000000000000443972985726921258085600254368975703518496761946570752
+[ Info: 88_10: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 88_10: 1/3
+[ Info: 88_10: 2/3
+[ Info: 88_10: 3/3
+199.885147 seconds (890.50 M allocations: 51.055 GiB, 9.83% gc time, 9.45% compilation time: 1% of which was recompilation)

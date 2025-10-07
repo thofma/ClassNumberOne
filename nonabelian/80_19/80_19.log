@@ -1,0 +1,880 @@
+[ Info: 80_19: File for first layer exists [2, 4], 19952623149689; loading ...
+[ Info: 80_19: layer 2/2, base field no. 1/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 1/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 2/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 2/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 3/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 3/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 3/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 3/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 3/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 4/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 4/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 4/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 4/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 4/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 4/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 5/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 5/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 6/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 6/270, checking fields: 27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 1/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 2/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 3/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 4/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 5/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 6/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 7/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 8/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 9/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 10/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 11/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 12/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 13/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 14/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 15/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 16/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 17/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 18/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 19/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 20/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 21/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 22/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 23/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 24/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 25/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 26/27
+[ Info: 80_19: layer 2/2, base field no. 6/270, 27/27
+[ Info: 80_19: layer 2/2, base field no. 7/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 7/270, checking fields: 15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 1/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 2/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 3/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 4/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 5/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 6/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 7/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 8/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 9/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 10/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 11/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 12/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 13/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 14/15
+[ Info: 80_19: layer 2/2, base field no. 7/270, 15/15
+[ Info: 80_19: layer 2/2, base field no. 8/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 8/270, checking fields: 9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 1/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 2/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 3/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 4/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 5/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 6/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 7/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 8/9
+[ Info: 80_19: layer 2/2, base field no. 8/270, 9/9
+[ Info: 80_19: layer 2/2, base field no. 9/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 9/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 9/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 10/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 10/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 11/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 11/270, checking fields: 13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 1/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 2/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 3/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 4/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 5/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 6/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 7/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 8/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 9/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 10/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 11/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 12/13
+[ Info: 80_19: layer 2/2, base field no. 11/270, 13/13
+[ Info: 80_19: layer 2/2, base field no. 12/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 12/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 12/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 13/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 13/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 13/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 14/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 14/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 14/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 15/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 15/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 16/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 16/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 17/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 17/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 17/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 17/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 17/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 17/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 18/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 18/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 19/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 19/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 20/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 20/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 21/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 21/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 22/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 22/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 23/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 23/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 23/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 24/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 24/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 24/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 25/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 25/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 26/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 26/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 27/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 27/270, checking fields: 6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 1/6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 2/6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 3/6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 4/6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 5/6
+[ Info: 80_19: layer 2/2, base field no. 27/270, 6/6
+[ Info: 80_19: layer 2/2, base field no. 28/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 28/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 29/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 29/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 30/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 30/270, checking fields: 2
+[ Info: 80_19: layer 2/2, base field no. 30/270, 1/2
+[ Info: 80_19: layer 2/2, base field no. 30/270, 2/2
+[ Info: 80_19: layer 2/2, base field no. 31/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 31/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 32/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 32/270, checking fields: 35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 1/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 2/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 3/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 4/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 5/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 6/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 7/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 8/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 9/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 10/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 11/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 12/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 13/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 14/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 15/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 16/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 17/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 18/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 19/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 20/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 21/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 22/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 23/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 24/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 25/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 26/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 27/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 28/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 29/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 30/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 31/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 32/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 33/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 34/35
+[ Info: 80_19: layer 2/2, base field no. 32/270, 35/35
+[ Info: 80_19: layer 2/2, base field no. 33/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 33/270, checking fields: 11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 1/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 2/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 3/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 4/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 5/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 6/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 7/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 8/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 9/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 10/11
+[ Info: 80_19: layer 2/2, base field no. 33/270, 11/11
+[ Info: 80_19: layer 2/2, base field no. 34/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 34/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 35/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 35/270, checking fields: 13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 1/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 2/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 3/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 4/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 5/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 6/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 7/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 8/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 9/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 10/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 11/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 12/13
+[ Info: 80_19: layer 2/2, base field no. 35/270, 13/13
+[ Info: 80_19: layer 2/2, base field no. 36/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 36/270, checking fields: 5
+[ Info: 80_19: layer 2/2, base field no. 36/270, 1/5
+[ Info: 80_19: layer 2/2, base field no. 36/270, 2/5
+[ Info: 80_19: layer 2/2, base field no. 36/270, 3/5
+[ Info: 80_19: layer 2/2, base field no. 36/270, 4/5
+[ Info: 80_19: layer 2/2, base field no. 36/270, 5/5
+[ Info: 80_19: layer 2/2, base field no. 37/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 37/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 37/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 38/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 38/270, checking fields: 9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 1/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 2/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 3/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 4/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 5/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 6/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 7/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 8/9
+[ Info: 80_19: layer 2/2, base field no. 38/270, 9/9
+[ Info: 80_19: layer 2/2, base field no. 39/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 39/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 40/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 40/270, checking fields: 5
+[ Info: 80_19: layer 2/2, base field no. 40/270, 1/5
+[ Info: 80_19: layer 2/2, base field no. 40/270, 2/5
+[ Info: 80_19: layer 2/2, base field no. 40/270, 3/5
+[ Info: 80_19: layer 2/2, base field no. 40/270, 4/5
+[ Info: 80_19: layer 2/2, base field no. 40/270, 5/5
+[ Info: 80_19: layer 2/2, base field no. 41/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 41/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 42/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 42/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 42/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 43/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 43/270, checking fields: 9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 1/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 2/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 3/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 4/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 5/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 6/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 7/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 8/9
+[ Info: 80_19: layer 2/2, base field no. 43/270, 9/9
+[ Info: 80_19: layer 2/2, base field no. 44/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 44/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 45/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 45/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 45/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 46/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 46/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 46/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 46/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 46/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 46/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 47/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 47/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 47/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 47/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 47/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 47/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 48/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 48/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 48/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 48/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 48/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 49/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 49/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 50/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 50/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 50/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 50/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 50/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 51/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 51/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 52/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 52/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 53/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 53/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 54/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 54/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 55/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 55/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 56/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 56/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 56/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 57/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 57/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 57/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 58/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 58/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 58/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 59/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 59/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 60/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 60/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 61/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 61/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 62/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 62/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 63/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 63/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 64/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 64/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 64/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 64/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 64/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 65/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 65/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 66/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 66/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 67/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 67/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 68/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 68/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 69/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 69/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 70/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 70/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 71/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 71/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 72/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 72/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 73/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 73/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 74/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 74/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 75/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 75/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 76/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 76/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 77/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 77/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 78/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 78/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 79/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 79/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 80/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 80/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 81/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 81/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 82/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 82/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 83/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 83/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 84/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 84/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 85/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 85/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 86/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 86/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 87/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 87/270, checking fields: 10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 1/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 2/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 3/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 4/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 5/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 6/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 7/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 8/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 9/10
+[ Info: 80_19: layer 2/2, base field no. 87/270, 10/10
+[ Info: 80_19: layer 2/2, base field no. 88/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 88/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 88/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 88/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 88/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 89/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 89/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 89/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 89/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 89/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 89/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 90/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 90/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 90/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 91/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 91/270, checking fields: 2
+[ Info: 80_19: layer 2/2, base field no. 91/270, 1/2
+[ Info: 80_19: layer 2/2, base field no. 91/270, 2/2
+[ Info: 80_19: layer 2/2, base field no. 92/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 92/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 93/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 93/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 94/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 94/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 95/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 95/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 96/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 96/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 97/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 97/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 98/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 98/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 99/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 99/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 100/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 100/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 101/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 101/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 102/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 102/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 103/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 103/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 104/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 104/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 105/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 105/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 106/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 106/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 106/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 107/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 107/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 108/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 108/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 109/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 109/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 109/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 109/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 109/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 110/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 110/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 111/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 111/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 112/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 112/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 112/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 113/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 113/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 114/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 114/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 115/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 115/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 116/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 116/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 117/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 117/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 118/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 118/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 119/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 119/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 120/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 120/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 120/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 121/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 121/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 122/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 122/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 123/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 123/270, checking fields: 5
+[ Info: 80_19: layer 2/2, base field no. 123/270, 1/5
+[ Info: 80_19: layer 2/2, base field no. 123/270, 2/5
+[ Info: 80_19: layer 2/2, base field no. 123/270, 3/5
+[ Info: 80_19: layer 2/2, base field no. 123/270, 4/5
+[ Info: 80_19: layer 2/2, base field no. 123/270, 5/5
+[ Info: 80_19: layer 2/2, base field no. 124/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 124/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 124/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 125/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 125/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 125/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 126/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 126/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 127/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 127/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 128/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 128/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 129/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 129/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 130/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 130/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 131/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 131/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 132/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 132/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 133/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 133/270, checking fields: 9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 1/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 2/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 3/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 4/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 5/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 6/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 7/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 8/9
+[ Info: 80_19: layer 2/2, base field no. 133/270, 9/9
+[ Info: 80_19: layer 2/2, base field no. 134/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 134/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 135/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 135/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 135/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 135/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 135/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 135/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 136/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 136/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 137/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 137/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 137/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 137/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 137/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 137/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 138/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 138/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 138/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 139/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 139/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 139/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 140/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 140/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 141/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 141/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 142/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 142/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 142/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 143/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 143/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 143/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 144/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 144/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 145/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 145/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 146/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 146/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 147/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 147/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 148/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 148/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 149/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 149/270, checking fields: 4
+[ Info: 80_19: layer 2/2, base field no. 149/270, 1/4
+[ Info: 80_19: layer 2/2, base field no. 149/270, 2/4
+[ Info: 80_19: layer 2/2, base field no. 149/270, 3/4
+[ Info: 80_19: layer 2/2, base field no. 149/270, 4/4
+[ Info: 80_19: layer 2/2, base field no. 150/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 150/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 151/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 151/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 152/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 152/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 152/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 152/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 152/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 153/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 153/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 154/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 154/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 155/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 155/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 156/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 156/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 157/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 157/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 158/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 158/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 159/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 159/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 160/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 160/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 160/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 161/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 161/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 162/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 162/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 163/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 163/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 164/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 164/270, checking fields: 5
+[ Info: 80_19: layer 2/2, base field no. 164/270, 1/5
+[ Info: 80_19: layer 2/2, base field no. 164/270, 2/5
+[ Info: 80_19: layer 2/2, base field no. 164/270, 3/5
+[ Info: 80_19: layer 2/2, base field no. 164/270, 4/5
+[ Info: 80_19: layer 2/2, base field no. 164/270, 5/5
+[ Info: 80_19: layer 2/2, base field no. 165/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 165/270, checking fields: 7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 1/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 2/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 3/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 4/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 5/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 6/7
+[ Info: 80_19: layer 2/2, base field no. 165/270, 7/7
+[ Info: 80_19: layer 2/2, base field no. 166/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 166/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 167/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 167/270, checking fields: 5
+[ Info: 80_19: layer 2/2, base field no. 167/270, 1/5
+[ Info: 80_19: layer 2/2, base field no. 167/270, 2/5
+[ Info: 80_19: layer 2/2, base field no. 167/270, 3/5
+[ Info: 80_19: layer 2/2, base field no. 167/270, 4/5
+[ Info: 80_19: layer 2/2, base field no. 167/270, 5/5
+[ Info: 80_19: layer 2/2, base field no. 168/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 168/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 169/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 169/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 170/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 170/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 171/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 171/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 172/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 172/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 173/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 173/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 173/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 173/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 173/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 174/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 174/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 175/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 175/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 176/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 176/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 177/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 177/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 178/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 178/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 179/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 179/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 180/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 180/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 181/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 181/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 182/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 182/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 183/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 183/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 183/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 184/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 184/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 185/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 185/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 186/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 186/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 187/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 187/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 188/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 188/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 189/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 189/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 190/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 190/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 191/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 191/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 191/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 191/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 191/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 192/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 192/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 193/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 193/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 194/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 194/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 195/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 195/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 196/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 196/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 197/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 197/270, checking fields: 2
+[ Info: 80_19: layer 2/2, base field no. 197/270, 1/2
+[ Info: 80_19: layer 2/2, base field no. 197/270, 2/2
+[ Info: 80_19: layer 2/2, base field no. 198/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 198/270, checking fields: 2
+[ Info: 80_19: layer 2/2, base field no. 198/270, 1/2
+[ Info: 80_19: layer 2/2, base field no. 198/270, 2/2
+[ Info: 80_19: layer 2/2, base field no. 199/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 199/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 200/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 200/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 201/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 201/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 202/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 202/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 203/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 203/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 204/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 204/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 205/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 205/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 206/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 206/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 207/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 207/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 208/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 208/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 208/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 208/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 208/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 209/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 209/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 210/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 210/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 211/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 211/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 212/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 212/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 213/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 213/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 214/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 214/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 215/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 215/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 216/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 216/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 217/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 217/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 218/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 218/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 219/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 219/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 220/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 220/270, checking fields: 2
+[ Info: 80_19: layer 2/2, base field no. 220/270, 1/2
+[ Info: 80_19: layer 2/2, base field no. 220/270, 2/2
+[ Info: 80_19: layer 2/2, base field no. 221/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 221/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 222/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 222/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 223/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 223/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 224/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 224/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 225/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 225/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 226/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 226/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 227/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 227/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 228/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 228/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 229/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 229/270, checking fields: 3
+[ Info: 80_19: layer 2/2, base field no. 229/270, 1/3
+[ Info: 80_19: layer 2/2, base field no. 229/270, 2/3
+[ Info: 80_19: layer 2/2, base field no. 229/270, 3/3
+[ Info: 80_19: layer 2/2, base field no. 230/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 230/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 231/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 231/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 232/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 232/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 233/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 233/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 234/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 234/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 235/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 235/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 236/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 236/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 236/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 237/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 237/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 237/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 238/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 238/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 239/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 239/270, checking fields: 1
+[ Info: 80_19: layer 2/2, base field no. 239/270, 1/1
+[ Info: 80_19: layer 2/2, base field no. 240/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 240/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 241/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 241/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 242/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 242/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 243/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 243/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 244/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 244/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 245/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 245/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 246/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 246/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 247/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 247/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 248/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 248/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 249/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 249/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 250/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 250/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 251/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 251/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 252/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 252/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 253/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 253/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 254/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 254/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 255/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 255/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 256/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 256/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 257/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 257/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 258/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 258/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 259/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 259/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 260/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 260/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 261/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 261/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 262/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 262/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 263/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 263/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 264/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 264/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 265/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 265/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 266/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 266/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 267/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 267/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 268/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 268/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 269/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 269/270, checking fields: 0
+[ Info: 80_19: layer 2/2, base field no. 270/270, constructing abelian extensions
+[ Info: 80_19: layer 2/2, base field no. 270/270, checking fields: 8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 1/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 2/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 3/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 4/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 5/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 6/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 7/8
+[ Info: 80_19: layer 2/2, base field no. 270/270, 8/8
+48642.827317 seconds (49.09 G allocations: 15.359 TiB, 3.51% gc time, 0.03% compilation time: 2% of which was recompilation)

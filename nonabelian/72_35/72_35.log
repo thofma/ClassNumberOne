@@ -1,0 +1,1414 @@
+[ Info: 72_35: File for first layer exists [2, 2], 5274998; loading ...
+[ Info: 72_35: layer 2/2, base field no. 1/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 1/1241, checking fields: 70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 1/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 2/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 3/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 4/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 5/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 6/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 7/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 8/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 9/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 10/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 11/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 12/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 13/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 14/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 15/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 16/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 17/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 18/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 19/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 20/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 21/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 22/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 23/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 24/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 25/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 26/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 27/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 28/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 29/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 30/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 31/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 32/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 33/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 34/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 35/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 36/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 37/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 38/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 39/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 40/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 41/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 42/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 43/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 44/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 45/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 46/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 47/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 48/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 49/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 50/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 51/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 52/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 53/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 54/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 55/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 56/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 57/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 58/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 59/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 60/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 61/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 62/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 63/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 64/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 65/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 66/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 67/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 68/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 69/70
+[ Info: 72_35: layer 2/2, base field no. 1/1241, 70/70
+[ Info: 72_35: layer 2/2, base field no. 2/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 2/1241, checking fields: 10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 1/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 2/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 3/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 4/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 5/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 6/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 7/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 8/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 9/10
+[ Info: 72_35: layer 2/2, base field no. 2/1241, 10/10
+[ Info: 72_35: layer 2/2, base field no. 3/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 3/1241, checking fields: 19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 1/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 2/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 3/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 4/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 5/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 6/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 7/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 8/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 9/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 10/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 11/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 12/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 13/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 14/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 15/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 16/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 17/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 18/19
+[ Info: 72_35: layer 2/2, base field no. 3/1241, 19/19
+[ Info: 72_35: layer 2/2, base field no. 4/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 4/1241, checking fields: 34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 1/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 2/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 3/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 4/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 5/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 6/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 7/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 8/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 9/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 10/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 11/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 12/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 13/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 14/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 15/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 16/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 17/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 18/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 19/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 20/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 21/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 22/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 23/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 24/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 25/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 26/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 27/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 28/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 29/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 30/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 31/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 32/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 33/34
+[ Info: 72_35: layer 2/2, base field no. 4/1241, 34/34
+[ Info: 72_35: layer 2/2, base field no. 5/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 5/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 5/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 6/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 6/1241, checking fields: 36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 1/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 2/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 3/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 4/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 5/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 6/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 7/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 8/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 9/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 10/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 11/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 12/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 13/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 14/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 15/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 16/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 17/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 18/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 19/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 20/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 21/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 22/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 23/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 24/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 25/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 26/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 27/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 28/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 29/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 30/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 31/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 32/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 33/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 34/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 35/36
+[ Info: 72_35: layer 2/2, base field no. 6/1241, 36/36
+[ Info: 72_35: layer 2/2, base field no. 7/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 7/1241, checking fields: 56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 1/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 2/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 3/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 4/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 5/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 6/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 7/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 8/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 9/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 10/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 11/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 12/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 13/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 14/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 15/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 16/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 17/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 18/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 19/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 20/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 21/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 22/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 23/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 24/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 25/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 26/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 27/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 28/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 29/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 30/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 31/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 32/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 33/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 34/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 35/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 36/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 37/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 38/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 39/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 40/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 41/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 42/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 43/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 44/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 45/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 46/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 47/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 48/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 49/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 50/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 51/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 52/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 53/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 54/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 55/56
+[ Info: 72_35: layer 2/2, base field no. 7/1241, 56/56
+[ Info: 72_35: layer 2/2, base field no. 8/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 8/1241, checking fields: 6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 1/6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 2/6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 3/6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 4/6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 5/6
+[ Info: 72_35: layer 2/2, base field no. 8/1241, 6/6
+[ Info: 72_35: layer 2/2, base field no. 9/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 9/1241, checking fields: 12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 1/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 2/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 3/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 4/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 5/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 6/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 7/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 8/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 9/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 10/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 11/12
+[ Info: 72_35: layer 2/2, base field no. 9/1241, 12/12
+[ Info: 72_35: layer 2/2, base field no. 10/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 10/1241, checking fields: 16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 1/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 2/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 3/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 4/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 5/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 6/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 7/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 8/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 9/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 10/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 11/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 12/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 13/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 14/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 15/16
+[ Info: 72_35: layer 2/2, base field no. 10/1241, 16/16
+[ Info: 72_35: layer 2/2, base field no. 11/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 11/1241, checking fields: 12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 1/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 2/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 3/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 4/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 5/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 6/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 7/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 8/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 9/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 10/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 11/12
+[ Info: 72_35: layer 2/2, base field no. 11/1241, 12/12
+[ Info: 72_35: layer 2/2, base field no. 12/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 12/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 12/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 13/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 13/1241, checking fields: 11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 1/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 2/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 3/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 4/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 5/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 6/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 7/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 8/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 9/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 10/11
+[ Info: 72_35: layer 2/2, base field no. 13/1241, 11/11
+[ Info: 72_35: layer 2/2, base field no. 14/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 14/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 14/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 15/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 15/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 15/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 15/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 15/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 16/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 16/1241, checking fields: 8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 1/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 2/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 3/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 4/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 5/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 6/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 7/8
+[ Info: 72_35: layer 2/2, base field no. 16/1241, 8/8
+[ Info: 72_35: layer 2/2, base field no. 17/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 17/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 18/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 18/1241, checking fields: 9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 1/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 2/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 3/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 4/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 5/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 6/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 7/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 8/9
+[ Info: 72_35: layer 2/2, base field no. 18/1241, 9/9
+[ Info: 72_35: layer 2/2, base field no. 19/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 19/1241, checking fields: 12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 1/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 2/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 3/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 4/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 5/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 6/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 7/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 8/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 9/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 10/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 11/12
+[ Info: 72_35: layer 2/2, base field no. 19/1241, 12/12
+[ Info: 72_35: layer 2/2, base field no. 20/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 20/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 21/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 21/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 21/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 22/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 22/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 22/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 22/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 22/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 23/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 23/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 24/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 24/1241, checking fields: 2
+[ Info: 72_35: layer 2/2, base field no. 24/1241, 1/2
+[ Info: 72_35: layer 2/2, base field no. 24/1241, 2/2
+[ Info: 72_35: layer 2/2, base field no. 25/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 25/1241, checking fields: 25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 1/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 2/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 3/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 4/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 5/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 6/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 7/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 8/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 9/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 10/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 11/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 12/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 13/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 14/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 15/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 16/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 17/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 18/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 19/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 20/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 21/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 22/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 23/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 24/25
+[ Info: 72_35: layer 2/2, base field no. 25/1241, 25/25
+[ Info: 72_35: layer 2/2, base field no. 26/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 26/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 26/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 27/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 27/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 28/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 28/1241, checking fields: 70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 1/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 2/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 3/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 4/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 5/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 6/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 7/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 8/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 9/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 10/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 11/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 12/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 13/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 14/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 15/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 16/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 17/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 18/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 19/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 20/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 21/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 22/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 23/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 24/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 25/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 26/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 27/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 28/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 29/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 30/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 31/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 32/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 33/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 34/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 35/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 36/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 37/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 38/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 39/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 40/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 41/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 42/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 43/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 44/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 45/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 46/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 47/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 48/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 49/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 50/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 51/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 52/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 53/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 54/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 55/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 56/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 57/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 58/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 59/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 60/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 61/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 62/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 63/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 64/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 65/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 66/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 67/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 68/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 69/70
+[ Info: 72_35: layer 2/2, base field no. 28/1241, 70/70
+[ Info: 72_35: layer 2/2, base field no. 29/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 29/1241, checking fields: 10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 1/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 2/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 3/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 4/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 5/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 6/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 7/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 8/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 9/10
+[ Info: 72_35: layer 2/2, base field no. 29/1241, 10/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 30/1241, checking fields: 10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 1/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 2/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 3/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 4/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 5/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 6/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 7/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 8/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 9/10
+[ Info: 72_35: layer 2/2, base field no. 30/1241, 10/10
+[ Info: 72_35: layer 2/2, base field no. 31/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 31/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 31/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 32/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 32/1241, checking fields: 13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 1/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 2/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 3/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 4/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 5/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 6/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 7/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 8/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 9/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 10/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 11/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 12/13
+[ Info: 72_35: layer 2/2, base field no. 32/1241, 13/13
+[ Info: 72_35: layer 2/2, base field no. 33/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 33/1241, checking fields: 8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 1/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 2/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 3/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 4/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 5/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 6/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 7/8
+[ Info: 72_35: layer 2/2, base field no. 33/1241, 8/8
+[ Info: 72_35: layer 2/2, base field no. 34/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 34/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 35/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 35/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 36/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 36/1241, checking fields: 8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 1/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 2/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 3/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 4/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 5/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 6/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 7/8
+[ Info: 72_35: layer 2/2, base field no. 36/1241, 8/8
+[ Info: 72_35: layer 2/2, base field no. 37/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 37/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 37/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 37/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 37/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 38/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 38/1241, checking fields: 8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 1/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 2/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 3/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 4/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 5/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 6/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 7/8
+[ Info: 72_35: layer 2/2, base field no. 38/1241, 8/8
+[ Info: 72_35: layer 2/2, base field no. 39/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 39/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 39/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 39/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 39/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 40/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 40/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 41/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 41/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 42/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 42/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 43/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 43/1241, checking fields: 6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 1/6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 2/6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 3/6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 4/6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 5/6
+[ Info: 72_35: layer 2/2, base field no. 43/1241, 6/6
+[ Info: 72_35: layer 2/2, base field no. 44/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 44/1241, checking fields: 2
+[ Info: 72_35: layer 2/2, base field no. 44/1241, 1/2
+[ Info: 72_35: layer 2/2, base field no. 44/1241, 2/2
+[ Info: 72_35: layer 2/2, base field no. 45/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 45/1241, checking fields: 6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 1/6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 2/6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 3/6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 4/6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 5/6
+[ Info: 72_35: layer 2/2, base field no. 45/1241, 6/6
+[ Info: 72_35: layer 2/2, base field no. 46/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 46/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 46/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 46/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 46/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 47/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 47/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 47/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 47/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 47/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 47/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 47/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 48/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 48/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 49/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 49/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 50/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 50/1241, checking fields: 10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 1/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 2/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 3/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 4/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 5/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 6/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 7/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 8/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 9/10
+[ Info: 72_35: layer 2/2, base field no. 50/1241, 10/10
+[ Info: 72_35: layer 2/2, base field no. 51/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 51/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 52/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 52/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 53/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 53/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 53/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 54/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 54/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 55/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 55/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 55/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 55/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 55/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 56/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 56/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 56/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 57/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 57/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 58/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 58/1241, checking fields: 103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 1/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 2/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 3/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 4/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 5/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 6/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 7/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 8/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 9/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 10/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 11/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 12/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 13/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 14/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 15/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 16/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 17/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 18/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 19/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 20/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 21/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 22/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 23/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 24/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 25/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 26/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 27/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 28/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 29/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 30/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 31/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 32/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 33/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 34/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 35/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 36/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 37/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 38/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 39/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 40/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 41/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 42/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 43/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 44/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 45/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 46/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 47/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 48/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 49/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 50/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 51/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 52/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 53/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 54/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 55/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 56/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 57/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 58/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 59/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 60/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 61/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 62/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 63/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 64/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 65/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 66/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 67/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 68/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 69/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 70/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 71/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 72/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 73/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 74/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 75/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 76/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 77/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 78/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 79/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 80/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 81/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 82/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 83/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 84/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 85/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 86/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 87/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 88/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 89/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 90/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 91/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 92/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 93/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 94/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 95/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 96/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 97/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 98/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 99/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 100/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 101/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 102/103
+[ Info: 72_35: layer 2/2, base field no. 58/1241, 103/103
+[ Info: 72_35: layer 2/2, base field no. 59/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 59/1241, checking fields: 8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 1/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 2/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 3/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 4/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 5/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 6/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 7/8
+[ Info: 72_35: layer 2/2, base field no. 59/1241, 8/8
+[ Info: 72_35: layer 2/2, base field no. 60/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 60/1241, checking fields: 2
+[ Info: 72_35: layer 2/2, base field no. 60/1241, 1/2
+[ Info: 72_35: layer 2/2, base field no. 60/1241, 2/2
+[ Info: 72_35: layer 2/2, base field no. 61/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 61/1241, checking fields: 4
+[ Info: 72_35: layer 2/2, base field no. 61/1241, 1/4
+[ Info: 72_35: layer 2/2, base field no. 61/1241, 2/4
+[ Info: 72_35: layer 2/2, base field no. 61/1241, 3/4
+[ Info: 72_35: layer 2/2, base field no. 61/1241, 4/4
+[ Info: 72_35: layer 2/2, base field no. 62/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 62/1241, checking fields: 25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 1/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 2/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 3/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 4/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 5/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 6/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 7/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 8/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 9/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 10/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 11/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 12/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 13/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 14/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 15/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 16/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 17/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 18/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 19/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 20/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 21/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 22/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 23/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 24/25
+[ Info: 72_35: layer 2/2, base field no. 62/1241, 25/25
+[ Info: 72_35: layer 2/2, base field no. 63/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 63/1241, checking fields: 7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 1/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 2/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 3/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 4/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 5/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 6/7
+[ Info: 72_35: layer 2/2, base field no. 63/1241, 7/7
+[ Info: 72_35: layer 2/2, base field no. 64/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 64/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 64/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 64/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 64/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 65/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 65/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 66/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 66/1241, checking fields: 6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 1/6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 2/6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 3/6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 4/6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 5/6
+[ Info: 72_35: layer 2/2, base field no. 66/1241, 6/6
+[ Info: 72_35: layer 2/2, base field no. 67/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 67/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 67/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 67/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 67/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 68/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 68/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 69/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 69/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 69/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 70/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 70/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 71/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 71/1241, checking fields: 4
+[ Info: 72_35: layer 2/2, base field no. 71/1241, 1/4
+[ Info: 72_35: layer 2/2, base field no. 71/1241, 2/4
+[ Info: 72_35: layer 2/2, base field no. 71/1241, 3/4
+[ Info: 72_35: layer 2/2, base field no. 71/1241, 4/4
+[ Info: 72_35: layer 2/2, base field no. 72/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 72/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 72/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 72/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 72/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 72/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 72/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 73/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 73/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 74/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 74/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 75/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 75/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 76/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 76/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 77/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 77/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 78/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 78/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 79/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 79/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 80/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 80/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 81/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 81/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 82/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 82/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 83/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 83/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 84/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 84/1241, checking fields: 25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 1/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 2/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 3/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 4/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 5/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 6/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 7/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 8/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 9/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 10/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 11/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 12/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 13/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 14/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 15/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 16/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 17/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 18/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 19/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 20/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 21/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 22/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 23/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 24/25
+[ Info: 72_35: layer 2/2, base field no. 84/1241, 25/25
+[ Info: 72_35: layer 2/2, base field no. 85/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 85/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 85/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 85/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 85/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 86/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 86/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 87/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 87/1241, checking fields: 12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 1/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 2/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 3/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 4/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 5/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 6/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 7/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 8/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 9/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 10/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 11/12
+[ Info: 72_35: layer 2/2, base field no. 87/1241, 12/12
+[ Info: 72_35: layer 2/2, base field no. 88/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 88/1241, checking fields: 4
+[ Info: 72_35: layer 2/2, base field no. 88/1241, 1/4
+[ Info: 72_35: layer 2/2, base field no. 88/1241, 2/4
+[ Info: 72_35: layer 2/2, base field no. 88/1241, 3/4
+[ Info: 72_35: layer 2/2, base field no. 88/1241, 4/4
+[ Info: 72_35: layer 2/2, base field no. 89/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 89/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 90/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 90/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 90/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 90/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 90/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 91/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 91/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 92/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 92/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 93/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 93/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 93/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 94/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 94/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 95/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 95/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 95/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 96/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 96/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 97/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 97/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 98/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 98/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 98/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 99/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 99/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 100/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 100/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 101/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 101/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 102/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 102/1241, checking fields: 27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 1/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 2/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 3/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 4/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 5/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 6/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 7/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 8/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 9/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 10/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 11/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 12/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 13/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 14/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 15/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 16/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 17/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 18/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 19/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 20/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 21/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 22/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 23/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 24/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 25/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 26/27
+[ Info: 72_35: layer 2/2, base field no. 102/1241, 27/27
+[ Info: 72_35: layer 2/2, base field no. 103/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 103/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 103/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 104/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 104/1241, checking fields: 7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 1/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 2/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 3/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 4/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 5/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 6/7
+[ Info: 72_35: layer 2/2, base field no. 104/1241, 7/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 105/1241, checking fields: 7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 1/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 2/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 3/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 4/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 5/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 6/7
+[ Info: 72_35: layer 2/2, base field no. 105/1241, 7/7
+[ Info: 72_35: layer 2/2, base field no. 106/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 106/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 107/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 107/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 107/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 108/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 108/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 109/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 109/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 109/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 109/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 109/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 109/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 109/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 110/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 110/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 111/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 111/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 112/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 112/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 112/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 112/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 112/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 113/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 113/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 113/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 113/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 113/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 114/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 114/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 114/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 114/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 114/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 115/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 115/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 116/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 116/1241, checking fields: 4
+[ Info: 72_35: layer 2/2, base field no. 116/1241, 1/4
+[ Info: 72_35: layer 2/2, base field no. 116/1241, 2/4
+[ Info: 72_35: layer 2/2, base field no. 116/1241, 3/4
+[ Info: 72_35: layer 2/2, base field no. 116/1241, 4/4
+[ Info: 72_35: layer 2/2, base field no. 117/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 117/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 118/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 118/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 118/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 119/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 119/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 120/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 120/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 121/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 121/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 122/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 122/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 123/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 123/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 124/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 124/1241, checking fields: 63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 1/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 2/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 3/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 4/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 5/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 6/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 7/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 8/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 9/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 10/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 11/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 12/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 13/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 14/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 15/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 16/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 17/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 18/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 19/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 20/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 21/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 22/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 23/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 24/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 25/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 26/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 27/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 28/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 29/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 30/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 31/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 32/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 33/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 34/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 35/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 36/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 37/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 38/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 39/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 40/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 41/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 42/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 43/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 44/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 45/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 46/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 47/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 48/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 49/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 50/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 51/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 52/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 53/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 54/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 55/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 56/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 57/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 58/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 59/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 60/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 61/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 62/63
+[ Info: 72_35: layer 2/2, base field no. 124/1241, 63/63
+[ Info: 72_35: layer 2/2, base field no. 125/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 125/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 125/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 125/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 125/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 125/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 125/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 126/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 126/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 126/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 126/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 126/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 127/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 127/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 127/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 128/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 128/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 128/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 128/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 128/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 129/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 129/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 129/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 130/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 130/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 131/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 131/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 132/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 132/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 132/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 133/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 133/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 134/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 134/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 135/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 135/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 136/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 136/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 137/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 137/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 137/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 138/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 138/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 139/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 139/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 140/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 140/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 141/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 141/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 141/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 142/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 142/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 143/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 143/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 144/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 144/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 145/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 145/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 146/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 146/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 147/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 147/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 148/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 148/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 149/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 149/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 150/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 150/1241, checking fields: 10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 1/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 2/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 3/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 4/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 5/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 6/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 7/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 8/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 9/10
+[ Info: 72_35: layer 2/2, base field no. 150/1241, 10/10
+[ Info: 72_35: layer 2/2, base field no. 151/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 151/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 151/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 152/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 152/1241, checking fields: 2
+[ Info: 72_35: layer 2/2, base field no. 152/1241, 1/2
+[ Info: 72_35: layer 2/2, base field no. 152/1241, 2/2
+[ Info: 72_35: layer 2/2, base field no. 153/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 153/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 154/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 154/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 154/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 155/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 155/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 155/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 156/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 156/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 157/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 157/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 158/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 158/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 159/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 159/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 160/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 160/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 161/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 161/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 162/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 162/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 163/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 163/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 164/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 164/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 165/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 165/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 166/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 166/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 167/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 167/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 168/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 168/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 169/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 169/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 170/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 170/1241, checking fields: 13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 1/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 2/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 3/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 4/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 5/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 6/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 7/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 8/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 9/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 10/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 11/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 12/13
+[ Info: 72_35: layer 2/2, base field no. 170/1241, 13/13
+[ Info: 72_35: layer 2/2, base field no. 171/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 171/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 172/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 172/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 173/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 173/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 173/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 174/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 174/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 175/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 175/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 176/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 176/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 177/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 177/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 178/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 178/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 179/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 179/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 180/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 180/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 181/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 181/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 182/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 182/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 183/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 183/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 184/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 184/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 185/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 185/1241, checking fields: 23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 1/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 2/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 3/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 4/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 5/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 6/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 7/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 8/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 9/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 10/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 11/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 12/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 13/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 14/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 15/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 16/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 17/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 18/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 19/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 20/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 21/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 22/23
+[ Info: 72_35: layer 2/2, base field no. 185/1241, 23/23
+[ Info: 72_35: layer 2/2, base field no. 186/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 186/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 186/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 187/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 187/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 188/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 188/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 188/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 189/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 189/1241, checking fields: 2
+[ Info: 72_35: layer 2/2, base field no. 189/1241, 1/2
+[ Info: 72_35: layer 2/2, base field no. 189/1241, 2/2
+[ Info: 72_35: layer 2/2, base field no. 190/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 190/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 191/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 191/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 192/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 192/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 193/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 193/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 194/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 194/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 195/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 195/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 196/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 196/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 197/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 197/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 198/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 198/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 199/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 199/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 200/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 200/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 201/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 201/1241, checking fields: 3
+[ Info: 72_35: layer 2/2, base field no. 201/1241, 1/3
+[ Info: 72_35: layer 2/2, base field no. 201/1241, 2/3
+[ Info: 72_35: layer 2/2, base field no. 201/1241, 3/3
+[ Info: 72_35: layer 2/2, base field no. 202/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 202/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 203/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 203/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 204/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 204/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 205/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 205/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 206/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 206/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 207/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 207/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 208/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 208/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 209/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 209/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 210/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 210/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 211/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 211/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 212/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 212/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 213/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 213/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 214/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 214/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 214/1241, 1/1
+[ Info: 72_35: layer 2/2, base field no. 215/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 215/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 216/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 216/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 217/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 217/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 218/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 218/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 219/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 219/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 220/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 220/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 221/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 221/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 222/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 222/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 223/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 223/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 224/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 224/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 225/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 225/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 226/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 226/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 227/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 227/1241, checking fields: 5
+[ Info: 72_35: layer 2/2, base field no. 227/1241, 1/5
+[ Info: 72_35: layer 2/2, base field no. 227/1241, 2/5
+[ Info: 72_35: layer 2/2, base field no. 227/1241, 3/5
+[ Info: 72_35: layer 2/2, base field no. 227/1241, 4/5
+[ Info: 72_35: layer 2/2, base field no. 227/1241, 5/5
+[ Info: 72_35: layer 2/2, base field no. 228/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 228/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 229/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 229/1241, checking fields: 0
+[ Info: 72_35: layer 2/2, base field no. 230/1241, constructing abelian extensions
+[ Info: 72_35: layer 2/2, base field no. 230/1241, checking fields: 1
+[ Info: 72_35: layer 2/2, base field no. 230/1241, 1/1

@@ -1,0 +1,811 @@
+[ Info: 84_12: File for first layer does not exist; computing [2, 6]...
+[ Info: 84_12: Discriminant bound: 100000000000000000000
+[ Info: 84_12: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 84_12: 1/440
+[ Info: 84_12: 2/440
+[ Info: 84_12: 3/440
+[ Info: 84_12: 4/440
+[ Info: 84_12: 5/440
+[ Info: 84_12: 6/440
+[ Info: 84_12: 7/440
+[ Info: 84_12: 8/440
+[ Info: 84_12: 9/440
+[ Info: 84_12: 10/440
+[ Info: 84_12: 11/440
+[ Info: 84_12: 12/440
+[ Info: 84_12: 13/440
+[ Info: 84_12: 14/440
+[ Info: 84_12: 15/440
+[ Info: 84_12: 16/440
+[ Info: 84_12: 17/440
+[ Info: 84_12: 18/440
+[ Info: 84_12: 19/440
+[ Info: 84_12: 20/440
+[ Info: 84_12: 21/440
+[ Info: 84_12: 22/440
+[ Info: 84_12: 23/440
+[ Info: 84_12: 24/440
+[ Info: 84_12: 25/440
+[ Info: 84_12: 26/440
+[ Info: 84_12: 27/440
+[ Info: 84_12: 28/440
+[ Info: 84_12: 29/440
+[ Info: 84_12: 30/440
+[ Info: 84_12: 31/440
+[ Info: 84_12: 32/440
+[ Info: 84_12: 33/440
+[ Info: 84_12: 34/440
+[ Info: 84_12: 35/440
+[ Info: 84_12: 36/440
+[ Info: 84_12: 37/440
+[ Info: 84_12: 38/440
+[ Info: 84_12: 39/440
+[ Info: 84_12: 40/440
+[ Info: 84_12: 41/440
+[ Info: 84_12: 42/440
+[ Info: 84_12: 43/440
+[ Info: 84_12: 44/440
+[ Info: 84_12: 45/440
+[ Info: 84_12: 46/440
+[ Info: 84_12: 47/440
+[ Info: 84_12: 48/440
+[ Info: 84_12: 49/440
+[ Info: 84_12: 50/440
+[ Info: 84_12: 51/440
+[ Info: 84_12: 52/440
+[ Info: 84_12: 53/440
+[ Info: 84_12: 54/440
+[ Info: 84_12: 55/440
+[ Info: 84_12: 56/440
+[ Info: 84_12: 57/440
+[ Info: 84_12: 58/440
+[ Info: 84_12: 59/440
+[ Info: 84_12: 60/440
+[ Info: 84_12: 61/440
+[ Info: 84_12: 62/440
+[ Info: 84_12: 63/440
+[ Info: 84_12: 64/440
+[ Info: 84_12: 65/440
+[ Info: 84_12: 66/440
+[ Info: 84_12: 67/440
+[ Info: 84_12: 68/440
+[ Info: 84_12: 69/440
+[ Info: 84_12: 70/440
+[ Info: 84_12: 71/440
+[ Info: 84_12: 72/440
+[ Info: 84_12: 73/440
+[ Info: 84_12: 74/440
+[ Info: 84_12: 75/440
+[ Info: 84_12: 76/440
+[ Info: 84_12: 77/440
+[ Info: 84_12: 78/440
+[ Info: 84_12: 79/440
+[ Info: 84_12: 80/440
+[ Info: 84_12: 81/440
+[ Info: 84_12: 82/440
+[ Info: 84_12: 83/440
+[ Info: 84_12: 84/440
+[ Info: 84_12: 85/440
+[ Info: 84_12: 86/440
+[ Info: 84_12: 87/440
+[ Info: 84_12: 88/440
+[ Info: 84_12: 89/440
+[ Info: 84_12: 90/440
+[ Info: 84_12: 91/440
+[ Info: 84_12: 92/440
+[ Info: 84_12: 93/440
+[ Info: 84_12: 94/440
+[ Info: 84_12: 95/440
+[ Info: 84_12: 96/440
+[ Info: 84_12: 97/440
+[ Info: 84_12: 98/440
+[ Info: 84_12: 99/440
+[ Info: 84_12: 100/440
+[ Info: 84_12: 101/440
+[ Info: 84_12: 102/440
+[ Info: 84_12: 103/440
+[ Info: 84_12: 104/440
+[ Info: 84_12: 105/440
+[ Info: 84_12: 106/440
+[ Info: 84_12: 107/440
+[ Info: 84_12: 108/440
+[ Info: 84_12: 109/440
+[ Info: 84_12: 110/440
+[ Info: 84_12: 111/440
+[ Info: 84_12: 112/440
+[ Info: 84_12: 113/440
+[ Info: 84_12: 114/440
+[ Info: 84_12: 115/440
+[ Info: 84_12: 116/440
+[ Info: 84_12: 117/440
+[ Info: 84_12: 118/440
+[ Info: 84_12: 119/440
+[ Info: 84_12: 120/440
+[ Info: 84_12: 121/440
+[ Info: 84_12: 122/440
+[ Info: 84_12: 123/440
+[ Info: 84_12: 124/440
+[ Info: 84_12: 125/440
+[ Info: 84_12: 126/440
+[ Info: 84_12: 127/440
+[ Info: 84_12: 128/440
+[ Info: 84_12: 129/440
+[ Info: 84_12: 130/440
+[ Info: 84_12: 131/440
+[ Info: 84_12: 132/440
+[ Info: 84_12: 133/440
+[ Info: 84_12: 134/440
+[ Info: 84_12: 135/440
+[ Info: 84_12: 136/440
+[ Info: 84_12: 137/440
+[ Info: 84_12: 138/440
+[ Info: 84_12: 139/440
+[ Info: 84_12: 140/440
+[ Info: 84_12: 141/440
+[ Info: 84_12: 142/440
+[ Info: 84_12: 143/440
+[ Info: 84_12: 144/440
+[ Info: 84_12: 145/440
+[ Info: 84_12: 146/440
+[ Info: 84_12: 147/440
+[ Info: 84_12: 148/440
+[ Info: 84_12: 149/440
+[ Info: 84_12: 150/440
+[ Info: 84_12: 151/440
+[ Info: 84_12: 152/440
+[ Info: 84_12: 153/440
+[ Info: 84_12: 154/440
+[ Info: 84_12: 155/440
+[ Info: 84_12: 156/440
+[ Info: 84_12: 157/440
+[ Info: 84_12: 158/440
+[ Info: 84_12: 159/440
+[ Info: 84_12: 160/440
+[ Info: 84_12: 161/440
+[ Info: 84_12: 162/440
+[ Info: 84_12: 163/440
+[ Info: 84_12: 164/440
+[ Info: 84_12: 165/440
+[ Info: 84_12: 166/440
+[ Info: 84_12: 167/440
+[ Info: 84_12: 168/440
+[ Info: 84_12: 169/440
+[ Info: 84_12: 170/440
+[ Info: 84_12: 171/440
+[ Info: 84_12: 172/440
+[ Info: 84_12: 173/440
+[ Info: 84_12: 174/440
+[ Info: 84_12: 175/440
+[ Info: 84_12: 176/440
+[ Info: 84_12: 177/440
+[ Info: 84_12: 178/440
+[ Info: 84_12: 179/440
+[ Info: 84_12: 180/440
+[ Info: 84_12: 181/440
+[ Info: 84_12: 182/440
+[ Info: 84_12: 183/440
+[ Info: 84_12: 184/440
+[ Info: 84_12: 185/440
+[ Info: 84_12: 186/440
+[ Info: 84_12: 187/440
+[ Info: 84_12: 188/440
+[ Info: 84_12: 189/440
+[ Info: 84_12: 190/440
+[ Info: 84_12: 191/440
+[ Info: 84_12: 192/440
+[ Info: 84_12: 193/440
+[ Info: 84_12: 194/440
+[ Info: 84_12: 195/440
+[ Info: 84_12: 196/440
+[ Info: 84_12: 197/440
+[ Info: 84_12: 198/440
+[ Info: 84_12: 199/440
+[ Info: 84_12: 200/440
+[ Info: 84_12: 201/440
+[ Info: 84_12: 202/440
+[ Info: 84_12: 203/440
+[ Info: 84_12: 204/440
+[ Info: 84_12: 205/440
+[ Info: 84_12: 206/440
+[ Info: 84_12: 207/440
+[ Info: 84_12: 208/440
+[ Info: 84_12: 209/440
+[ Info: 84_12: 210/440
+[ Info: 84_12: 211/440
+[ Info: 84_12: 212/440
+[ Info: 84_12: 213/440
+[ Info: 84_12: 214/440
+[ Info: 84_12: 215/440
+[ Info: 84_12: 216/440
+[ Info: 84_12: 217/440
+[ Info: 84_12: 218/440
+[ Info: 84_12: 219/440
+[ Info: 84_12: 220/440
+[ Info: 84_12: 221/440
+[ Info: 84_12: 222/440
+[ Info: 84_12: 223/440
+[ Info: 84_12: 224/440
+[ Info: 84_12: 225/440
+[ Info: 84_12: 226/440
+[ Info: 84_12: 227/440
+[ Info: 84_12: 228/440
+[ Info: 84_12: 229/440
+[ Info: 84_12: 230/440
+[ Info: 84_12: 231/440
+[ Info: 84_12: 232/440
+[ Info: 84_12: 233/440
+[ Info: 84_12: 234/440
+[ Info: 84_12: 235/440
+[ Info: 84_12: 236/440
+[ Info: 84_12: 237/440
+[ Info: 84_12: 238/440
+[ Info: 84_12: 239/440
+[ Info: 84_12: 240/440
+[ Info: 84_12: 241/440
+[ Info: 84_12: 242/440
+[ Info: 84_12: 243/440
+[ Info: 84_12: 244/440
+[ Info: 84_12: 245/440
+[ Info: 84_12: 246/440
+[ Info: 84_12: 247/440
+[ Info: 84_12: 248/440
+[ Info: 84_12: 249/440
+[ Info: 84_12: 250/440
+[ Info: 84_12: 251/440
+[ Info: 84_12: 252/440
+[ Info: 84_12: 253/440
+[ Info: 84_12: 254/440
+[ Info: 84_12: 255/440
+[ Info: 84_12: 256/440
+[ Info: 84_12: 257/440
+[ Info: 84_12: 258/440
+[ Info: 84_12: 259/440
+[ Info: 84_12: 260/440
+[ Info: 84_12: 261/440
+[ Info: 84_12: 262/440
+[ Info: 84_12: 263/440
+[ Info: 84_12: 264/440
+[ Info: 84_12: 265/440
+[ Info: 84_12: 266/440
+[ Info: 84_12: 267/440
+[ Info: 84_12: 268/440
+[ Info: 84_12: 269/440
+[ Info: 84_12: 270/440
+[ Info: 84_12: 271/440
+[ Info: 84_12: 272/440
+[ Info: 84_12: 273/440
+[ Info: 84_12: 274/440
+[ Info: 84_12: 275/440
+[ Info: 84_12: 276/440
+[ Info: 84_12: 277/440
+[ Info: 84_12: 278/440
+[ Info: 84_12: 279/440
+[ Info: 84_12: 280/440
+[ Info: 84_12: 281/440
+[ Info: 84_12: 282/440
+[ Info: 84_12: 283/440
+[ Info: 84_12: 284/440
+[ Info: 84_12: 285/440
+[ Info: 84_12: 286/440
+[ Info: 84_12: 287/440
+[ Info: 84_12: 288/440
+[ Info: 84_12: 289/440
+[ Info: 84_12: 290/440
+[ Info: 84_12: 291/440
+[ Info: 84_12: 292/440
+[ Info: 84_12: 293/440
+[ Info: 84_12: 294/440
+[ Info: 84_12: 295/440
+[ Info: 84_12: 296/440
+[ Info: 84_12: 297/440
+[ Info: 84_12: 298/440
+[ Info: 84_12: 299/440
+[ Info: 84_12: 300/440
+[ Info: 84_12: 301/440
+[ Info: 84_12: 302/440
+[ Info: 84_12: 303/440
+[ Info: 84_12: 304/440
+[ Info: 84_12: 305/440
+[ Info: 84_12: 306/440
+[ Info: 84_12: 307/440
+[ Info: 84_12: 308/440
+[ Info: 84_12: 309/440
+[ Info: 84_12: 310/440
+[ Info: 84_12: 311/440
+[ Info: 84_12: 312/440
+[ Info: 84_12: 313/440
+[ Info: 84_12: 314/440
+[ Info: 84_12: 315/440
+[ Info: 84_12: 316/440
+[ Info: 84_12: 317/440
+[ Info: 84_12: 318/440
+[ Info: 84_12: 319/440
+[ Info: 84_12: 320/440
+[ Info: 84_12: 321/440
+[ Info: 84_12: 322/440
+[ Info: 84_12: 323/440
+[ Info: 84_12: 324/440
+[ Info: 84_12: 325/440
+[ Info: 84_12: 326/440
+[ Info: 84_12: 327/440
+[ Info: 84_12: 328/440
+[ Info: 84_12: 329/440
+[ Info: 84_12: 330/440
+[ Info: 84_12: 331/440
+[ Info: 84_12: 332/440
+[ Info: 84_12: 333/440
+[ Info: 84_12: 334/440
+[ Info: 84_12: 335/440
+[ Info: 84_12: 336/440
+[ Info: 84_12: 337/440
+[ Info: 84_12: 338/440
+[ Info: 84_12: 339/440
+[ Info: 84_12: 340/440
+[ Info: 84_12: 341/440
+[ Info: 84_12: 342/440
+[ Info: 84_12: 343/440
+[ Info: 84_12: 344/440
+[ Info: 84_12: 345/440
+[ Info: 84_12: 346/440
+[ Info: 84_12: 347/440
+[ Info: 84_12: 348/440
+[ Info: 84_12: 349/440
+[ Info: 84_12: 350/440
+[ Info: 84_12: 351/440
+[ Info: 84_12: 352/440
+[ Info: 84_12: 353/440
+[ Info: 84_12: 354/440
+[ Info: 84_12: 355/440
+[ Info: 84_12: 356/440
+[ Info: 84_12: 357/440
+[ Info: 84_12: 358/440
+[ Info: 84_12: 359/440
+[ Info: 84_12: 360/440
+[ Info: 84_12: 361/440
+[ Info: 84_12: 362/440
+[ Info: 84_12: 363/440
+[ Info: 84_12: 364/440
+[ Info: 84_12: 365/440
+[ Info: 84_12: 366/440
+[ Info: 84_12: 367/440
+[ Info: 84_12: 368/440
+[ Info: 84_12: 369/440
+[ Info: 84_12: 370/440
+[ Info: 84_12: 371/440
+[ Info: 84_12: 372/440
+[ Info: 84_12: 373/440
+[ Info: 84_12: 374/440
+[ Info: 84_12: 375/440
+[ Info: 84_12: 376/440
+[ Info: 84_12: 377/440
+[ Info: 84_12: 378/440
+[ Info: 84_12: 379/440
+[ Info: 84_12: 380/440
+[ Info: 84_12: 381/440
+[ Info: 84_12: 382/440
+[ Info: 84_12: 383/440
+[ Info: 84_12: 384/440
+[ Info: 84_12: 385/440
+[ Info: 84_12: 386/440
+[ Info: 84_12: 387/440
+[ Info: 84_12: 388/440
+[ Info: 84_12: 389/440
+[ Info: 84_12: 390/440
+[ Info: 84_12: 391/440
+[ Info: 84_12: 392/440
+[ Info: 84_12: 393/440
+[ Info: 84_12: 394/440
+[ Info: 84_12: 395/440
+[ Info: 84_12: 396/440
+[ Info: 84_12: 397/440
+[ Info: 84_12: 398/440
+[ Info: 84_12: 399/440
+[ Info: 84_12: 400/440
+[ Info: 84_12: 401/440
+[ Info: 84_12: 402/440
+[ Info: 84_12: 403/440
+[ Info: 84_12: 404/440
+[ Info: 84_12: 405/440
+[ Info: 84_12: 406/440
+[ Info: 84_12: 407/440
+[ Info: 84_12: 408/440
+[ Info: 84_12: 409/440
+[ Info: 84_12: 410/440
+[ Info: 84_12: 411/440
+[ Info: 84_12: 412/440
+[ Info: 84_12: 413/440
+[ Info: 84_12: 414/440
+[ Info: 84_12: 415/440
+[ Info: 84_12: 416/440
+[ Info: 84_12: 417/440
+[ Info: 84_12: 418/440
+[ Info: 84_12: 419/440
+[ Info: 84_12: 420/440
+[ Info: 84_12: 421/440
+[ Info: 84_12: 422/440
+[ Info: 84_12: 423/440
+[ Info: 84_12: 424/440
+[ Info: 84_12: 425/440
+[ Info: 84_12: 426/440
+[ Info: 84_12: 427/440
+[ Info: 84_12: 428/440
+[ Info: 84_12: 429/440
+[ Info: 84_12: 430/440
+[ Info: 84_12: 431/440
+[ Info: 84_12: 432/440
+[ Info: 84_12: 433/440
+[ Info: 84_12: 434/440
+[ Info: 84_12: 435/440
+[ Info: 84_12: 436/440
+[ Info: 84_12: 437/440
+[ Info: 84_12: 438/440
+[ Info: 84_12: 439/440
+[ Info: 84_12: 440/440
+[ Info: 84_12: layer 2/2, base field no. 1/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 1/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 1/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 1/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 2/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 2/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 2/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 3/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 3/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 4/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 4/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 5/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 5/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 5/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 6/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 6/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 7/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 7/143, checking fields: 7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 1/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 2/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 3/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 4/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 5/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 6/7
+[ Info: 84_12: layer 2/2, base field no. 7/143, 7/7
+[ Info: 84_12: layer 2/2, base field no. 8/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 8/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 8/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 8/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 8/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 9/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 9/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 9/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 10/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 10/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 10/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 11/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 11/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 11/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 11/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 11/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 12/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 12/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 13/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 13/143, checking fields: 4
+[ Info: 84_12: layer 2/2, base field no. 13/143, 1/4
+[ Info: 84_12: layer 2/2, base field no. 13/143, 2/4
+[ Info: 84_12: layer 2/2, base field no. 13/143, 3/4
+[ Info: 84_12: layer 2/2, base field no. 13/143, 4/4
+[ Info: 84_12: layer 2/2, base field no. 14/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 14/143, checking fields: 12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 1/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 2/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 3/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 4/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 5/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 6/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 7/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 8/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 9/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 10/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 11/12
+[ Info: 84_12: layer 2/2, base field no. 14/143, 12/12
+[ Info: 84_12: layer 2/2, base field no. 15/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 15/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 15/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 15/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 15/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 16/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 16/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 16/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 16/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 16/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 17/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 17/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 18/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 18/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 18/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 18/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 18/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 19/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 19/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 19/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 19/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 20/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 20/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 21/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 21/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 22/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 22/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 23/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 23/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 24/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 24/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 25/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 25/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 25/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 26/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 26/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 27/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 27/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 28/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 28/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 28/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 29/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 29/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 29/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 30/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 30/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 31/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 31/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 31/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 32/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 32/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 33/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 33/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 34/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 34/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 35/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 35/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 36/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 36/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 37/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 37/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 38/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 38/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 39/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 39/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 40/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 40/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 40/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 41/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 41/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 41/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 42/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 42/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 43/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 43/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 44/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 44/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 45/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 45/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 46/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 46/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 47/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 47/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 48/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 48/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 48/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 49/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 49/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 50/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 50/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 51/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 51/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 52/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 52/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 53/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 53/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 54/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 54/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 55/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 55/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 56/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 56/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 57/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 57/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 58/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 58/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 59/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 59/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 60/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 60/143, checking fields: 6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 1/6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 2/6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 3/6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 4/6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 5/6
+[ Info: 84_12: layer 2/2, base field no. 60/143, 6/6
+[ Info: 84_12: layer 2/2, base field no. 61/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 61/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 61/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 62/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 62/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 63/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 63/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 64/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 64/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 65/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 65/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 66/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 66/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 67/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 67/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 68/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 68/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 69/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 69/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 70/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 70/143, checking fields: 4
+[ Info: 84_12: layer 2/2, base field no. 70/143, 1/4
+[ Info: 84_12: layer 2/2, base field no. 70/143, 2/4
+[ Info: 84_12: layer 2/2, base field no. 70/143, 3/4
+[ Info: 84_12: layer 2/2, base field no. 70/143, 4/4
+[ Info: 84_12: layer 2/2, base field no. 71/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 71/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 71/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 71/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 71/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 72/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 72/143, checking fields: 3
+[ Info: 84_12: layer 2/2, base field no. 72/143, 1/3
+[ Info: 84_12: layer 2/2, base field no. 72/143, 2/3
+[ Info: 84_12: layer 2/2, base field no. 72/143, 3/3
+[ Info: 84_12: layer 2/2, base field no. 73/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 73/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 73/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 73/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 74/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 74/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 75/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 75/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 75/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 75/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 76/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 76/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 77/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 77/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 78/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 78/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 79/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 79/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 80/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 80/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 81/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 81/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 82/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 82/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 83/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 83/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 84/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 84/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 85/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 85/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 86/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 86/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 87/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 87/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 88/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 88/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 89/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 89/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 90/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 90/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 91/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 91/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 92/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 92/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 93/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 93/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 93/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 93/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 94/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 94/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 95/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 95/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 96/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 96/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 97/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 97/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 98/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 98/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 98/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 99/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 99/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 100/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 100/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 101/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 101/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 102/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 102/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 103/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 103/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 104/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 104/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 105/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 105/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 106/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 106/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 107/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 107/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 107/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 108/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 108/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 109/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 109/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 110/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 110/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 111/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 111/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 112/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 112/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 113/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 113/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 114/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 114/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 115/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 115/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 116/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 116/143, checking fields: 2
+[ Info: 84_12: layer 2/2, base field no. 116/143, 1/2
+[ Info: 84_12: layer 2/2, base field no. 116/143, 2/2
+[ Info: 84_12: layer 2/2, base field no. 117/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 117/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 118/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 118/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 119/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 119/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 120/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 120/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 121/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 121/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 122/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 122/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 123/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 123/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 124/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 124/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 125/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 125/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 126/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 126/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 127/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 127/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 128/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 128/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 129/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 129/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 130/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 130/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 131/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 131/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 132/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 132/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 133/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 133/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 134/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 134/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 135/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 135/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 136/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 136/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 137/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 137/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 138/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 138/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 139/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 139/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 140/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 140/143, checking fields: 1
+[ Info: 84_12: layer 2/2, base field no. 140/143, 1/1
+[ Info: 84_12: layer 2/2, base field no. 141/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 141/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 142/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 142/143, checking fields: 0
+[ Info: 84_12: layer 2/2, base field no. 143/143, constructing abelian extensions
+[ Info: 84_12: layer 2/2, base field no. 143/143, checking fields: 0
+22716.757742 seconds (20.93 G allocations: 7.381 TiB, 2.61% gc time, 0.10% compilation time: 1% of which was recompilation)

@@ -1,0 +1,10 @@
+[ Info: 72_38: File for first layer does not exist; computing [6, 6]...
+[ Info: 72_38: Discriminant bound: 3162277660168379332155987179763430758861800320172099494739968
+[ Info: 72_38: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 72_38: 1/6
+[ Info: 72_38: 2/6
+[ Info: 72_38: 3/6
+[ Info: 72_38: 4/6
+[ Info: 72_38: 5/6
+[ Info: 72_38: 6/6
+ 93.900074 seconds (510.81 M allocations: 29.419 GiB, 10.68% gc time, 14.19% compilation time: 2% of which was recompilation)
