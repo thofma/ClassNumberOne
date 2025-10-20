@@ -1,0 +1,5 @@
+[ Info: 64_266: File for first layer does not exist; computing [2, 2, 2, 2, 2]...
+[ Info: 64_266: Discriminant bound: 1000000000000000000033242152759321825093719625880829952
+[ Info: 64_266: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 64_266: 1/1
+ 16.388117 seconds (48.53 M allocations: 2.500 GiB, 8.23% gc time, 65.42% compilation time: 2% of which was recompilation)

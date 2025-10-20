@@ -1,0 +1,45 @@
+[ Info: 72_3: File for first layer does not exist; computing [9]...
+[ Info: 72_3: Discriminant bound: 1333521432163325
+[ Info: 72_3: Computing simplified defining polynomials for fields and sieving bad CM-fields
+[ Info: 72_3: 1/4
+[ Info: 72_3: 2/4
+[ Info: 72_3: 3/4
+[ Info: 72_3: 4/4
+[ Info: 72_3: layer 2/3, base field no. 1/4, constructing abelian extensions
+[ Info: 72_3: layer 2/3, base field no. 1/4, checking fields: 10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 1/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 2/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 3/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 4/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 5/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 6/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 7/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 8/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 9/10
+[ Info: 72_3: layer 2/3, base field no. 1/4, 10/10
+[ Info: 72_3: layer 2/3, base field no. 2/4, constructing abelian extensions
+[ Info: 72_3: layer 2/3, base field no. 2/4, checking fields: 0
+[ Info: 72_3: layer 2/3, base field no. 3/4, constructing abelian extensions
+[ Info: 72_3: layer 2/3, base field no. 3/4, checking fields: 0
+[ Info: 72_3: layer 2/3, base field no. 4/4, constructing abelian extensions
+[ Info: 72_3: layer 2/3, base field no. 4/4, checking fields: 6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 1/6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 2/6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 3/6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 4/6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 5/6
+[ Info: 72_3: layer 2/3, base field no. 4/4, 6/6
+[ Info: 72_3: layer 3/3, base field no. 1/4, constructing abelian extensions
+[ Info: 72_3: layer 3/3, base field no. 1/4, checking fields: 1
+[ Info: 72_3: layer 3/3, base field no. 1/4, 1/1
+[ Info: 72_3: layer 3/3, base field no. 2/4, constructing abelian extensions
+[ Info: 72_3: layer 3/3, base field no. 2/4, checking fields: 1
+[ Info: 72_3: layer 3/3, base field no. 2/4, 1/1
+[ Info: 72_3: layer 3/3, base field no. 3/4, constructing abelian extensions
+[ Info: 72_3: layer 3/3, base field no. 3/4, checking fields: 2
+[ Info: 72_3: layer 3/3, base field no. 3/4, 1/2
+[ Info: 72_3: layer 3/3, base field no. 3/4, 2/2
+[ Info: 72_3: layer 3/3, base field no. 4/4, constructing abelian extensions
+[ Info: 72_3: layer 3/3, base field no. 4/4, checking fields: 1
+[ Info: 72_3: layer 3/3, base field no. 4/4, 1/1
+849.456755 seconds (1.88 G allocations: 308.747 GiB, 3.89% gc time, 1.86% compilation time: 1% of which was recompilation)
